@@ -38,3 +38,8 @@
 - [Curl of the Dual Basis in Cylindrical and Spherical Coordinates](https://viadean.notion.site/Curl-of-the-Dual-Basis-in-Cylindrical-and-Spherical-Coordinates-2861ae7b9a32806abf4dc0b642429012?source=copy_link)
 - [Visualizing the Curl of Dual Bases in Curvilinear Coordinates](https://viadean.notion.site/Visualizing-the-Curl-of-Dual-Bases-in-Curvilinear-Coordinates-2861ae7b9a328053bb1ffa36fd79b3ee?source=copy_link)
 - [Curl of the Dual Basis is Always Zero](https://viadean.notion.site/Curl-of-the-Dual-Basis-is-Always-Zero-2861ae7b9a3280418a9ec625fc647c48?source=copy_link)
+
+## Language
+
+`Python` 
+
