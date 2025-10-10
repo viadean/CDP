@@ -1,6 +1,12 @@
 # Readme
 
-1. Proof of Covariant Index Anti-Symmetrisation
-1. Curl of the Dual Basis in Cylindrical and Spherical Coordinates
-1. Curl and Vector Cross-Product Identity in General Coordinates
+1. [Affine Transformations and the Orthogonality of Cartesian Rotations](https://viadean.notion.site/Affine-Transformations-and-the-Orthogonality-of-Cartesian-Rotations-2871ae7b9a32805e8268e6823e0341de?source=copy_link)
+
+1. [Proof of Covariant Index Anti-Symmetrisation](https://viadean.notion.site/Proof-of-Covariant-Index-Anti-Symmetrisation-2861ae7b9a3280a6ad31c9541271c425?source=copy_link)
+
+1. [Curl of the Dual Basis in Cylindrical and Spherical Coordinates](https://viadean.notion.site/Curl-of-the-Dual-Basis-in-Cylindrical-and-Spherical-Coordinates-2861ae7b9a32806abf4dc0b642429012?source=copy_link)
+
+1. [Curl and Vector Cross-Product Identity in General Coordinates](https://viadean.notion.site/Curl-and-Vector-Cross-Product-Identity-in-General-Coordinates-2851ae7b9a328010bec8f2f92a4a8ede?source=copy_link)
+
+   
 
