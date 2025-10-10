@@ -1,5 +1,7 @@
 # Readme
 
+## Published web
+
 1. [Affine Transformations and the Orthogonality of Cartesian Rotations](https://viadean.notion.site/Affine-Transformations-and-the-Orthogonality-of-Cartesian-Rotations-2871ae7b9a32805e8268e6823e0341de)
 
 1. [Proof of Covariant Index Anti-Symmetrisation](https://viadean.notion.site/Proof-of-Covariant-Index-Anti-Symmetrisation-2861ae7b9a3280a6ad31c9541271c425)
