@@ -8,7 +8,7 @@
 
 1. [Curl and Vector Cross-Product Identity in General Coordinates](https://viadean.notion.site/Curl-and-Vector-Cross-Product-Identity-in-General-Coordinates-2851ae7b9a328010bec8f2f92a4a8ede)
 
-1. Vanishing Divergence of the Levi-Civita Tensor
+1. [Vanishing Divergence of the Levi-Civita Tensor](https://viadean.notion.site/Vanishing-Divergence-of-the-Levi-Civita-Tensor-2851ae7b9a32803d8050fb9fdb5a6fd6)
 
    
 
