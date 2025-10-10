@@ -42,4 +42,4 @@ where the new translation vector $B^i$ is directly related to the original $A^{i
 
 ## Language
 
-`Pyt
+`Python`
