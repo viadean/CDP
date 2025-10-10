@@ -10,5 +10,7 @@
 
 1. [Vanishing Divergence of the Levi-Civita Tensor](https://viadean.notion.site/Vanishing-Divergence-of-the-Levi-Civita-Tensor-2851ae7b9a32803d8050fb9fdb5a6fd6)
 
+1. [Metric Determinant and Cross Product in Scaled Coordinates](https://viadean.notion.site/Metric-Determinant-and-Cross-Product-in-Scaled-Coordinates-2841ae7b9a3280b7808eebedda2af506)
+
    
 
