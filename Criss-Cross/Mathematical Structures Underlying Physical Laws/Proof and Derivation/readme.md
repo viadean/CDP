@@ -2,6 +2,8 @@
 
 ## Published web
 
+1. [Volume Elements in Non-Cartesian Coordinates (Jacobian Method)](https://viadean.notion.site/Volume-Elements-in-Non-Cartesian-Coordinates-Jacobian-Method-2881ae7b9a328083996edd1a66b98f93)
+
 1. [Fluid Mechanics Integrals for Mass and Motion](https://viadean.notion.site/Fluid-Mechanics-Integrals-for-Mass-and-Motion-2881ae7b9a32808ab76ee98b80a751d3)
 
 1. [Affine Transformations and the Orthogonality of Cartesian Rotations](https://viadean.notion.site/Affine-Transformations-and-the-Orthogonality-of-Cartesian-Rotations-2871ae7b9a32805e8268e6823e0341de)
@@ -16,5 +18,5 @@
 
 1. [Metric Determinant and Cross Product in Scaled Coordinates](https://viadean.notion.site/Metric-Determinant-and-Cross-Product-in-Scaled-Coordinates-2841ae7b9a3280b7808eebedda2af506)
 
-    
+     
 
