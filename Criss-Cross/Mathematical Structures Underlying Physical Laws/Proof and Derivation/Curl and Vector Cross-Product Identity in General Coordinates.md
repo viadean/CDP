@@ -24,13 +24,13 @@ $$ [v \times(\nabla \times w)]d=g{d c} g_{b e} \eta^{c a b} \eta^{e m n} v_a \pa
 
 The final step is simply summing this expression with the term where $v$ and $w$ are swapped. The key is that the entire vector operation is translated into a series of index contractions.
 
-### Audio
+### Tensor Formulation of Vector Calculus Operations | Audio
 
 [![Watch the video](https://img.youtube.com/vi/KbxIi_G3_kE/maxresdefault.jpg)](https://youtu.be/KbxIi_G3_kE)
 
 ### [Watch this video on YouTube](https://youtu.be/KbxIi_G3_kE)
 
-## Demonstration
+## how two dynamic inputs determine the covariant components of the resulting vector | Demo
 
 > The visualization effectively translates the complex, high-order tensor identity $Z =v \times(\nabla \times w)+w \times(\nabla \times v)$ into a dynamic geometric result. It demonstrates how the covariant components ( $Z_x$ and $Z_y$ ) of the resultant vector $Z$ are instantaneously determined by the relative orientation and interaction of the two input vector fields ( $v$ and $w$ ). The rotation of the inputs causes the magnitude and sign of the covariant components to fluctuate dynamically, proving that this complex identity represents an active, geometry-dependent coupling between the two vector fields and their rotational tendencies.
 

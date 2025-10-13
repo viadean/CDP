@@ -24,13 +24,13 @@
 
   For an incompressible material (like rubber), $\nu \approx 0.5$ (or 1 / 2 ). Substituting this value into the equation shows that the Bulk Modulus ( $K$ ) must approach infinity ( $K \rightarrow \infty$ ), which physically means an infinite pressure is required to change the material's volume.
 
-### Audio
+### The Interdependence of Elastic Constants | Audio
 
 [![Watch the video](https://img.youtube.com/vi/lWjlcCLTgL8/maxresdefault.jpg)](https://youtu.be/lWjlcCLTgL8)
 
 ### [Watch this video on YouTube](https://youtu.be/lWjlcCLTgL8)
 
-## Demonstration
+## Visualize how the Poisson's ratio approaches the incompressibility limit as the stiffness ratio increases | Demo
 
 > The visualization confirms the complete interdependency of the elastic constants ( $E, \nu, K, G$ ) by showing the simultaneous limiting behavior as the stiffness ratio ( $K / G$ ) increases. For near-incompressible materials ( $K \gg G$ ), two critical limits are reached: first, the Poisson's ratio ($\nu$) approaches 0.5 , signifying a maximum resistance to volume change (high $K$ ); and second, the Young's Modulus ( $E$ ) approaches $3 G$, establishing a fixed relationship between axial and shear stiffness that is independent of the increasingly dominant bulk modulus $K$. This combined behavior, characteristic of materials like rubber, means the material easily changes shape ( $G$ ) but strongly resists changes in volume ( $K$ ), with its overall stiffness ( $E$ ) being dictated solely by its shear rigidity ( $G$ ) in this limit.
 

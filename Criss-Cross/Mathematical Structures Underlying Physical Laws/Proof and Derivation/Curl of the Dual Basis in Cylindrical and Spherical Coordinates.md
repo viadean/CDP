@@ -19,13 +19,13 @@
 
    This mathematically validates the zero result in the physical component framework as well.
 
-### Audio
+### Curl of the Dual Basis is Always Zero | Audio
 
 [![Watch the video](https://img.youtube.com/vi/9RLNTWE61WI/maxresdefault.jpg)](https://youtu.be/9RLNTWE61WI)
 
 ### [Watch this video on YouTube](https://youtu.be/9RLNTWE61WI)
 
-## Demonstration
+## Visualizing the Curl of Dual Bases in Curvilinear Coordinates | Demo
 
 > This animation demonstrates how the curl behaves in cylindrical (polar) and spherical coordinate systems through visual comparison. The visualization bridges analytic expressions of curls in curvilinear coordinates with their geometric interpretations—clarifying how differential geometry encodes rotation and basis deformation across coordinate systems.
 

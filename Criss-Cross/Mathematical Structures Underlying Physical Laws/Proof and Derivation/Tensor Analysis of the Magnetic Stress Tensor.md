@@ -10,13 +10,13 @@
 - Tensor Substitution and Consistency: The final step (part c) shows how to translate physical equations from vector notation ( $B_i$ ) to tensor notation ( $F_{i j}$ ). This process requires expressing the scalar term $B^2$ as the trace of the tensor product, $B^2=\frac{1}{2} F_{i k} F_{k i}$, ensuring the final stress tensor equation, $T_{i k}$, is internally consistent and expressed purely in terms of the fundamental field tensor $F_{i j}$.
 - Maxwell Stress Tensor Structure: The final expression for the Maxwell stress tensor, $T_{i k} \propto\left(\ldots \delta_{i k}-F_{i j} F_{j k}\right)$, highlights its structure: it's composed of a term proportional to the identity tensor (representing pressure) and a term proportional to the tensor square of the field (representing tension/shear along the field lines).
 
-### Audio
+### Magnetic Stress Tensor via Field Tensors | Audio
 
 [![Watch the video](https://img.youtube.com/vi/AUKwF8zkG_A/maxresdefault.jpg)](https://youtu.be/AUKwF8zkG_A)
 
 ### [Watch this video on YouTube](https://youtu.be/AUKwF8zkG_A)
 
-## Demonstration
+## how the magnetic stress tensor decomposes to show that magnetic fields simultaneously exert tension and pressure | Demo
 
 > The visualizations powerfully confirm that the magnetic field tensor product ( $F_{i j} F_{j k}$ ) and the Maxwell Stress Tensor ( $T_{i k}$ ) are defined by the interplay between isotropic energy and field direction. The tensor product $F_{i j} F_{j k}$ is constructed by subtracting the highly directional dyadic product $\left(B_i B_k\right)$ from the uniform isotropic term $\left(B^2 \delta_{i k}\right)$. This leads to the fundamental physical interpretation of $T_{i k}$, which is composed of the dyadic term (representing tension/pulling force along the field lines) and the isotropic term (representing pressure perpendicular to the field lines). When the components are summed, the resulting $T_{i k}$ tensor is always positive along the field direction (net tension) and negative perpendicular to the field direction (net pressure/compression), precisely illustrating the classic physical effect of magnetic fields on surrounding media.
 

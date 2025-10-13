@@ -39,13 +39,13 @@
 
    $$ (v \times w)^1= 2 \left( v _{ 2 } w _{ 3 }- v _{ 3 } w _{ 2 }\right) $$
 
-### Audio
+### Impact of Coordinate Scaling on Metric and Cross Product | Audio
 
 [![Watch the video](https://img.youtube.com/vi/7rEu-3WLTBg/maxresdefault.jpg)](https://youtu.be/7rEu-3WLTBg)
 
 ### [Watch this video on YouTube](https://youtu.be/7rEu-3WLTBg)
 
-## Demonstration
+## the metric determinant scales vector operations | Demo
 
 > The dynamic movement in the animation clearly demonstrates the effect of the $1 / \sqrt{ g }= 2$ scaling factor. As the input covariant component $v _{ 3 }$ changes, the resulting Red Vector (the correct scaled cross product $u$ ) is visibly twice the magnitude of the Gray Vector (the unscaled, standard Cartesian cross product) for the resulting $u ^{ 1 }$ and $u ^{ 2 }$ components. This doubling confirms that the density $\eta^{ abc }=2 \varepsilon^{ abc }$ is correctly applied, ensuring the cross product result is geometrically correct within the transformed coordinate system. In essence, the metric must be incorporated to properly relate the covariant inputs to the contravariant output.
 

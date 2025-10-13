@@ -10,5 +10,3 @@
 8. [Curl of the Dual Basis in Cylindrical and Spherical Coordinates](https://viadean.notion.site/Curl-of-the-Dual-Basis-in-Cylindrical-and-Spherical-Coordinates-2861ae7b9a32806abf4dc0b642429012)
 9. [Curl and Vector Cross-Product Identity in General Coordinates](https://viadean.notion.site/Curl-and-Vector-Cross-Product-Identity-in-General-Coordinates-2851ae7b9a328010bec8f2f92a4a8ede)
 10. [Vanishing Divergence of the Levi-Civita Tensor](https://viadean.notion.site/Vanishing-Divergence-of-the-Levi-Civita-Tensor-2851ae7b9a32803d8050fb9fdb5a6fd6)
-
- [Surface Force for Two Equal Charges.md](Surface Force for Two Equal Charges.md) 

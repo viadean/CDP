@@ -9,13 +9,13 @@
 3. Divergence is a Contraction: The divergence of $\eta$ is a contraction of its covariant derivative ( $\nabla_{a_N} \eta^{a_1 \ldots a_N}$ ). Since the full covariant derivative is zero, the divergence must also be zero: $\nabla {\text {an }} \eta^{a_1 \ldots a{ N }}= 0$.
 4. General Principle : The identity $\nabla_{a_N} \eta^{a_1 \ldots a_N}=0$ is the geometric statement that the volume element is preserved under parallel transport, which is consistent with using a metric-compatible connection (the Levi-Civita connection).
 
-### Audio
+### Vanishing Divergence of the Levi-Civita Tensor Explained | Audio
 
 [![Watch the video](https://img.youtube.com/vi/JBaqBeWbDAI/maxresdefault.jpg)](https://youtu.be/JBaqBeWbDAI)
 
 ### [Watch this video on YouTube](https://youtu.be/JBaqBeWbDAI)
 
-## Demonstration
+## the totally antisymmetric tensor in a flat two-dimensional space | Demo
 
 > The totally antisymmetric tensor $\eta^{ ab }$ in flat two-dimensional space geometrically implements the Hodge Dual operation. This is visually confirmed by demonstrating that the transformed vector field (Red, $W = \eta V$ ) is consistently maintained at a $9 0 ^{ \circ }$ clockwise rotation relative to the input vector field (Blue, $V$ ), regardless of the input field's rotation or location. This illustrates how $\eta$ is used to establish duality relationships between vector spaces and their associated differential forms.
 

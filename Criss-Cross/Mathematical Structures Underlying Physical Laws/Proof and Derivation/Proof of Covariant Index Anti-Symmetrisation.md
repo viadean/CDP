@@ -10,13 +10,13 @@
 - Equivalence to Contravariant Anti-symmetrisation: This result is formally identical to the given relation where the anti-symmetrisation is applied to the contravariant indices $\left(\delta_{b_1 \ldots b_n}^{a_1 \ldots a_n}=n!\delta_{b_1}^{\left[a_1\right.} \ldots \delta_{b_n}^{\left.a_n\right]}\right)$, demonstrating the dual anti-symmetry property.
 - Role of $n!$ Factor: The factor $n!$ in the result exactly cancels the $\frac{1}{n!}$ factor present in the definition of the anti-symmetrisation operator, $\delta_{\left[b_1\right.}^{a_1} \ldots \delta_{\left.b_n\right]}^{a_n}$.
 
-### Audio
+### Dual Anti-Symmetry of the Generalised Kronecker Delta | Audio
 
 [![Watch the video](https://img.youtube.com/vi/osv9zjT3AGw/maxresdefault.jpg)](https://youtu.be/osv9zjT3AGw)
 
 ### [Watch this video on YouTube](https://youtu.be/osv9zjT3AGw)
 
-## Demonstration
+## What're geometric actions associated with antisymmetric tensors and symmetric tensors | Demo
 
 >  The fundamental difference between these two tensor types is that they govern the two primary ways a body can be transformed in space: change in shape versus change in orientation. The symmetric tensor is entirely responsible for deformation, executing actions like stretching, compression, and shearing, which transforms a symmetric body (like the unit sphere) into a deformed shape, such as an ellipsoid. In contrast, the antisymmetric tensor is the mathematical generator of pure rotation, applying a rigid rotation that alters the body's orientation without affecting its size or inherent shape. Every general second-rank tensor can be uniquely broken down into these two components, allowing physicists and engineers to analyze complex physical phenomena-like stress or fluid dynamics-by separating the distorting forces from the rotational ones.
 

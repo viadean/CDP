@@ -13,13 +13,13 @@
 - Parabolic Coordinates: The determinant involves a sum of squares, $\operatorname{det}( J )=-\left(s^2+t^2\right)$. Since $s^2+t^2$ is always positive, taking the absolute value is straightforward, resulting in $d V=\left(s^2+t^2\right) d t d s$.
 - Physical Interpretation: The determinant, often called the scale factor or metric factor, represents how the coordinate lines spread out in space. A larger value of $|\operatorname{det}( J )|$ means that a given change in the new coordinates ( $d u, d v$ ) corresponds to a larger physical area in the $x^1, x^2$ plane. In the parabolic system, the scaling is highest far from the origin where $s$ and $t$ are large.
 
-### Audio
+### Curvilinear Area Element Derivation via Jacobian | Audio
 
 [![Watch the video](https://img.youtube.com/vi/dF-BLCUm158/maxresdefault.jpg)](https://youtu.be/dF-BLCUm158)
 
 ### [Watch this video on YouTube](https://youtu.be/dF-BLCUm158)
 
-## Demonstration
+## Visualize the area element (the Jacobian determinant) helps illustrate how the transformation stretches or compresses space | Demo
 
 > Visualizing the area element, quantified by the Jacobian determinant ( $|\operatorname{det}(J)|$ ), is highly instructive as it clearly maps the local stretching or compression of space caused by a coordinate transformation. Since these transformations are static, a side-by-side comparison of the resulting area maps is more beneficial than an animation. The color intensity in the visualization directly represents the magnitude of the Jacobian, which is the factor by which the infinitesimal area in the transformed space ( $d u d v$ or $d t d s$ ) must be multiplied to yield the true Cartesian area (dA). For the Hyperbolic system, the Jacobian factor is $2|v|$, showing a linear increase in stretching (brighter color) as you move radially away from the origin (increasing $|v|$ ), with the lines being most stretched along the $x^1$ and $x^2$ axes. Conversely, the Parabolic system has a Jacobian of $t^2+s^2$, which is zero only at the origin and grows quadratically in all directions as you move away, resulting in a rapid, symmetric outward stretching of the parabolic grid lines.
 

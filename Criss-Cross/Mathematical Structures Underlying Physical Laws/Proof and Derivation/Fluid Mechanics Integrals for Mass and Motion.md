@@ -12,13 +12,13 @@
   - Angular Momentum Density is the vector quantity $\rho\left(x-x_0\right) \times v$, which is the mass density times the cross product of the relative position vector and the velocity vector.
 - Reference Point for Angular Momentum: Angular momentum is always defined relative to a specific reference point $x_0$. This is accounted for by using the relative position vector, $x-x_0$, in the integrand.
 
-### Audio
+### Mass Density as the Integrating Factor | Audio
 
 [![Watch the video](https://img.youtube.com/vi/Lb-yFrlDFjI/maxresdefault.jpg)](https://youtu.be/Lb-yFrlDFjI)
 
 ### [Watch this video on YouTube](https://youtu.be/Lb-yFrlDFjI)
 
-## Demonstration
+## visualize the density fields of Kinetic Energy Momentum and Angular Momentum as a function of time | Demo
 
 > The visualization highlights a fundamental difference between scalar and vector integrals in fluid dynamics, especially in a symmetric flow: vigorous internal fluid motion does not guarantee net linear momentum. In the case of the symmetric vortex modeled, the Total Kinetic Energy (a scalar integral) and the Total Angular Momentum (a vector quantity measured relative to the center) are large and non-zero. However, the Total Momentum (a vector integral, $\int \rho v d V$ ) is effectively zero. This occurs because the momentum vectors from one side of the rotation are perfectly canceled by the opposing momentum vectors on the other side, illustrating that symmetry in the velocity field leads to a zero net vector sum, even though the energy associated with that motion remains high.
 

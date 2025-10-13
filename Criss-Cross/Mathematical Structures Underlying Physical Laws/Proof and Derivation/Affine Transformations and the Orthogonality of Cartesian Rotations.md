@@ -20,13 +20,13 @@ where the new translation vector $B^i$ is directly related to the original $A^{i
 
 1. Meaning of Affine/Cartesian Transformation: An affine transformation that preserves the form of the metric (a Cartesian transformation) is specifically a rigid-body motion (rotation and translation) in Euclidean space.
 
-### Audio
+### The Orthogonality and Invariance of Cartesian Affine Transformations | Audio
 
 [![Watch the video](https://img.youtube.com/vi/KGn-qPIHpOc/maxresdefault.jpg)](https://youtu.be/KGn-qPIHpOc)
 
 ### [Watch this video on YouTube](https://youtu.be/KGn-qPIHpOc)
 
-## Demonstration
+## rigid-body motion using an orthogonal affine transformation | Demo
 
 > The use of an orthogonal matrix (R) in the affine transformation formula $\left( x ^{\prime}= R x + A \right)$ ensures that the transformation is a rigid-body motion. This means the object is only rotated and translated, and its intrinsic properties-specifically its shape, size, and internal distances-are perfectly preserved at all times during the animation. The animated demo is the fundamental relationship between linear algebra and geometry.
 
