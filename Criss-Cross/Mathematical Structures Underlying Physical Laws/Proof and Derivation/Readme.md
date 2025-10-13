@@ -1,6 +1,6 @@
 # Lists
 
-1. Surface Force for Two Equal Charges
+1. [Surface Force for Two Equal Charges](https://viadean.notion.site/Surface-Force-for-Two-Equal-Charges-28a1ae7b9a32801299e1db3440663a47)
 2. [Tensor Analysis of the Magnetic Stress Tensor](https://viadean.notion.site/Tensor-Analysis-of-the-Magnetic-Stress-Tensor-2891ae7b9a3280a5b818fb2e6651fa91)
 3. [Young's Modulus and Poisson's Ratio in Terms of Bulk and Shear Moduli](https://viadean.notion.site/Young-s-Modulus-and-Poisson-s-Ratio-in-Terms-of-Bulk-and-Shear-Moduli-2891ae7b9a3280719445efc94ef03120)
 4. [Volume Elements in Non-Cartesian Coordinates (Jacobian Method)](https://viadean.notion.site/Volume-Elements-in-Non-Cartesian-Coordinates-Jacobian-Method-2881ae7b9a328083996edd1a66b98f93)
@@ -11,3 +11,4 @@
 9. [Curl and Vector Cross-Product Identity in General Coordinates](https://viadean.notion.site/Curl-and-Vector-Cross-Product-Identity-in-General-Coordinates-2851ae7b9a328010bec8f2f92a4a8ede)
 10. [Vanishing Divergence of the Levi-Civita Tensor](https://viadean.notion.site/Vanishing-Divergence-of-the-Levi-Civita-Tensor-2851ae7b9a32803d8050fb9fdb5a6fd6)
 
+ [Surface Force for Two Equal Charges.md](Surface Force for Two Equal Charges.md) 
