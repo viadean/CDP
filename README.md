@@ -11,3 +11,5 @@
 ## Advanced Vector Calculus and Physical Dynamic
 
 1. Computing the Integral of a Static Electromagnetic Field
+
+
