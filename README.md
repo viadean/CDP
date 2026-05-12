@@ -13,4 +13,3 @@
 1. Computing the Integral of a Static Electromagnetic Field
 
 
-![h](https://pin.it/4mHMrAQze)
