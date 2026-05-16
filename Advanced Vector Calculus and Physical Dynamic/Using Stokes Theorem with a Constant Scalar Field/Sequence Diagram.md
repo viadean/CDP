@@ -1,6 +1,6 @@
 # Sequence Di
 
-# Vector Calculus Proofs and Physical Conservative Field Applications
+## Vector Calculus Proofs and Physical Conservative Field Applications
 
 > This sequence diagram illustrates the logical progression from the initial vector calculus proof to its physical applications and the various interactive demonstrations used to validate the results.
 
