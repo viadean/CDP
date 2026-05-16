@@ -1,4 +1,4 @@
-# Sequence Di
+# Sequence Diagram
 
 ## Vector Calculus Proofs and Physical Conservative Field Applications
 
