@@ -16,7 +16,8 @@ block
   block:group1:2
   columns 2
   D1("Mathematical Proof")D2("Demo Explanation")
-  D3("State Diagram")D4("Sequence Diagram")
+  D3("Mindmap")D4("State Diagram")
+  D5("Sequence Diagram")
   end
   %% 2-Illustration
   I("Illustrations.rar")
@@ -61,7 +62,7 @@ classDef CI fill:#7c7b68,stroke:#7c7b68,stroke-width:2px,color:#fff,font-size:15
 classDef CII fill:#95947e,stroke:#95947e,stroke-width:2px,color:#fff,font-size:15pt
 classDef CIII fill:#afae94,stroke:#afae94,stroke-width:2px,color:#fff,font-size:15pt
 
-class DS,D1,D2,D3,D4,I,I1 CI
+class DS,D1,D2,D3,D4,D5,I,I1 CI
 class CS,C1,C2,C3,C4,C5,C6,C7,C8,C9,C10,C11,C12,C13,C14,C15,C16,C17,C18,A,A1,A2,CD,CD1,CD2,CD3 CII
 class EQ,E,Q,S CIII
 ```
