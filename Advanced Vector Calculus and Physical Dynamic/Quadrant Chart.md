@@ -1,11 +1,110 @@
 # Quadrant Chart
 
+[E-Product Hub](https://payhip.com/CDP)
+
+
+
+
+
+## Quadrant 4: Rotating Fluid Flow (33)
+
+> - Rotating Fluid Flow (33): Verification of the Divergence Theorem for a Rotating Fluid Flow. 
+> - Quadrant 4 is the most "hands-on" section, applying the **Divergence Theorem** to calculate mass and flux through specific shapes like spheres (24, 25), cubes (25), and cylinders (27), as well as physical systems like rotating fluids (33).
+
+- [Verification of the Divergence Theorem for a Rotating Fluid Flow](https://viadean.notion.site/Verification-of-the-Divergence-Theorem-for-a-Rotating-Fluid-Flow-DT-RFF-2571ae7b9a328091ad62deba6f8d1715)
+- [Deliverables](https://payhip.com/b/Q9Zjy)
+
+```mermaid
+---
+config:
+  quadrantChart:
+    chartWidth: 800
+    chartHeight: 700
+  themeVariables:
+    quadrant1Fill: "#29331a"
+    quadrant2Fill: "#29331a"
+    quadrant3Fill: "#29331a"
+    quadrant4Fill: "#29331a"
+    quadrantInternalBorderStrokeFill: "#000"
+    quadrantExternalBorderStrokeFill: "#192a24"
+---
+quadrantChart
+    title Rotating Fluid Flow (33)
+    x-axis "Stokes / Circulation / Surface" --> "Divergence / Flux / Volume"
+    y-axis "Specific Geometries (Sphere, Cube, Cylinder)" --> "Theoretical & Generalized Proofs"
+    quadrant-1 "Generalized Volume Integrals"
+    quadrant-2 "Generalized Surface & Line Proofs"
+    quadrant-3 "Applied Circulation & Curl"
+    quadrant-4 "Applied Flux & Divergence"
+    "Power-Law Spherical Flux (24)": [0.85, 0.25]
+    "Cube vs. Sphere Mass (25)": [0.90, 0.15]
+    "Cylindrical Flux (27)": [0.80, 0.35]
+    "Surface to Volume Conversion (30)": [0.75, 0.70]
+    "Circulation vs. Surface Integral (31)": [0.20, 0.30]
+    "Stokes with Scalar Field (32)": [0.30, 0.65]
+    "Rotating Fluid Flow (33)":::spot: [0.70, 0.45]
+    "Curl-Free Field Integral (34)": [0.25, 0.80]
+    "Boundary-Driven Cancellation (35)": [0.55, 0.85]
+    "Generalized Curl Theorem (37)": [0.15, 0.95]
+
+    classDef spot color: #5a6d3d, radius : 20, stroke-color: #98a587, stroke-width: 10px
+```
+
+---
+
+## Quadrant 2: Helical & Continuous Flow (P33 Demos)
+
+> - Helical & Continuous Flow (P33 Demos): A Unified Computational Study of Flux Continuity and Vorticity
+> - **Helical and Continuous Flow** utilise **paddlewheel indicators** to distinguish between rigid-body rotation and irrotational vortices. **Geometric Flux** and **Non-Planar Circulation** provide interactive demos of mass flux and 3D "saddle" loops.
+
+- [Verification of the Divergence Theorem for a Rotating Fluid Flow](https://viadean.notion.site/Verification-of-the-Divergence-Theorem-for-a-Rotating-Fluid-Flow-DT-RFF-2571ae7b9a328091ad62deba6f8d1715)
+- [Deliverables](https://payhip.com/b/Q9Zjy)
+
+```mermaid
+---
+config:
+  quadrantChart:
+    chartWidth: 800
+    chartHeight: 700
+  themeVariables:
+    quadrant1Fill: "#104d18"
+    quadrant2Fill: "#104d18"
+    quadrant3Fill: "#104d18"
+    quadrant4Fill: "#104d18"
+    quadrantInternalBorderStrokeFill: "#000"
+    quadrantExternalBorderStrokeFill: "#192a24"
+---
+quadrantChart
+    title Helical & Continuous Flow (P33 Demos)
+    x-axis "Applied Visualisation" --> "Theoretical Proof/Logic"
+    y-axis "Structural/Static" --> "Dynamic/Flux-based"
+    quadrant-1 "Theorem Logic & Boundary Laws"
+    quadrant-2 "Interactive Flow Simulations"
+    quadrant-3 "Structural Mapping & Volumes"
+    quadrant-4 "Symmetry & Integral Principles"
+
+    "Spherical Flux (P24 Demos)": [0.25, 0.35]
+    "Mass & Density Mapping (P25 Demos)": [0.15, 0.20]
+    "Geometric Flux (P27 Demos)": [0.30, 0.85]
+    "Surface to Volume (P30 Demos)": [0.75, 0.40]
+    "Non-Planar Circulation (P31 Demos)": [0.20, 0.75]
+    "Stokes' Theorem Proofs (P32 Demos)": [0.85, 0.90]
+    "Helical & Continuous Flow (P33 Demos)":::spot: [0.10, 0.95]
+    "Energy Orthogonality (P34 Demos)": [0.70, 0.25]
+    "Singularity Management (P35 Demos)": [0.80, 0.15]
+    "Generalized Curl Theorem (P37 Demos)": [0.90, 0.80]
+ 
+classDef spot color: #2b9e3a, radius : 20, stroke-color: #75bc78, stroke-width: 10px
+```
+
+
+
 ## Quadrant 2: Stokes with Scalar Field (P32)
 
 > This proof is that the integral vanishes because the integrand can be rewritten as the curl of a vector field ($\phi \nabla \psi$). This allows the application of Stokes' Theorem, shifting the focus from the entire surface S to its boundary C. Since $\phi$ is constant on that boundary, it acts as a uniform scaling factor that can be moved outside the integral, leaving only the circulation of a gradient field ($$\nabla \psi$) around a closed loop. Because gradient fields are conservative, their path integral around any closed loop is identically zero, regardless of the complexity of the surface or the specific nature of the scalar fields involved.
 
-- Deliverables: https://payhip.com/b/io8GT
-- E-Product Hub: https://payhip.com/CDP
+- [Using Stokes' Theorem with a Constant Scalar Field](https://viadean.notion.site/Using-Stokes-Theorem-with-a-Constant-Scalar-Field-ST-CSF-2561ae7b9a328056bcc5dc2e105a1c35?source=copy_link)
+- [Deliverables](https://payhip.com/b/io8GT)
 
 ```mermaid
 ---
@@ -48,8 +147,8 @@ quadrantChart
 > - Stokes' Theorem Proofs (P32 Demos): Conservative Fields-The Zero Line Integral and Work Conservation.
 > - This quadrant contains the foundational proofs of integral calculus. Stokes' Theorem Proofs establish how work cancellation occurs in conservative forces, while the Generalized Curl Theorem provides the theoretical proof of topological independence, showing that results remain constant whether calculated over simple hemispheres or complex "rippled bowls".
 
-- Deliverables: https://payhip.com/b/io8GT
-- E-Product Hub: https://payhip.com/CDP
+- [Using Stokes' Theorem with a Constant Scalar Field](https://viadean.notion.site/Using-Stokes-Theorem-with-a-Constant-Scalar-Field-ST-CSF-2561ae7b9a328056bcc5dc2e105a1c35?source=copy_link)
+- [Deliverables](https://payhip.com/b/io8GT)
 
 ```mermaid
 ---
