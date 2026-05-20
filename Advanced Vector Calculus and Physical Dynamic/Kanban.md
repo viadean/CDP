@@ -40,10 +40,10 @@ kanban
     Demo 5 Shape Profile@{assigned: Shape5}
     Demo 6 Shape Profile@{assigned: Shape6}
     Demo 7 Shape Profile@{assigned: Shape7}
-    Derivation sheet Shape Profile@{assigned: Shape4}
-    Mindmap Shape Profile@{assigned: Shape5}
-    State Diagram Shape Profile@{assigned: Shape6}
-    Sequence Diagram Shape Profile@{assigned: Shape7}
+    Derivation sheet Shape Profile@{assigned: Shape8}
+    Mindmap Shape Profile@{assigned: Shape9}
+    State Diagram Shape Profile@{assigned: Shape10}
+    Sequence Diagram Shape Profile@{assigned: Shape11}
   ***IllustraDemo***
     How Divergence and Curl Define Flow@{assigned: Narrademo}
     Visualizing Fluid Dynamics How Vector Calculus Explains Flow@{assigned: Illustrademo}
