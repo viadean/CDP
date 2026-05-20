@@ -12,6 +12,55 @@
 
 - [Deliverables](https://payhip.com/b/Q9Zjy)
 
+```mermaid
+---
+config:
+ kanban:
+  sectionWidth: 260
+---
+kanban
+  ***Derivation Sheet***
+   Verification of the Divergence Theorem for a Rotating Fluid Flow@{assigned: Primary}
+   Pedagogical Visualization of Vector Calculus and Fluid Dynamics@{assigned: SequenceDiagram}
+  ***Resulmation***
+    A Unified Computational Study of Flux Continuity and Vorticity@{assigned: Demostrate}
+    Helical Fluid Flow@{assigned: Demo1}
+    Diverging Fluid Flow@{assigned: Demo2}
+    Continuity Equation-Density fading@{assigned: Demo3}
+    Continuity Equation-Density increasing@{assigned: Demo4}
+    Vorticity(Rigid Body Rotation)@{assigned: Demo5}
+    Irrotational Vortex (No Local Rotation)@{assigned: Demo6}
+    Divergence Theorem Visualization@{assigned: Demo7}
+    Dynamics and Transitions in Fluid Flow Visualization@{assigned: StateDiagram}
+  ***GeoMetrics***
+    Demo 1 Shape Profile@{assigned: Shape1}
+    Demo 2 Shape Profile@{assigned: Shape2}
+    Demo 3 Shape Profile@{assigned: Shape3}
+    Demo 4 Shape Profile@{assigned: Shape4}
+    Demo 5 Shape Profile@{assigned: Shape5}
+    Demo 6 Shape Profile@{assigned: Shape6}
+    Demo 7 Shape Profile@{assigned: Shape7}
+    Derivation sheet Shape Profile@{assigned: Shape4}
+    Mindmap Shape Profile@{assigned: Shape5}
+    State Diagram Shape Profile@{assigned: Shape6}
+    Sequence Diagram Shape Profile@{assigned: Shape7}
+  ***IllustraDemo***
+    How Divergence and Curl Define Flow@{assigned: Narrademo}
+    Visualizing Fluid Dynamics How Vector Calculus Explains Flow@{assigned: Illustrademo}
+    The Physics of Flow Visualising Vector Calculus in Fluid Dynamics@{assigned: Illustragram}
+    The Fluid Lens: Mapping Mathematical Flow and Physical Reality@{assigned: Seqillustrate}
+  ***Ex-Demo***
+    The Mechanics of Helical Flow and Fluid Dynamics@{assigned: Flowscript}
+    Fluid Dynamics and Divergence Verification@{assigned: Flowchart}
+    The Mechanics of Fluid Flow and Vector Fields@{assigned: Mindmap}
+  ***Narr-graphic***
+    Divergence and Curl Analysis@{assigned: Flowstra}
+    The Mechanics of Fluid Dynamics and Rotational Flow@{assigned: Statestra}
+    Cylindrical Fluid Flow Flux Verification@{assigned: ChartMeld}
+```
+
+
+
 ## Geometric Equilibrium: Mathematical Proofs and Physical Visualizations of Stokes' Theorem
 
 > The document serves as a master layout for an educational module. It seamlessly bridges advanced mathematical theory (**Stokes' Theorem, scalar fields, and surface integrals**) with physical realities (**conservative forces, work conservation, and equilibrium**) using a highly visual framework of charts, flowscripts, and shape profiles.
