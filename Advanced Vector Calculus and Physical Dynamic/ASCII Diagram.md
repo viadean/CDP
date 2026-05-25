@@ -24,10 +24,10 @@
           ▼                         ────▼────                       │      /   (Immortal)
          / \   Lines 5-6                │                           │     /
         /   \  [The Vortex]             ▼                           │    * [Stage 3]
-        \   /                         ◢◤ ◥◣                         │   /  Singularity
-         \ /                         ◤     ◥  Lines 5-8             │  /   (Paradox)
-          │                          ◣     ◢  [The Helix]  ─────────┼─*──────────────► X-Axis
-          ▼                           ◥◣ ◢◤                         │ . [Stage 2]   (Material
+        \   /                         ◢◤ ◥◣                       │   /  Singularity
+         \ /                         ◤     ◥  Lines 5-8            │  /   (Paradox)
+          │                          ◣     ◢  [The Helix]  ────────┼─*──────────────► X-Axis
+          ▼                           ◥◣ ◢◤                       │ . [Stage 2]   (Material
         │ │ │  Lines 7-8                │                           │.  2D Curve     Labor)
         │ │ │  [Pillars]                ▼                           * [Stage 1] 1D Grid
           │                        ─────────── Lines 9-10           
