@@ -2,6 +2,8 @@
 
 [E-Product Hub](https://payhip.com/CDP)
 
+
+
 ## The Structural Analysis Matrix of Sifting Muddy Currents
 
 > These files detail a multidisciplinary analysis of the poem "Sifting Muddy Currents," which synthesizes the English heroic couplet with Chinese *Lüshi* philosophy into a ten-line, 4-4-2 vertical block matrix. This structural evolution is interpreted through three distinct geometric frameworks: a mechanical meter that morphs from a rigid monolithic cube into an expanding sphere; a semantic arc that transitions from a restrictive funnel of linguistic refinement into a self-referential double-helix paradox and an infinite horizon; and a dialectic journey that ascends from a one-dimensional axis through a singularity point into a three-dimensional manifold. Sentiment analysis further characterises the poem’s emotional trajectory as an "Eastern Transcendent Arc," moving from high-friction tension and negative valence toward a state of expansive, low-arousal liberation, which is contrasted with the "U-shaped" crisis-and-resolution models typical of Western poetry. To formalize these concepts, the files provide technical architectures for Python-based animations using Matplotlib, employing particle systems, sigmoidal morphing, and parametric equations to visually simulate the poem's shift from material constraints to spiritual transcendence.
