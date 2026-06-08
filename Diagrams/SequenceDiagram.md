@@ -2,13 +2,52 @@
 
 [E-Product Hub](https://payhip.com/CDP)
 
+---
 
+## Derivation and Verification of Energy Orthogonality
+
+> This sequence diagram outlines the logical flow of the mathematical derivation provided in the sources, followed by its verification through the three demonstrations.
+
+- [Integral of a Curl-Free Vector Field](https://viadean.notion.site/Integral-of-a-Curl-Free-Vector-Field-CVF-2571ae7b9a3280d8a368c3ffac5d0b26?source=copy_link)
+- [Deliverables](https://payhip.com/b/tgrVH)
+
+```mermaid
+sequenceDiagram
+    autonumber
+    participant Theory as Vector Field Theory
+    participant Calc as Integral Expression (I)
+    participant Geom as Divergence Theorem
+    participant Bound as Boundary Constraints
+    participant Demos as Numerical Simulations
+
+    Note over Theory, Bound: Phase 1: The Mathematical Derivation
+    Theory->>Calc: Provide v = ∇φ (Curl-free)
+    Theory->>Calc: Provide ∇·w = 0 (Divergence-free)
+    Calc->>Calc: Apply identity: (∇φ)·w = ∇·(φw) - φ(∇·w)
+    Calc->>Calc: Eliminate 2nd term (since ∇·w = 0)
+    Calc->>Geom: Pass remaining Volume Integral: ∫ ∇·(φw) dV
+    Geom->>Bound: Convert to Surface Integral: ∮ φ(w·n) dS
+    Bound->>Calc: Apply Ideal BC: w·n = 0
+    Calc-->>Theory: Result: I = 0 (Energy Orthogonality)
+
+    Note over Calc, Demos: Phase 2: Experimental Verification
+    Theory->>Demos: Initialize Helmholtz Decomposition
+    Demos->>Demos: Demo 1: Visualise I ≈ 0 (Green State)
+    Demos->>Demos: Demo 2: Violate w·n = 0 (Boundary Leakage)
+    Demos->>Demos: Demo 3: Quantify Energy Coupling (Red State)
+    Demos-->>Theory: Conclusion: Orthogonality depends on Boundaries
+```
+
+
+
+---
 
 ## Pedagogical Visualization of Vector Calculus and Fluid Dynamics
 
-> The sequence diagram illustrates the pedagogical progression of the demonstrations, moving from basic helical flow visualization to the complex physical analysis of divergence, mass conservation, and vorticity. --- [Verification of the Divergence Theorem for a Rotating Fluid Flow](https://viadean.notion.site/Verification-of-the-Divergence-Theorem-for-a-Rotating-Fluid-Flow-DT-RFF-2571ae7b9a328091ad62deba6f8d1715)
+> The sequence diagram illustrates the pedagogical progression of the demonstrations, moving from basic helical flow visualization to the complex physical analysis of divergence, mass conservation, and vorticity.
 
-- Deliverables: https://payhip.com/b/Q9Zjy
+- [Verification of the Divergence Theorem for a Rotating Fluid Flow](https://viadean.notion.site/Verification-of-the-Divergence-Theorem-for-a-Rotating-Fluid-Flow-DT-RFF-2571ae7b9a328091ad62deba6f8d1715)
+- [Deliverables](https://payhip.com/b/Q9Zjy)
 
 ```mermaid
 sequenceDiagram
