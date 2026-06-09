@@ -4,6 +4,49 @@
 
 
 
+## Helmholtz Decomposition & Energy Orthogonality
+
+> This state diagram illustrates the purposeful progression from the theoretical foundation of Helmholtz Decomposition to the visual and numerical demonstrations of energy orthogonality and its breakdown.
+
+- [Integral of a Curl-Free Vector Field](https://viadean.notion.site/Integral-of-a-Curl-Free-Vector-Field-CVF-2571ae7b9a3280d8a368c3ffac5d0b26?source=copy_link)
+- [Deliverables](https://payhip.com/b/tgrVH)
+
+```mermaid
+stateDiagram-v2
+
+    [*] --> Example1: Establish Mathematical Foundation
+    
+    state Example1 {
+        Theory: Irrotational vs. Solenoidal Decomposition
+    }
+    
+    Example1 --> Demo1: Apply strict condition (w · n = 0)
+    
+    state Demo1 {
+        IdealState: Energy Orthogonality (Total = Sum)
+    }
+
+    Demo1 --> Demo2: Violate condition (w · n ≠ 0)
+
+    state Demo2 {
+        CoupledState: Energy Coupling & Loss of Uniqueness
+    }
+
+    Demo2 --> Demo3: Quantify with "Boundary Leakage"
+
+    state Demo3 {
+        TransitionState: Visualizing the Numerical "Energy Gap"
+    }
+
+    Demo3 --> [*]
+```
+
+
+
+
+
+---
+
 ## The Behavioral Chasm: Why the AI “Coworker” Wave Will Be a Slow Enterprise Slog
 
 > While six tech giants rushed to build the exact same autonomous agentic harness over a four-month window, they designed them based on how *developers* use tools like `Claude Code`. The true bottleneck to mass enterprise adoption is that standard knowledge workers (in HR, finance, marketing, or ops) do not live in terminals; they now have to learn an entirely new human skill set: the art of delegation, background supervision, and strict auditing rather than relying on keystroke-by-keystroke creation.
