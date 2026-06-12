@@ -4,7 +4,49 @@
 
 ---
 
+## Field Divergence Framework
 
+> These files provide a comprehensive pedagogical structure for investigating boundary-driven cancellation in vector field integrals, specifically addressing the mathematical challenges of power-law singularities. Through a series of four interconnected demonstrations, the project guides learners from analytical proofs—using the Divergence Theorem to identify scalar field potential—to advanced visual simulations that contrast finite, well-behaved flux against divergent "blow-up" scenarios. By establishing a state-machine architecture that enforces an "exclusion zone" around the origin, the framework ensures analytical stability while using dimensional projections and high-contrast heatmap visualizations to make complex gradient dynamics and potential wells intuitively accessible.
+
+- [Boundary-Driven Cancellation in Vector Field Integrals](https://viadean.notion.site/Boundary-Driven-Cancellation-in-Vector-Field-Integrals-2571ae7b9a3280d9a9b3c8dafd8a5fe6?source=copy_link)
+- [Deliverables](https://payhip.com/b/y3FbU)
+
+```mermaid
+block
+columns 2
+D("Derivaiton & Diagrams.md")
+block:group1:2
+columns 3
+D1("Mathematical Proof")D2("Singularity Analysis")
+D3("Visual Demos")D4("Mindmap\nState\nSequence Diagram")
+D5("Technical Architecture")D6("Component Breakdown")
+D7("Pedagogical Expansion")D8("Quadrant Analysis")
+D9("ERD")D10("Learning Progression")
+D11("Derivation Sheets")
+end
+
+%%S("Snippets.rar")
+block:group2:1
+columns 1
+S1("Thirteen Snippets.py")
+end
+
+%%A("Animations.rar")
+block:group3:2
+columns 1
+A1("Four Animated Results.mp4")A2("Thirteen Plottings.png")
+end
+
+classDef CI fill:#00516c,stroke:#000,stroke-width:2px,color:#fff,font-size:15pt
+classDef CII fill:#00607f,stroke:#000,stroke-width:2px,color:#fff,font-size:15pt
+classDef CIII fill:#007093,stroke:#000,stroke-width:2px,color:#fff,font-size:15pt
+
+class D,D1,D2,D3,D4,D5,D6,D7,D8,D9,D10,D11 CI
+class S,S1 CII
+class A,A1,A2 CIII
+```
+
+---
 
 ## Helmholtz Decomposition and Vector Field Orthogonality: Theoretical Frameworks and Simulations
 
