@@ -2,6 +2,48 @@
 
 [E-Product Hub](https://payhip.com/CDP)
 
+
+
+## The Uniqueness Synthesis: Deterministic Constraint Mapping
+
+> The documents explore the mathematical proof and practical implications of the Vanishing Curl Integral, a foundational concept that demonstrates how specific volume and boundary constraints force the rotational energy of a vector field to zero. This result acts as a critical "Uniqueness Lock," bridging abstract vector calculus identities with the Helmholtz Decomposition Theorem to establish that a vector field is uniquely determined by its divergence, curl, and environmental boundaries. Through Analytics and visual simulations of "difference fields," the materials illustrate that alternative field configurations are physically impossible, effectively reducing complex systems to "singular, solved puzzles" where local source characteristics and global topological boundaries leave zero degrees of freedom for variation.
+
+- [The Vanishing Curl Integral](https://viadean.notion.site/The-Vanishing-Curl-Integral-2581ae7b9a3280dc9fa6d8e97bba66e1?source=copy_link)
+- [Deliverables](https://payhip.com/b/tj6sD)
+
+```mermaid
+block
+columns 2
+block:group1:2
+columns 3
+F1("Mathematical Proof")F2("Visual Frameworks")
+F3("Demonstration Scenarios")F4("Advanced Visual & Analytical Frameworks")
+F5(" Dependency Depth")F6(" Constraint Saturation")
+F7(" DivergenceCurl Coupling")F8(" Semantic Convergence")
+F9(" Information Entropy")F10(" Mathematical Determinism")
+F11(" Decoupling strategy")F12(" Energy Minimization")
+F13(" Universal Applicability")F14(" Logical Synthesis")
+end
+block:group2:1
+columns 1
+S1("Thirteen Snippets.py")S2("Five Scripts")
+end
+block:group3:1
+columns 1
+P1("Two Animated Results.mp4")P2("Sixteen Plottings.png")
+end
+
+classDef CI fill:#00432D,stroke:#000,stroke-width:2px,color:#fff,font-size:15pt
+classDef CII fill:#22543F,stroke:#000,stroke-width:2px,color:#fff,font-size:15pt
+classDef CIII fill:#3A6652,stroke:#000,stroke-width:2px,color:#fff,font-size:15pt
+
+class F1,F2,F3,F4,F5,F6,F7,F8,F9,F10,F11,F12,F13,F14 CI
+class S1,S2 CII
+class P1,P2 CIII
+```
+
+
+
 ---
 
 ## Field Divergence Framework
