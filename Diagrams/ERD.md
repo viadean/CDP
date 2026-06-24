@@ -4,6 +4,52 @@
 
 
 
+## The Uniqueness "Lock"
+
+### Architectural Mapping of the Uniqueness Theorem Synthesis
+
+> The "Architectural Mapping of the Uniqueness Theorem Synthesis" organizes vector calculus into a three-layered hierarchy—Foundation, Intermediate, and Synthesis—to demonstrate how foundational identities evolve into system-wide theorems. At the foundational level, the framework establishes null identities (where the curl of a gradient and divergence of a curl equal zero) and the dynamics of position vectors, which serve as building blocks for complex relationships like the double curl identity and the conditions for harmonicity. The mapping culminates in the Uniqueness Theorem, presented as an emergent property that "locks" a vector field only when its divergence, curl, and boundary conditions (Neumann or Dirichlet) are specified. This structural approach highlights a "Critical Path" where high-level dependencies, such as Helmholtz Decomposition, unify to ensure a vector field is completely determined.
+
+- [The Vanishing Curl Integral](https://viadean.notion.site/The-Vanishing-Curl-Integral-2581ae7b9a3280dc9fa6d8e97bba66e1?source=copy_link)
+- [Deliverables](https://payhip.com/b/tj6sD)
+
+```mermaid
+---
+config:
+ layout: elk
+---
+erDiagram
+    VECTOR-FIELD ||--o{ DIVERGENCE-OPERATOR : "defines local outflow (Proofs 11, 12)"
+    VECTOR-FIELD ||--o{ CURL-OPERATOR : "defines local rotation (Proofs 11, 13)"
+    SCALAR-POTENTIAL ||--|| GRADIENT-OPERATOR : "generates conservative field (Proofs 13, 17)"
+    GRADIENT-OPERATOR ||--o| CURL-OPERATOR : "vanishes via null identity (Proofs 13, 12)"
+    CURL-OPERATOR ||--o| DIVERGENCE-OPERATOR : "vanishes via null identity (Proofs 13, 12)"
+    CURL-OPERATOR ||--o{ DOUBLE-CURL-IDENTITY : "is expanded by (Proofs 14, 36)"
+    DIVERGENCE-OPERATOR ||--o{ DOUBLE-CURL-IDENTITY : "is expanded by (Proofs 14)"
+    LAPLACIAN-OPERATOR ||--o{ DOUBLE-CURL-IDENTITY : "is expanded by (Proofs 14)"
+    LAPLACIAN-OPERATOR ||--|| SCALAR-POTENTIAL : "defines harmonicity/Laplace Eq (Proofs 18)"
+    POSITION-VECTOR ||--o{ DIVERGENCE-OPERATOR : "yields constant value 3 (Proofs 11, 12)"
+    POSITION-VECTOR ||--o{ EULER-HOMOGENEOUS-THEOREM : "governs radial scaling (Proofs 19)"
+    POSITION-VECTOR ||--o{ ANGULAR-MOMENTUM-OPERATOR : "forms cross product with Gradient (Proofs 17)"
+    BOUNDARY-CONDITIONS ||--|| UNIQUENESS-THEOREM : "anchors field state (Proofs 47, 36)"
+    DIVERGENCE-OPERATOR ||--|| UNIQUENESS-THEOREM : "is a required constraint for (Proofs 47)"
+    CURL-OPERATOR ||--|| UNIQUENESS-THEOREM : "is a required constraint for (Proofs 47)"
+    HELMHOLTZ-DECOMPOSITION ||--o{ CURL-OPERATOR : "resolves solenoidal parts (Proofs 36)"
+
+classDef DeepCyan fill:#008585,stroke:#008585,stroke-width:2px,color:#fff,font-size:15pt
+classDef Darkblue fill:#183e4b,stroke:#183e4b,stroke-width:2px,color:#fff,font-size:15pt
+classDef BokChoy fill:#5b6654,stroke:#5b6654,stroke-width:2px,color:#fff,font-size:15pt
+classDef Cypress fill:#526a40,stroke:#526a40,stroke-width:2px,color:#fff,font-size:15pt
+
+
+class CURL-OPERATOR,DOUBLE-CURL-IDENTITY, BOUNDARY-CONDITIONS, UNIQUENESS-THEOREM, HELMHOLTZ-DECOMPOSITION Darkblue 
+
+```
+
+
+
+
+
 ## Vector Field Properties | Cancellation and Orthogonality 
 
 > Proof 34: Integral of a Curl-Free Vector Field.
