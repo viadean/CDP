@@ -40,9 +40,35 @@ class S1,S2 CII
 class P1,P2 CIII
 ```
 
-<script src="https://gist.github.com/viadean/c64e74d7402f0343de33511d7fbe85f7.js"></script>
+```powershell
+============================================================
+ 🛠️  Mapping the Magnetic Dipole: Theory and Physical Application
+============================================================
 
+─── Core Concepts ───
+  🔹 Vector Potential
+  🔹 Magnetic Field
+  🔹 The Singularity
+  🔹 Global Consistency Analysis
 
+─── Development & Analysis ───
+  🔹 Architectural Diagrams
+  🔹 Primary Demos
+  🔹 Field Geometry & Topology
+  🔹 Comparative & Analytical Tools
+  🔹 Advanced Physics & Quantum Bridges
+  🔹 Validation Scripts
+
+─── Snippets Archive ───
+  📦 Snippets.rar └── Twenty-four Snippets.py
+  📦 Snippets.rar └── Five Scripts
+
+─── Plottings Archive ───
+  📦 Plottings.rar └── Twenty-Five Plottings.png
+  📦 Plottings.rar └── Three Plottings.gif
+
+============================================================
+```
 
 
 
