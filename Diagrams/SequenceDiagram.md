@@ -6,7 +6,42 @@
 
 
 
-## Theoretical Derivation and Numerical Verification
+
+
+## Resolving Singularity in Magnetic Dipole Models
+
+> Theoretical models of magnetic dipoles often encounter a problem at their exact center where the field appears to break or become infinite, violating the physical requirement that magnetic field lines must form continuous, closed loops. To resolve this, a mathematical correction is applied to account for the field specifically at the origin, which ensures the total flow of magnetic flux remains balanced and consistent with the fundamental laws of magnetism. This refinement effectively transitions the model from an abstract point to a more realistic tiny current loop, allowing field lines to "snap" upward through the core and complete their circuit. In the realm of quantum mechanics, this same correction—known as the Fermi contact interaction—is vital for understanding how electrons in certain orbitals interact directly with the nucleus. This localized magnetic coupling shifts and splits atomic energy levels, resulting in observable phenomena like the twenty-one centimeter radiation emitted by hydrogen, which would be impossible to predict without accounting for the intense magnetic field at the very heart of the atom.
+
+- [Computing the Magnetic Field and its Curl from a Dipole Vector Potential](https://viadean.notion.site/Computing-the-Magnetic-Field-and-its-Curl-from-a-Dipole-Vector-Potential-2581ae7b9a3280fdab8ed775fb9fb3fb?source=copy_link)
+- [Deliverables](https://payhip.com/b/Aozay)
+
+```mermaid
+
+sequenceDiagram
+    autonumber
+    participant Math as Mathematical Model
+    participant Viz as Visualization (Python Script)
+    participant Phys as Physical Constraints (Gauss's Law)
+
+    Math->>Math: Define Vector Potential A for r > 0
+    Math->>Viz: Provide B-field formula (Butterfly pattern)
+    Note over Viz: Animation 1: Point Dipole
+    Viz-->>Phys: Result: Discontinuous lines at r = 0
+    Phys->>Math: Alert: Non-zero divergence at origin ($$\nabla\cdot B \neq 0$$)
+    
+    rect rgb(25, 84, 92)
+        Note right of Math: Addressing the Singularity
+        Math->>Math: Add Dirac Delta term [$$\frac{2\mu_0}{3} \vec{m} \delta^3(\vec{x})$$]
+        Math->>Math: Transition to Physical Loop Model (radius $$\ a$$)
+    end
+
+    Math->>Viz: Provide updated model (Physical Loop)
+    Note over Viz: Animation 2: "Upward Snap"
+    Viz->>Phys: Result: Closed loops and continuous flow
+    Phys-->>Math: Requirement Satisfied: $$\ \nabla \times \vec{B}=0\ $$ globally
+```
+
+
 
 
 
