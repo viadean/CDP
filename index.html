@@ -130,6 +130,8 @@
             background: white;
             border-radius: 10px;
             box-shadow: 0 10px 40px rgba(0, 0, 0, 0.2);
+            overflow-y: auto;
+            max-height: calc(100vh - 200px);
         }
         
         .page {
@@ -196,23 +198,26 @@
             background: #e0e0e0;
         }
         
-        .diagram-preview {
-            margin-top: 30px;
+        .diagram-content {
+            margin-top: 20px;
             padding: 20px;
             background: #f0f0f0;
             border-radius: 8px;
-            max-height: 600px;
-            overflow-y: auto;
         }
         
-        .diagram-preview h3 {
+        .diagram-content h2 {
             color: #333;
             margin-bottom: 15px;
+            font-size: 1.3em;
         }
         
         .mermaid {
             display: flex;
             justify-content: center;
+            background: white;
+            padding: 20px;
+            border-radius: 8px;
+            margin-bottom: 15px;
         }
         
         .section-title {
@@ -259,12 +264,12 @@
 
         .diagram-actions a, .diagram-actions button {
             flex: 1;
-            padding: 8px 12px;
+            padding: 10px 15px;
             background: #667eea;
             color: white;
             text-decoration: none;
             border-radius: 5px;
-            font-size: 0.85em;
+            font-size: 0.9em;
             border: none;
             cursor: pointer;
             transition: background 0.3s ease;
@@ -278,8 +283,6 @@
         .close-btn {
             background: #f0f0f0 !important;
             color: #333 !important;
-            padding: 8px 16px !important;
-            margin-top: 15px;
         }
         
         .close-btn:hover {
@@ -302,6 +305,10 @@
                 display: grid;
                 grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
                 gap: 10px;
+            }
+
+            .container {
+                max-height: none;
             }
         }
 
@@ -467,22 +474,22 @@
                 </div>
             </div>
 
-            <!-- Diagram Preview Section -->
-            <div id="previewContainer"></div>
+            <!-- Diagram Display Section -->
+            <div id="diagramDisplay"></div>
         </div>
     </div>
 
     <script>
         // List of diagrams in the Diagrams folder
         const diagrams = [
-            { name: 'ASCII Diagram', file: 'ASCIIDiagram.md' },
-            { name: 'Block Diagram', file: 'BlockDiagram.md' },
-            { name: 'ERD', file: 'ERD.md' },
-            { name: 'Flowchart', file: 'Flowchart.md' },
-            { name: 'Kanban', file: 'Kanban.md' },
-            { name: 'Quadrant Chart', file: 'QuadrantChart.md' },
-            { name: 'Sequence Diagram', file: 'SequenceDiagram.md' },
-            { name: 'State Diagram', file: 'StateDiagram.md' }
+            { name: 'ASCII Diagram', file: 'ASCIIDiagram.md', description: 'ASCII representation of system components' },
+            { name: 'Block Diagram', file: 'BlockDiagram.md', description: 'High-level system architecture showing major components' },
+            { name: 'ERD', file: 'ERD.md', description: 'Entity Relationship Diagram for database schema' },
+            { name: 'Flowchart', file: 'Flowchart.md', description: 'Process flow for main operations' },
+            { name: 'Kanban', file: 'Kanban.md', description: 'Project management board visualization' },
+            { name: 'Quadrant Chart', file: 'QuadrantChart.md', description: 'Analysis and categorization chart' },
+            { name: 'Sequence Diagram', file: 'SequenceDiagram.md', description: 'Interaction sequence between system components' },
+            { name: 'State Diagram', file: 'StateDiagram.md', description: 'State transitions and workflows' }
         ];
 
         // Initialize diagram sidebar
@@ -499,7 +506,7 @@
                     // Add active class to clicked item
                     item.classList.add('active');
                     // Load preview
-                    loadPreview(diagram.file);
+                    loadPreview(diagram);
                 };
                 listContainer.appendChild(item);
             });
@@ -518,8 +525,8 @@
             // Remove active state from diagram items
             document.querySelectorAll('.diagram-item').forEach(item => item.classList.remove('active'));
             
-            // Clear preview
-            document.getElementById('previewContainer').innerHTML = '';
+            // Clear diagram display
+            document.getElementById('diagramDisplay').innerHTML = '';
             
             // Show selected page
             document.getElementById(pageId).classList.add('active');
@@ -532,23 +539,24 @@
         }
 
         // Function to load and display diagram preview
-        async function loadPreview(filename) {
+        async function loadPreview(diagram) {
             try {
-                const response = await fetch(`https://raw.githubusercontent.com/viadean/CDP/main/Diagrams/${filename}`);
+                const response = await fetch(`https://raw.githubusercontent.com/viadean/CDP/main/Diagrams/${diagram.file}`);
                 const content = await response.text();
                 
                 // Extract mermaid content from markdown
                 const mermaidMatch = content.match(/```mermaid([\s\S]*?)```/);
                 const mermaidContent = mermaidMatch ? mermaidMatch[1].trim() : content;
                 
-                const previewContainer = document.getElementById('previewContainer');
-                previewContainer.innerHTML = `
-                    <div class="diagram-preview">
-                        <h3>${filename}</h3>
+                const displayContainer = document.getElementById('diagramDisplay');
+                displayContainer.innerHTML = `
+                    <div class="diagram-content">
+                        <h2>${diagram.name}</h2>
+                        <p style="color: #666; margin-bottom: 20px;">${diagram.description}</p>
                         <div class="mermaid">${mermaidContent}</div>
                         <div class="diagram-actions">
-                            <a href="https://github.com/viadean/CDP/blob/main/Diagrams/${filename}">View on GitHub</a>
-                            <button class="close-btn" onclick="closePreview()">Close Preview</button>
+                            <a href="https://github.com/viadean/CDP/blob/main/Diagrams/${diagram.file}">View on GitHub</a>
+                            <button class="close-btn" onclick="closeDiagram()">Close</button>
                         </div>
                     </div>
                 `;
@@ -556,23 +564,23 @@
                 // Reinitialize mermaid to render the new diagram
                 mermaid.contentLoaded();
                 
-                // Scroll to preview
-                previewContainer.scrollIntoView({ behavior: 'smooth' });
+                // Scroll to diagram display
+                displayContainer.scrollIntoView({ behavior: 'smooth' });
             } catch (error) {
-                const previewContainer = document.getElementById('previewContainer');
-                previewContainer.innerHTML = `
-                    <div class="diagram-preview">
-                        <h3>Error Loading Preview</h3>
-                        <p>Could not load ${filename}. Please <a href="https://github.com/viadean/CDP/blob/main/Diagrams/${filename}">view it on GitHub</a>.</p>
-                        <button class="close-btn" onclick="closePreview()">Close</button>
+                const displayContainer = document.getElementById('diagramDisplay');
+                displayContainer.innerHTML = `
+                    <div class="diagram-content">
+                        <h2>Error Loading ${diagram.name}</h2>
+                        <p>Could not load the diagram. Please <a href="https://github.com/viadean/CDP/blob/main/Diagrams/${diagram.file}">view it on GitHub</a>.</p>
+                        <button class="close-btn" onclick="closeDiagram()">Close</button>
                     </div>
                 `;
             }
         }
 
-        // Function to close preview
-        function closePreview() {
-            document.getElementById('previewContainer').innerHTML = '';
+        // Function to close diagram
+        function closeDiagram() {
+            document.getElementById('diagramDisplay').innerHTML = '';
             document.querySelectorAll('.diagram-item').forEach(item => item.classList.remove('active'));
         }
 
