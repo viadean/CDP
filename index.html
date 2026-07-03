@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>CDP - E-Product Hub</title>
     <script src="https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
     <style>
         * {
             margin: 0;
@@ -205,19 +206,122 @@
             border-radius: 8px;
         }
         
-        .diagram-content h2 {
+        .markdown-content {
+            background: white;
+            padding: 20px;
+            border-radius: 8px;
+            line-height: 1.8;
             color: #333;
-            margin-bottom: 15px;
-            font-size: 1.3em;
         }
-        
+
+        .markdown-content h1,
+        .markdown-content h2,
+        .markdown-content h3,
+        .markdown-content h4,
+        .markdown-content h5,
+        .markdown-content h6 {
+            color: #333;
+            margin-top: 25px;
+            margin-bottom: 15px;
+            border-bottom: 1px solid #e0e0e0;
+            padding-bottom: 10px;
+        }
+
+        .markdown-content h1 {
+            font-size: 2em;
+            margin-top: 0;
+        }
+
+        .markdown-content h2 {
+            font-size: 1.5em;
+        }
+
+        .markdown-content h3 {
+            font-size: 1.2em;
+        }
+
+        .markdown-content p {
+            margin-bottom: 15px;
+            color: #555;
+        }
+
+        .markdown-content ul,
+        .markdown-content ol {
+            margin-left: 20px;
+            margin-bottom: 15px;
+        }
+
+        .markdown-content li {
+            margin-bottom: 8px;
+            color: #555;
+        }
+
+        .markdown-content code {
+            background: #f4f4f4;
+            padding: 2px 6px;
+            border-radius: 3px;
+            font-family: 'Courier New', monospace;
+            color: #d63384;
+        }
+
+        .markdown-content pre {
+            background: #f4f4f4;
+            padding: 15px;
+            border-radius: 5px;
+            overflow-x: auto;
+            margin-bottom: 15px;
+        }
+
+        .markdown-content pre code {
+            background: none;
+            color: #333;
+            padding: 0;
+        }
+
+        .markdown-content blockquote {
+            border-left: 4px solid #667eea;
+            padding-left: 15px;
+            margin-left: 0;
+            margin-bottom: 15px;
+            color: #666;
+            font-style: italic;
+        }
+
+        .markdown-content table {
+            border-collapse: collapse;
+            width: 100%;
+            margin-bottom: 15px;
+        }
+
+        .markdown-content th,
+        .markdown-content td {
+            border: 1px solid #ddd;
+            padding: 10px;
+            text-align: left;
+        }
+
+        .markdown-content th {
+            background: #f0f0f0;
+            font-weight: bold;
+        }
+
+        .markdown-content a {
+            color: #667eea;
+            text-decoration: none;
+            border-bottom: 1px solid #667eea;
+        }
+
+        .markdown-content a:hover {
+            color: #764ba2;
+        }
+
         .mermaid {
             display: flex;
             justify-content: center;
             background: white;
             padding: 20px;
             border-radius: 8px;
-            margin-bottom: 15px;
+            margin: 20px 0;
         }
         
         .section-title {
@@ -482,14 +586,14 @@
     <script>
         // List of diagrams in the Diagrams folder
         const diagrams = [
-            { name: 'ASCII Diagram', file: 'ASCIIDiagram.md', description: 'ASCII representation of system components' },
-            { name: 'Block Diagram', file: 'BlockDiagram.md', description: 'High-level system architecture showing major components' },
-            { name: 'ERD', file: 'ERD.md', description: 'Entity Relationship Diagram for database schema' },
-            { name: 'Flowchart', file: 'Flowchart.md', description: 'Process flow for main operations' },
-            { name: 'Kanban', file: 'Kanban.md', description: 'Project management board visualization' },
-            { name: 'Quadrant Chart', file: 'QuadrantChart.md', description: 'Analysis and categorization chart' },
-            { name: 'Sequence Diagram', file: 'SequenceDiagram.md', description: 'Interaction sequence between system components' },
-            { name: 'State Diagram', file: 'StateDiagram.md', description: 'State transitions and workflows' }
+            { name: 'ASCII Diagram', file: 'ASCIIDiagram.md' },
+            { name: 'Block Diagram', file: 'BlockDiagram.md' },
+            { name: 'ERD', file: 'ERD.md' },
+            { name: 'Flowchart', file: 'Flowchart.md' },
+            { name: 'Kanban', file: 'Kanban.md' },
+            { name: 'Quadrant Chart', file: 'QuadrantChart.md' },
+            { name: 'Sequence Diagram', file: 'SequenceDiagram.md' },
+            { name: 'State Diagram', file: 'StateDiagram.md' }
         ];
 
         // Initialize diagram sidebar
@@ -544,24 +648,24 @@
                 const response = await fetch(`https://raw.githubusercontent.com/viadean/CDP/main/Diagrams/${diagram.file}`);
                 const content = await response.text();
                 
-                // Extract mermaid content from markdown
-                const mermaidMatch = content.match(/```mermaid([\s\S]*?)```/);
-                const mermaidContent = mermaidMatch ? mermaidMatch[1].trim() : content;
-                
                 const displayContainer = document.getElementById('diagramDisplay');
+                
+                // Convert markdown to HTML
+                let htmlContent = marked.parse(content);
+                
                 displayContainer.innerHTML = `
                     <div class="diagram-content">
-                        <h2>${diagram.name}</h2>
-                        <p style="color: #666; margin-bottom: 20px;">${diagram.description}</p>
-                        <div class="mermaid">${mermaidContent}</div>
-                        <div class="diagram-actions">
+                        <div class="markdown-content">
+                            ${htmlContent}
+                        </div>
+                        <div class="diagram-actions" style="margin-top: 20px;">
                             <a href="https://github.com/viadean/CDP/blob/main/Diagrams/${diagram.file}">View on GitHub</a>
                             <button class="close-btn" onclick="closeDiagram()">Close</button>
                         </div>
                     </div>
                 `;
                 
-                // Reinitialize mermaid to render the new diagram
+                // Reinitialize mermaid to render any diagrams in the content
                 mermaid.contentLoaded();
                 
                 // Scroll to diagram display
