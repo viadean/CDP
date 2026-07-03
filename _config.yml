@@ -1,0 +1,17 @@
+title: CDP
+description: E-Product Hub
+theme: jekyll-theme-slate
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+url: "https://viadean.github.io/CDP"
+baseurl: "/CDP"
+
+author:
+  name: viadean
+  
+twitter:
+  username: 
+
+show_downloads: true
