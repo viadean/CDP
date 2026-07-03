@@ -1,0 +1,697 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CDP - E-Product Hub</title>
+    <script src="https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            padding: 20px;
+        }
+        
+        .navbar {
+            background: white;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.2);
+            border-radius: 8px;
+            margin-bottom: 30px;
+            position: sticky;
+            top: 20px;
+            z-index: 100;
+        }
+        
+        .nav-container {
+            max-width: 1200px;
+            margin: 0 auto;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            padding: 15px 30px;
+            flex-wrap: wrap;
+        }
+        
+        .nav-brand {
+            font-size: 1.5em;
+            font-weight: bold;
+            color: #333;
+            text-decoration: none;
+        }
+        
+        .nav-links {
+            display: flex;
+            gap: 20px;
+            flex-wrap: wrap;
+        }
+        
+        .nav-links a, .nav-links button {
+            padding: 10px 20px;
+            background: #f0f0f0;
+            color: #333;
+            text-decoration: none;
+            border-radius: 5px;
+            transition: all 0.3s ease;
+            border: none;
+            cursor: pointer;
+            font-size: 0.95em;
+        }
+        
+        .nav-links a:hover, .nav-links button:hover, .nav-links a.active, .nav-links button.active {
+            background: #667eea;
+            color: white;
+        }
+        
+        .main-wrapper {
+            max-width: 1200px;
+            margin: 0 auto;
+            display: flex;
+            gap: 20px;
+            min-height: calc(100vh - 200px);
+        }
+        
+        .sidebar {
+            width: 280px;
+            background: white;
+            border-radius: 10px;
+            box-shadow: 0 10px 40px rgba(0, 0, 0, 0.2);
+            padding: 20px;
+            height: fit-content;
+            position: sticky;
+            top: 120px;
+        }
+        
+        .sidebar-title {
+            font-size: 1.1em;
+            font-weight: bold;
+            color: #333;
+            margin-bottom: 15px;
+            border-bottom: 2px solid #667eea;
+            padding-bottom: 10px;
+        }
+        
+        .diagram-list {
+            display: flex;
+            flex-direction: column;
+            gap: 10px;
+        }
+        
+        .diagram-item {
+            padding: 12px 15px;
+            background: #f9f9f9;
+            border-radius: 5px;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            border-left: 3px solid transparent;
+            font-size: 0.95em;
+        }
+        
+        .diagram-item:hover {
+            background: #f0f0f0;
+            border-left-color: #667eea;
+        }
+        
+        .diagram-item.active {
+            background: #667eea;
+            color: white;
+            border-left-color: #764ba2;
+        }
+        
+        .container {
+            flex: 1;
+            padding: 40px;
+            background: white;
+            border-radius: 10px;
+            box-shadow: 0 10px 40px rgba(0, 0, 0, 0.2);
+            overflow-y: auto;
+            max-height: calc(100vh - 200px);
+        }
+        
+        .page {
+            display: none;
+        }
+        
+        .page.active {
+            display: block;
+        }
+        
+        .header-content {
+            text-align: center;
+        }
+        
+        h1 {
+            color: #333;
+            font-size: 2.5em;
+            margin-bottom: 10px;
+        }
+        
+        .subtitle {
+            color: #667eea;
+            font-size: 1.2em;
+            margin-bottom: 30px;
+        }
+        
+        p {
+            color: #666;
+            font-size: 1em;
+            line-height: 1.6;
+            margin-bottom: 20px;
+        }
+        
+        .links {
+            margin-top: 40px;
+            display: flex;
+            gap: 20px;
+            justify-content: center;
+            flex-wrap: wrap;
+        }
+        
+        a.btn {
+            display: inline-block;
+            padding: 12px 30px;
+            background: #667eea;
+            color: white;
+            text-decoration: none;
+            border-radius: 5px;
+            transition: background 0.3s ease;
+            border: none;
+            cursor: pointer;
+        }
+        
+        a.btn:hover {
+            background: #764ba2;
+        }
+        
+        .btn-secondary {
+            background: #f0f0f0;
+            color: #333;
+        }
+        
+        .btn-secondary:hover {
+            background: #e0e0e0;
+        }
+        
+        .diagram-content {
+            margin-top: 20px;
+            padding: 20px;
+            background: white;
+            border-radius: 8px;
+        }
+        
+        .markdown-content {
+            background: white;
+            padding: 0;
+            border-radius: 8px;
+            line-height: 1.8;
+            color: #333;
+        }
+
+        .markdown-content h1,
+        .markdown-content h2,
+        .markdown-content h3,
+        .markdown-content h4,
+        .markdown-content h5,
+        .markdown-content h6 {
+            color: #333;
+            margin-top: 25px;
+            margin-bottom: 15px;
+            border-bottom: 1px solid #e0e0e0;
+            padding-bottom: 10px;
+        }
+
+        .markdown-content h1 {
+            font-size: 2em;
+            margin-top: 0;
+        }
+
+        .markdown-content h2 {
+            font-size: 1.5em;
+        }
+
+        .markdown-content h3 {
+            font-size: 1.2em;
+        }
+
+        .markdown-content p {
+            margin-bottom: 15px;
+            color: #555;
+        }
+
+        .markdown-content ul,
+        .markdown-content ol {
+            margin-left: 20px;
+            margin-bottom: 15px;
+        }
+
+        .markdown-content li {
+            margin-bottom: 8px;
+            color: #555;
+        }
+
+        .markdown-content code {
+            background: #f4f4f4;
+            padding: 2px 6px;
+            border-radius: 3px;
+            font-family: 'Courier New', monospace;
+            color: #d63384;
+        }
+
+        .markdown-content pre {
+            background: #f4f4f4;
+            padding: 15px;
+            border-radius: 5px;
+            overflow-x: auto;
+            margin-bottom: 15px;
+        }
+
+        .markdown-content pre code {
+            background: none;
+            color: #333;
+            padding: 0;
+        }
+
+        .markdown-content blockquote {
+            border-left: 4px solid #667eea;
+            padding-left: 15px;
+            margin-left: 0;
+            margin-bottom: 15px;
+            color: #666;
+            font-style: italic;
+        }
+
+        .markdown-content table {
+            border-collapse: collapse;
+            width: 100%;
+            margin-bottom: 15px;
+        }
+
+        .markdown-content th,
+        .markdown-content td {
+            border: 1px solid #ddd;
+            padding: 10px;
+            text-align: left;
+        }
+
+        .markdown-content th {
+            background: #f0f0f0;
+            font-weight: bold;
+        }
+
+        .markdown-content a {
+            color: #667eea;
+            text-decoration: none;
+            border-bottom: 1px solid #667eea;
+        }
+
+        .markdown-content a:hover {
+            color: #764ba2;
+        }
+
+        .mermaid {
+            display: flex;
+            justify-content: center;
+            background: white;
+            padding: 20px;
+            border-radius: 8px;
+            margin: 20px 0;
+        }
+        
+        .section-title {
+            color: #333;
+            margin-top: 30px;
+            margin-bottom: 20px;
+            font-size: 1.5em;
+            border-bottom: 2px solid #667eea;
+            padding-bottom: 10px;
+        }
+        
+        .content-box {
+            background: #f9f9f9;
+            padding: 20px;
+            border-radius: 8px;
+            margin-bottom: 20px;
+            border-left: 4px solid #667eea;
+        }
+        
+        .content-box h3 {
+            color: #333;
+            margin-bottom: 10px;
+        }
+        
+        .content-box p {
+            color: #666;
+            margin-bottom: 10px;
+        }
+        
+        .content-box ul {
+            margin-left: 20px;
+            color: #666;
+        }
+        
+        .content-box li {
+            margin-bottom: 8px;
+        }
+
+        .diagram-actions {
+            margin-top: 15px;
+            display: flex;
+            gap: 10px;
+        }
+
+        .diagram-actions a, .diagram-actions button {
+            flex: 1;
+            padding: 10px 15px;
+            background: #667eea;
+            color: white;
+            text-decoration: none;
+            border-radius: 5px;
+            font-size: 0.9em;
+            border: none;
+            cursor: pointer;
+            transition: background 0.3s ease;
+            text-align: center;
+        }
+
+        .diagram-actions a:hover, .diagram-actions button:hover {
+            background: #764ba2;
+        }
+
+        .close-btn {
+            background: #f0f0f0 !important;
+            color: #333!important;
+        }
+        
+        .close-btn:hover {
+            background: #e0e0e0 !important;
+        }
+
+        @media (max-width: 900px) {
+            .main-wrapper {
+                flex-direction: column;
+            }
+
+            .sidebar {
+                width: 100%;
+                position: relative;
+                top: 0;
+                height: auto;
+            }
+
+            .diagram-list {
+                display: grid;
+                grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+                gap: 10px;
+            }
+
+            .container {
+                max-height: none;
+            }
+        }
+
+        @media (max-width: 600px) {
+            .container {
+                padding: 20px;
+            }
+            
+            h1 {
+                font-size: 2em;
+            }
+            
+            .nav-container {
+                padding: 15px;
+            }
+            
+            .nav-links {
+                width: 100%;
+                gap: 10px;
+                justify-content: space-around;
+            }
+
+            .diagram-list {
+                grid-template-columns: 1fr;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="navbar">
+        <div class="nav-container">
+            <a href="#" class="nav-brand">🚀 CDP</a>
+            <div class="nav-links">
+                <button class="nav-btn active" onclick="showPage('home')">Home</button>
+                <button class="nav-btn" onclick="showPage('documentation')">Documentation</button>
+                <button class="nav-btn" onclick="showPage('resources')">Resources</button>
+            </div>
+        </div>
+    </div>
+
+    <div class="main-wrapper">
+        <!-- Sidebar with Diagrams -->
+        <div class="sidebar">
+            <div class="sidebar-title">📊 Diagrams</div>
+            <div class="diagram-list" id="diagramList"></div>
+        </div>
+
+        <!-- Main Content -->
+        <div class="container">
+            <!-- Home Page -->
+            <div id="home" class="page active">
+                <div class="header-content">
+                    <h1>🚀 CDP</h1>
+                    <p class="subtitle">E-Product Hub</p>
+                    
+                    <p>Welcome to the CDP E-Product Hub repository. This is your central hub for managing and accessing digital products.</p>
+                    
+                    <div class="links">
+                        <a href="https://github.com/viadean/CDP" class="btn">View on GitHub</a>
+                        <a href="https://payhip.com/CDP" class="btn btn-secondary">Visit Website</a>
+                    </div>
+                </div>
+                
+                <div class="section-title">About CDP</div>
+                <div class="content-box">
+                    <h3>What is CDP?</h3>
+                    <p>CDP (Centralized Data Platform) is a comprehensive E-Product Hub designed to streamline digital product management and distribution. Our platform provides enterprise-grade solutions for managing, organizing, and delivering digital products efficiently.</p>
+                </div>
+                
+                <div class="content-box">
+                    <h3>Key Features</h3>
+                    <ul>
+                        <li>Centralized product management dashboard</li>
+                        <li>Advanced analytics and reporting</li>
+                        <li>Secure data handling and storage</li>
+                        <li>Multi-channel distribution support</li>
+                        <li>Real-time monitoring and alerts</li>
+                        <li>Scalable architecture for enterprise use</li>
+                    </ul>
+                </div>
+                
+                <div class="content-box">
+                    <h3>Get Started</h3>
+                    <p>To get started with CDP, explore our diagrams using the sidebar to understand the system architecture, check our documentation for detailed guides, and visit our resources section for additional information.</p>
+                </div>
+            </div>
+
+            <!-- Documentation Page -->
+            <div id="documentation" class="page">
+                <h1 style="text-align: center; margin-bottom: 30px;">📚 Documentation</h1>
+                
+                <div class="section-title">System Architecture</div>
+                <div class="content-box">
+                    <h3>Overview</h3>
+                    <p>The CDP system is built on a scalable microservices architecture. Each component is designed to be independent, maintainable, and easy to scale.</p>
+                    <p>For detailed architecture information, please refer to the diagrams available in the sidebar - particularly the BlockDiagram and ERD.</p>
+                </div>
+                
+                <div class="section-title">API Documentation</div>
+                <div class="content-box">
+                    <h3>RESTful APIs</h3>
+                    <p>CDP provides comprehensive RESTful APIs for integration with third-party applications. All endpoints are documented and include examples.</p>
+                    <ul>
+                        <li><strong>/api/products</strong> - Product management endpoints</li>
+                        <li><strong>/api/analytics</strong> - Analytics and reporting endpoints</li>
+                        <li><strong>/api/users</strong> - User management endpoints</li>
+                        <li><strong>/api/reports</strong> - Report generation endpoints</li>
+                    </ul>
+                </div>
+                
+                <div class="section-title">Database Schema</div>
+                <div class="content-box">
+                    <h3>Entity Relationships</h3>
+                    <p>Our database schema is optimized for performance and scalability. The ERD diagram provides a visual representation of all entities and their relationships.</p>
+                </div>
+                
+                <div class="section-title">Workflows</div>
+                <div class="content-box">
+                    <h3>Process Flows</h3>
+                    <p>CDP follows well-defined workflows for all major operations. See the Flowchart and SequenceDiagram in the sidebar for detailed process information.</p>
+                </div>
+            </div>
+
+            <!-- Resources Page -->
+            <div id="resources" class="page">
+                <h1 style="text-align: center; margin-bottom: 30px;">🔗 Resources</h1>
+                
+                <div class="section-title">Quick Links</div>
+                <div class="content-box">
+                    <h3>Official Links</h3>
+                    <ul>
+                        <li><a href="https://github.com/viadean/CDP" style="color: #667eea; text-decoration: none;">GitHub Repository</a> - Access source code and issues</li>
+                        <li><a href="https://payhip.com/CDP" style="color: #667eea; text-decoration: none;">PayHip Store</a> - Purchase products and licenses</li>
+                    </ul>
+                </div>
+                
+                <div class="section-title">Learning Materials</div>
+                <div class="content-box">
+                    <h3>Getting Started Guides</h3>
+                    <ul>
+                        <li>Installation and Setup</li>
+                        <li>Configuration Guide</li>
+                        <li>Integration Tutorials</li>
+                        <li>Best Practices</li>
+                    </ul>
+                </div>
+                
+                <div class="section-title">Support</div>
+                <div class="content-box">
+                    <h3>Help & Support</h3>
+                    <p>For issues, questions, or feature requests, please visit our GitHub Issues page or contact us through the official channels.</p>
+                    <ul>
+                        <li>GitHub Issues - Report bugs and request features</li>
+                        <li>GitHub Discussions - Ask questions and share ideas</li>
+                        <li>Email Support - For enterprise customers</li>
+                    </ul>
+                </div>
+                
+                <div class="section-title">Community</div>
+                <div class="content-box">
+                    <h3>Contribute</h3>
+                    <p>We welcome contributions from the community! Check out our contributing guidelines on GitHub to get started.</p>
+                </div>
+            </div>
+
+            <!-- Diagram Display Section -->
+            <div id="diagramDisplay"></div>
+        </div>
+    </div>
+
+    <script>
+        // List of diagrams in the Diagrams folder
+        const diagrams = [
+            { name: 'ASCII Diagram', file: 'ASCIIDiagram.md' },
+            { name: 'Block Diagram', file: 'BlockDiagram.md' },
+            { name: 'ERD', file: 'ERD.md' },
+            { name: 'Flowchart', file: 'Flowchart.md' },
+            { name: 'Kanban', file: 'Kanban.md' },
+            { name: 'Quadrant Chart', file: 'QuadrantChart.md' },
+            { name: 'Sequence Diagram', file: 'SequenceDiagram.md' },
+            { name: 'State Diagram', file: 'StateDiagram.md' }
+        ];
+
+        // Initialize diagram sidebar
+        function initDiagrams() {
+            const listContainer = document.getElementById('diagramList');
+            listContainer.innerHTML = '';
+            diagrams.forEach((diagram, index) => {
+                const item = document.createElement('div');
+                item.className = 'diagram-item';
+                item.textContent = diagram.name;
+                item.onclick = () => {
+                    // Remove active class from all items
+                    document.querySelectorAll('.diagram-item').forEach(el => el.classList.remove('active'));
+                    // Add active class to clicked item
+                    item.classList.add('active');
+                    // Load preview
+                    loadPreview(diagram);
+                };
+                listContainer.appendChild(item);
+            });
+        }
+
+        // Function to show pages
+        function showPage(pageId) {
+            // Hide all pages
+            const pages = document.querySelectorAll('.page');
+            pages.forEach(page => page.classList.remove('active'));
+            
+            // Remove active state from all buttons
+            const buttons = document.querySelectorAll('.nav-btn');
+            buttons.forEach(btn => btn.classList.remove('active'));
+            
+            // Remove active state from diagram items
+            document.querySelectorAll('.diagram-item').forEach(item => item.classList.remove('active'));
+            
+            // Clear diagram display
+            document.getElementById('diagramDisplay').innerHTML = '';
+            
+            // Show selected page
+            document.getElementById(pageId).classList.add('active');
+            
+            // Add active state to clicked button
+            event.target.classList.add('active');
+            
+            // Scroll to top
+            window.scrollTo(0, 0);
+        }
+
+        // Function to load and display diagram preview with ALL content from file
+        async function loadPreview(diagram) {
+            try {
+                const response = await fetch(`https://raw.githubusercontent.com/viadean/CDP/main/Diagrams/${diagram.file}`);
+                const content = await response.text();
+                
+                const displayContainer = document.getElementById('diagramDisplay');
+                
+                // Convert markdown to HTML - this will render everything including text and diagrams
+                let htmlContent = marked.parse(content);
+                
+                displayContainer.innerHTML = `
+                    <div class="diagram-content">
+                        <div class="markdown-content">
+                            ${htmlContent}
+                        </div>
+                        <div class="diagram-actions" style="margin-top: 20px;">
+                            <a href="https://github.com/viadean/CDP/blob/main/Diagrams/${diagram.file}">View on GitHub</a>
+                            <button class="close-btn" onclick="closeDiagram()">Close</button>
+                        </div>
+                    </div>
+                `;
+                
+                // Reinitialize mermaid to render diagrams in the markdown
+                mermaid.contentLoaded();
+                
+                // Scroll to diagram display
+                displayContainer.scrollIntoView({ behavior: 'smooth' });
+            } catch (error) {
+                console.error('Error loading diagram:', error);
+                const displayContainer = document.getElementById('diagramDisplay');
+                displayContainer.innerHTML = `
+                    <div class="diagram-content">
+                        <h2>Error Loading ${diagram.name}</h2>
+                        <p>Could not load the diagram. Please <a href="https://github.com/viadean/CDP/blob/main/Diagrams/${diagram.file}">view it on GitHub</a>.</p>
+                        <button class="close-btn" onclick="closeDiagram()">Close</button>
+                    </div>
+                `;
+            }
+        }
+
+        // Function to close diagram
+        function closeDiagram() {
+            document.getElementById('diagramDisplay').innerHTML = '';
+            document.querySelectorAll('.diagram-item').forEach(item => item.classList.remove('active'));
+        }
+
+        // Initialize
+        initDiagrams();
+        mermaid.initialize({ startOnLoad: true, theme: 'default' });
+    </script>
+</body>
+</html>
