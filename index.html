@@ -202,13 +202,13 @@
         .diagram-content {
             margin-top: 20px;
             padding: 20px;
-            background: #f0f0f0;
+            background: white;
             border-radius: 8px;
         }
         
         .markdown-content {
             background: white;
-            padding: 20px;
+            padding: 0;
             border-radius: 8px;
             line-height: 1.8;
             color: #333;
@@ -386,7 +386,7 @@
 
         .close-btn {
             background: #f0f0f0 !important;
-            color: #333 !important;
+            color: #333!important;
         }
         
         .close-btn:hover {
@@ -642,7 +642,7 @@
             window.scrollTo(0, 0);
         }
 
-        // Function to load and display diagram preview
+        // Function to load and display diagram preview with ALL content from file
         async function loadPreview(diagram) {
             try {
                 const response = await fetch(`https://raw.githubusercontent.com/viadean/CDP/main/Diagrams/${diagram.file}`);
@@ -650,7 +650,7 @@
                 
                 const displayContainer = document.getElementById('diagramDisplay');
                 
-                // Convert markdown to HTML
+                // Convert markdown to HTML - this will render everything including text and diagrams
                 let htmlContent = marked.parse(content);
                 
                 displayContainer.innerHTML = `
@@ -665,12 +665,13 @@
                     </div>
                 `;
                 
-                // Reinitialize mermaid to render any diagrams in the content
+                // Reinitialize mermaid to render diagrams in the markdown
                 mermaid.contentLoaded();
                 
                 // Scroll to diagram display
                 displayContainer.scrollIntoView({ behavior: 'smooth' });
             } catch (error) {
+                console.error('Error loading diagram:', error);
                 const displayContainer = document.getElementById('diagramDisplay');
                 displayContainer.innerHTML = `
                     <div class="diagram-content">
