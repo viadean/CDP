@@ -4,6 +4,15 @@
 
 
 
+## Unified Field Architectures and Singularity Resolution
+
+> The Entity-Relationship Diagram (ERD) in Proof 38 serves as a comprehensive visual and mathematical architecture that bridges abstract potentials with physically consistent field models. It defines the two primary "engines" of electromagnetics: the gradient of a scalar potential for irrotational electric fields and the curl of a vector potential for solenoidal magnetic fields. A central focus of this framework is accounting for singularities, specifically the mathematical "blow-up" at the origin ($r=0$) of a magnetic dipole. By integrating a Dirac delta function term, the model achieves global consistency with Gauss’s Law for Magnetism, forcing field lines to perform an "upward snap" through the core to form the continuous closed loops required for a solenoidal system. This mathematical refinement has profound implications beyond classical physics, providing the physical basis for the Fermi contact interaction in quantum mechanics, which explains hyperfine splitting and the critical 21cm hydrogen line used by astronomers to map the universe. Furthermore, the framework extends to comparative analyses of advanced phenomena, such as the Yukawa potential, where a surrounding medium acts as a distributed sink that exponentially screens long-range fields.
+
+- [Computing the Magnetic Field and its Curl from a Dipole Vector Potential](https://viadean.notion.site/Computing-the-Magnetic-Field-and-its-Curl-from-a-Dipole-Vector-Potential-2581ae7b9a3280fdab8ed775fb9fb3fb?source=copy_link)
+- [Deliverables](https://payhip.com/b/Aozay)
+
+
+
 
 
 ## The Mechanics of Generalized Curl and Integral Conversion
