@@ -6,6 +6,39 @@
 
 
 
+## Geometry of Vector Measurements on Curved Surfaces
+
+> The process of measuring vectors relies on a specialized relationship between physical building blocks and a corresponding measurement system that acts as a mathematical filter. For these measurements to remain accurate, the measurement tools must dynamically rotate and stretch to compensate for any distortions in the physical frame, a mechanism that ensures the resulting values stay constant despite physical changes. On complex, curved surfaces, these localized frames of reference are not static; they continuously tilt and twist as one moves across the surface, highlighting that a perfectly smooth arrangement of these frames across a sphere is impossible without creating points of collapse. This localized approach is highly efficient for computer graphics, where converting external data into an object's internal frame allows for simplified calculations. By treating the object's surface as a fixed reference point where the vertical direction is always constant, the system can calculate detailed visual effects like light and texture without needing to track every movement relative to the larger world.
+
+- [Proving Contravariant Vector Components Using the Dual Basis](https://viadean.notion.site/Proving-Contravariant-Vector-Components-Using-the-Dual-Basis-2581ae7b9a3280f8a2eef1bd9b7ac8b4?source=copy_link)
+- [Deliverables](https://payhip.com/b/QktBm)
+
+```mermaid
+sequenceDiagram
+    autonumber
+    participant T as Tangent Basis (Eᵦ)
+    participant V as Vector (v)
+    participant D as Dual Basis (Eᵃ)
+    participant K as Kronecker Delta (δ)
+
+    Note over T, V: Phase 1: Construction (Building)
+    T->>V: Scale & sum arrows tip-to-tail (v = vᵇ * Eᵦ)
+    Note right of V: The vector is physically assembled
+
+    Note over D, K: Phase 2: Configuration (Reciprocity)
+    D->>T: Align Eᵃ perpendicular to Eᵦ partners
+    T-->>D: Mutual relationship: Eᵃ ⋅ Eᵦ = δᵃᵦ
+    Note right of D: Dual vectors stretch/rotate to compensate 
+
+    Note over V, D: Phase 3: Extraction (Probing)
+    V->>D: Vector is "probed" via dot product (Eᵃ ⋅ v) 
+    D->>K: Apply sifting property to the sum 
+    K-->>D: "Kill" components where a ≠ b 
+    D->>D: Isolate specific component (vₐ)
+    
+    Note over D: Final Result: vᵃ = Eᵃ ⋅ v
+```
+
 
 
 ## Resolving Singularity in Magnetic Dipole Models
