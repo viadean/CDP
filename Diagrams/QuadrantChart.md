@@ -4,6 +4,48 @@
 
 
 
+## Foundations of Non-Cartesian Curvilinear Mapping
+
+> Quadrant 3 functions as the essential "Basic Verification" layer, providing the foundational building blocks necessary for all non-Cartesian coordinate analysis. This phase focuses on fundamental calculations, such as verifying Orthogonal Tangent Vector Bases (40) in cylindrical and spherical systems and solving practical geometric problems like calculating the Area of a Half-Sphere (23). These topics bridge basic geometry with advanced parametric modeling by demonstrating how flat 2D parameters are mapped onto 3D curved surfaces—a process that visually reveals grid distortions and coordinate singularities, such as the "pinched" point at the North Pole. Understanding these mappings is a critical pedagogical step, as it explains the mathematical necessity for metric tensors and scaling factors before moving into more complex field behaviors. Because mastering these abstract concepts is non-linear, the curriculum follows a sigmoid learning curve, moving from slow initial foundational uptake to exponential acceleration as students transition toward peak theoretical abstractions and advanced vector calculus identities.
+
+- [Verification of Orthogonal Tangent Vector Bases in Cylindrical and Spherical Coordinates](https://viadean.notion.site/Verification-of-Orthogonal-Tangent-Vector-Bases-in-Cylindrical-and-Spherical-Coordinates-2591ae7b9a3280e0a458cba31d94b7f0?source=copy_link)
+- [Deliverables](https://payhip.com/b/axrmQ)
+
+```mermaid
+---
+config:
+  quadrantChart:
+    chartWidth: 800
+    chartHeight: 700
+  themeVariables:
+    quadrant1Fill: "#AC312A"
+    quadrant2Fill: "#AC312A"
+    quadrant3Fill: "#AC312A"
+    quadrant4Fill: "#AC312A"
+    quadrantInternalBorderStrokeFill: "#000"
+    quadrantExternalBorderStrokeFill: "#192a24"
+---
+quadrantChart
+    title Orthogonal Tangent Bases (40)
+    x-axis "Standard Coordinates" --> "Advanced Geometries"
+    y-axis "Fundamental Geometry" --> "Advanced Field Calculus"
+    quadrant-1 Theoretical Complexity
+    quadrant-2 Analytical Depth
+    quadrant-3 Basic Verification
+    quadrant-4 Parametric Modeling
+    "Area of a Half-Sphere (23)": [0.2, 0.25]
+    "Orthogonal Tangent Bases (40)":::spot: [0.3, 0.35]
+    "Vector Field Analysis (41)": [0.4, 0.65]
+    "Stokes' & Singularities (42)": [0.45, 0.85]
+    "Surface Parametrisation (16)": [0.65, 0.45]
+    "Parabolic Coordinate Properties (43)": [0.85, 0.75]
+    "Vector Calculus Identities (45)": [0.9, 0.9]
+    
+ classDef spot color: #B74936, radius : 20, stroke-color: #D4877D, stroke-width: 10px
+```
+
+
+
 ## The Geometry of the Dual Basis
 
 > The P39 Demos illustrate the reciprocal relationship between a physical tangent basis and its corresponding dual basis, which serves as a specialized set of measuring sticks for extracting vector data. While the tangent basis is used for vector construction—physically assembling a vector by stepping along its grid lines—the dual basis functions as a measurement sieve designed to probe and isolate specific values. These dual vectors are strategically oriented to be perpendicular to the grid lines they are not intended to measure, a configuration that allows them to filter out interference from other directions. This geometric arrangement is crucial because it maintains orthogonality even in systems where the physical frame is distorted or nearly parallel, ensuring that the isolated measurements remain accurate and free from cross-contamination.
