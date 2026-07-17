@@ -4,6 +4,52 @@
 
 
 
+## The P40 Demos: Principles of Quantum Orthogonality
+
+> The P40 Demos, centered on Quantum Orthogonality, bridge the gap between engineering predictability and physical discovery by applying the zero-dot-product rule to both spherical arm kinematic control and orbital wavefunction factorization. In robotics, this principle ensures operational predictability through vector decoupling, where the maintenance of a strict 90-degree relationship between basis vectors allows for radial extension without triggering unintended "parasitic" rotations. This mathematical decoupling creates a diagonal Jacobian matrix essential for efficient real-time computer control. The documents highlight that this same logic extends to structural engineering, where a bridge’s normal modes of vibration act as orthogonal basis vectors that do not transfer energy to one another, and to electrical engineering, where it prevents interference in 5G data streams. Ultimately, these demos illustrate how "un-mixing" physical dimensions—whether in the probability clouds of a hydrogen atom or the movement of an industrial arm—replaces mathematical "entanglement" with independent, predictable components.
+
+- [Orbital Wavefunction Factorization and Spherical Arm Kinematic Control](https://viadean.notion.site/Orbital-Wavefunction-Factorization-and-Spherical-Arm-Kinematic-Control-2eb1ae7b9a32807c89feccd2749327e0?source=copy_link)
+- [Deliverables](https://payhip.com/b/axrmQ)
+
+```mermaid
+---
+config:
+  quadrantChart:
+    chartWidth: 800
+    chartHeight: 700
+  themeVariables:
+    quadrant1Fill: "#4c5400"
+    quadrant2Fill: "#4c5400"
+    quadrant3Fill: "#4c5400"
+    quadrant4Fill: "#4c5400"
+    quadrantInternalBorderStrokeFill: "#000"
+    quadrantExternalBorderStrokeFill: "#192a24"
+---
+quadrantChart
+    title Quantum Orthogonality (P40 Demos)
+    x-axis "Geometric Foundations" --> "Physical Realization"
+    y-axis "Static Structure" --> "Dynamic Process"
+    quadrant-1 "Dynamic Systems & Navigation"
+    quadrant-2 "Applied Structural Design"
+    quadrant-3 "Foundational Mapping & Integrals"
+    quadrant-4 "Kinetic Topology & Invariance"
+
+    "Coordinate Integration (P23 Demos)": [0.15, 0.20]
+    "Surface Parametrisation (P16 Demos)": [0.25, 0.35]
+    "Quantum Orthogonality (P40 Demos)":::spot: [0.75, 0.30]
+    "Parabolic Reflectors (P43 Demos)": [0.85, 0.25]
+    "Coordinate Invariance (P45 Demos)": [0.10, 0.65]
+    "Winding Numbers (P41 Demos)": [0.35, 0.75]
+    "Hyperbolic Mappings (P42 Demos)": [0.65, 0.70]
+    "Robot Kinematics (P40 Demos)": [0.90, 0.85]
+
+ classDef spot color: #5C6424, radius : 20, stroke-color: #A0A684, stroke-width: 10px
+```
+
+
+
+
+
 ## Foundations of Non-Cartesian Curvilinear Mapping
 
 > Quadrant 3 functions as the essential "Basic Verification" layer, providing the foundational building blocks necessary for all non-Cartesian coordinate analysis. This phase focuses on fundamental calculations, such as verifying Orthogonal Tangent Vector Bases (40) in cylindrical and spherical systems and solving practical geometric problems like calculating the Area of a Half-Sphere (23). These topics bridge basic geometry with advanced parametric modeling by demonstrating how flat 2D parameters are mapped onto 3D curved surfaces—a process that visually reveals grid distortions and coordinate singularities, such as the "pinched" point at the North Pole. Understanding these mappings is a critical pedagogical step, as it explains the mathematical necessity for metric tensors and scaling factors before moving into more complex field behaviors. Because mastering these abstract concepts is non-linear, the curriculum follows a sigmoid learning curve, moving from slow initial foundational uptake to exponential acceleration as students transition toward peak theoretical abstractions and advanced vector calculus identities.
