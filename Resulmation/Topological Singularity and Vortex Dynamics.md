@@ -1,0 +1,5 @@
+> The analysis describes the modeling and visualization of topological singularities and vortices in both classical and quantum systems. In these models, a central singularity at the origin acts as a mathematically undefined point that drives the system's overall circulation, representing physical phenomena like the zero-amplitude core of an optical vortex or a quantum fluid filament. The velocity of the flow increases dramatically as it approaches this center, forming concentric orbits where the speed is determined by the distance from the origin. In quantum contexts, the phase of the system winds around this central point, becoming multi-valued and causing the fluid's physical density to collapse to zero at the core. A defining feature of these systems is their topological circulation, where measuring the flow or phase gradient around a closed path yields a constant value or a quantized winding number that acts as a stable system invariant.
+
+- [Deliverables](https://payhip.com/b/iyRgp)
+
+[![YouTube Video cz9vnXse9Y8](https://img.youtube.com/vi/cz9vnXse9Y8/maxresdefault.jpg)](https://www.youtube.com/watch?v=cz9vnXse9Y8)
