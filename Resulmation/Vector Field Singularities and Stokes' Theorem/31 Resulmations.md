@@ -14,7 +14,11 @@
 
 ---
 
+## 3-The Geometric Mirror of Spacetime and Energy-Momentum
 
+> The analysis demonstrates a profound physical symmetry between spacetime and energy-momentum coordinates, illustrating that both systems warp in an identical, mirror-image fashion when subjected to a Lorentz boost,. Because both frameworks share the same underlying mathematical structure, energy effectively behaves like a temporal coordinate while momentum acts like a spatial coordinate, resulting in matching grid tilts and diamond-like shearing in visual simulations,. These visualizations highlight how rest mass remains strictly invariant, as seen by momentum grid elements sliding precisely along static curved boundaries even as velocity increases. Finally, the 45-degree diagonal serves as a unified limit for both systems, representing the light cone in spacetime and the fixed path of massless particles in energy-momentum space, proving that light-speed barriers remain consistent across both perspectives.
+
+- https://youtu.be/5Sc5wFXLT1w
 
 
 
