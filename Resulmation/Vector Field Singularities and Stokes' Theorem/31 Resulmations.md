@@ -1,8 +1,26 @@
-# The Geometry of Spacetime and Lorentz Transformations
+## 1-The Geometry of Spacetime and Lorentz Transformations
 
 > The analysis details the visualization of a **Lorentz boost** as a **hyperbolic rotation** of spacetime, where a square coordinate grid transforms into a skewed diamond-like structure as the velocity ratio ($\beta$) increases,. By calculating relativistic parameters such as the **Lorentz factor ($\gamma$)** and **rapidity ($\psi$)**, a Minkowski Spacetime Diagram can illustrate the **"Scissors Effect"**, where the temporal and spatial axes of a moving frame tilt toward the fixed 45° light cone,. This geometric warping highlights the **relativity of simultaneity**, demonstrating that events occurring at the same time in a stationary frame appear scattered across different times for a moving observer. Dynamic animations further reveal that while the grid is compressed symmetrically toward the light cone—a phenomenon described as the **squeeze vector**—the **hyperbolic area** of each grid block remains perfectly preserved, representing the mathematical conservation of the spacetime interval ($s^2$),. Finally, the visualization shows that as speeds approach the speed of light, the Lorentz factor spikes dramatically, mapping the exponential energy requirements for near-light-speed acceleration.
 
 - https://youtu.be/vloieBeZXAc
+
+---
+
+## 2-Visualizing Wigner Rotation and Thomas Precession
+
+> The analysis details a Python-based visualization of **Wigner Rotation** and its physical manifestation as **Thomas Precession**, which occurs when two non-collinear Lorentz boosts—such as one along the x-axis followed by one along the y-axis—result in a frame that is both moving diagonally and physically rotated relative to the starting frame. This phenomenon is illustrated through static and animated coordinate triads where the crimson X' axis is shown to warp and tilt toward the Y domain, while the royalblue Y' axis remains parallel to the grid lines even as the entire origin drifts diagonally. Ultimately, these visualizations demonstrate the "frame twisting" experienced by an accelerating electron in an atom, which accounts for a 1/2 factor correction in its spin energy levels compared to classical predictions.
+
+- https://youtu.be/G6W8Py3oRGI
+
+---
+
+
+
+
+
+
+
+---
 
 ## Deliverables
 
@@ -147,3 +165,14 @@ graph TD
    
 ```
 
+**Pillar Breakdown**
+
+- **Pillar 1: Relativistic Spacetime & Quantum Horizons**
+  - **Core Focus:** Fundamental physics, special/general relativity, particle collision invariants, and accelerated frame horizons.
+  - **Internal Structure:** **Resulmation-1** sets up the baseline Lorentz boost geometry, which branches into frame rotation (**Resulmation-2**) and energy-momentum coordinate symmetry (**Resulmation-3**). The decay/collision physics (**Resulmations 4 & 5**) flow directly from energy-momentum conservation, while non-linear boost dynamics (**Resulmation-6**) extend Wigner rotation. Accelerated observers (**Resulmation-11**) lead into quantum Unruh/Hawking thermal horizons (**Resulmation-13**) and open FLRW cosmological geometries (**Resulmation-14**).
+- **Pillar 2: Hyperbolic & Elliptic Boundary Mathematics**
+  - **Core Focus:** Applied mathematics, continuous coordinate mapping, structural fracture mechanics, and fluid dynamics.
+  - **Internal Structure:** **Resulmation-7** establishes continuous boundary modeling, which splits into wave diffraction (**Resulmation-8**), fracture mechanics (**Resulmation-9**), and hyperbolic coordinate systems (**Resulmation-10**). The coordinate principles in **Resulmation-10** feed into wave, antenna, and fluid dynamics applications (**Resulmations 12, 15, 16, & 17**), while the fracture mechanics principles in **Resulmation-9** extend directly into crack tip stress distribution (**Resulmation-18**) and composite material inclusions (**Resulmation-19**).
+- **Pillar 3: Tactical Navigation, Infrastructure & Neural Geometry**
+  - **Core Focus:** Macro-scale intersection tracking, acoustic monitoring, and non-Euclidean machine learning.
+  - **Internal Structure:** **Resulmation-20** establishes hyperbolic Time Difference of Arrival (TDOA) navigation, which extends to subsurface sonar navigation (**Resulmation-21**) and structural acoustic defect tracking (**Resulmation-22**). On the data science side, **Resulmation-28** introduces non-Euclidean machine learning disk geometries, which develop into Poincaré linguistic trees (**Resulmation-30**) and stable hyperbolic layer normalization in neural networks (**Resulmation-31**).
