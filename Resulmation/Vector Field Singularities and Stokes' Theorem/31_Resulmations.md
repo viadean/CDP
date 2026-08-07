@@ -30,13 +30,11 @@
 
 
 
+## 5-Invariant Mass and the Relativistic Geometry of Particle Collisions
 
+> High-energy particle collisions, such as those occurring within the Large Hadron Collider, demonstrate how the efficiency of creating new matter depends heavily on the chosen frame of reference. In the center-of-mass frame, where particles collide with equal and opposite momentum, energy is utilized most effectively to produce heavy particles like the Higgs boson or hypothetical dark matter candidates. However, when viewed from a boosted laboratory frame, the spacetime worldlines of the particles appear sheared and the energy requirements become highly asymmetric, necessitating an exponentially larger amount of energy for one beam to achieve the same physical result. This explains why modern physics favors counter-rotating beam colliders over fixed-target experiments, as the latter faces a severe energy penalty where a significant portion of the beam's energy is wasted as kinetic motion instead of being used to create mass. Regardless of these frame-dependent shifts, the total mass of the system remains perfectly invariant, a principle visually confirmed by the system's momentum state remaining locked to a specific hyperbolic shell throughout the entire collision process.
 
-
-
-
-
-
+- https://youtu.be/noUV1eHLAxg
 
 
 
