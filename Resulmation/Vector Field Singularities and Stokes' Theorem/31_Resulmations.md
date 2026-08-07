@@ -20,6 +20,26 @@
 
 - https://youtu.be/5Sc5wFXLT1w
 
+---
+
+## 4-Invariance and Symmetry in Relativistic Particle Decay
+
+> The visualization of a Higgs boson decaying into two photons demonstrates how fundamental physical laws remain invariant across different relativistic reference frames. While a stationary observer sees the decay products move in opposite directions with equal energy, an observer in motion witnesses a significant shift where the forward-emitted photon gains energy and momentum through blue-shifting while the backward-moving photon loses energy due to red-shifting. Dynamic simulations of this event show that even as these individual energies fluctuate based on the observer's speed, the system's total momentum is perfectly conserved and its net mass remains constant, represented by a point sliding along a stable hyperbolic boundary. These models further verify the constant speed of light by showing that photons always maintain a fixed diagonal orientation in spacetime plots, regardless of the observer's velocity. Ultimately, the side-by-side mapping of spacetime and energy-momentum highlights a unified geometric relationship where frame-dependent changes are precisely balanced to preserve the integrity of the closed physical system.
+
+- https://youtu.be/njB3-DrbUtM
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
