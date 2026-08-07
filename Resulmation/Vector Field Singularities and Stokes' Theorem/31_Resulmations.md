@@ -36,7 +36,13 @@
 
 - https://youtu.be/noUV1eHLAxg
 
+---
 
+## 6-Non-Linear Dynamics of Successive Lorentz Boosts
+
+> Successive Lorentz boosts along different axes demonstrate how relativistic motion creates a curved spatial trajectory rather than the simple straight diagonal lines predicted by classical physics,. When a moving frame's origin undergoes a second perpendicular boost, the resulting path bends non-linearly because the additional velocity introduces further time dilation, which effectively increases the distance traveled along the initial axis during that same interval,. This complex interaction can be visualized through a global vector flow field, which illustrates a relativistic drag or shear that affects the entire environment,. Because these transformations apply uniformly across all of flat spacetime, every point in the coordinate system updates its velocity state identically, highlighting that a Lorentz boost changes the perspective of a global observer without the local twisting of coordinates characteristic of gravitational curvature.
+
+- https://youtu.be/qm1UyULvVsM
 
 
 
