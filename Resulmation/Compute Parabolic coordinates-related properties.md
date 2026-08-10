@@ -71,3 +71,11 @@
 > Parabolic coordinates provide a vital framework for analyzing how waves and fields behave within curved structures, such as those found in specialized radio frequency antennas and waveguides. In a parabolic horn antenna, high-frequency signals enter through a narrow throat as curved, circular ripples of energy. As these waves travel and strike the flared metallic walls, the unique geometry of the parabola ensures that they are reflected in a way that aligns them perfectly, transforming a sprawling signal into a straight, tightly directed beam. These metallic boundaries act as perfect shields, forcing the energy fields to vanish at the contact point and conform to the antenna's shape. This process effectively converts choppy phase ripples into smooth, parallel bands that shoot out of the antenna's mouth into free space.
 
 [![YouTube Video LBdGWZKxu7U](https://img.youtube.com/vi/LBdGWZKxu7U/maxresdefault.jpg)](https://www.youtube.com/watch?v=LBdGWZKxu7U)
+
+---
+
+## R11: Far-Field Directivity and Dynamic Beam Shaping in Parabolic Horn Antennas
+
+> Parabolic coordinates are essential for modeling physical systems with focal points, particularly in the design of horn antennas and waveguides. By applying diffraction theory, engineers can predict the far-field radiation pattern, which typically consists of a powerful main beam directed forward and smaller side lobes caused by edge diffraction. The physical structure of the antenna effectively shields the rear, preventing signal leakage and concentrating energy where it is needed. A critical relationship exists between the aperture width and the beam's precision: as the antenna's mouth widens, the broad broadcast signal condenses into a highly directive needle beam. While this widening sharpens the focus, it also introduces more secondary diffraction ripples at peripheral angles, which is a fundamental trade-off in radar and antenna engineering.
+
+[![YouTube Video hVZLwj2ay2E](https://img.youtube.com/vi/hVZLwj2ay2E/maxresdefault.jpg)](https://www.youtube.com/watch?v=hVZLwj2ay2E)
