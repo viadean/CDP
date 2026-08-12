@@ -125,3 +125,9 @@ https://payhip.com/CDP
 ### R19: Analyzing the Geometry of Instantaneous Propagation and Boundary Dynamics in Parabolic Diffusion Systems
 
 [![YouTube Video o6wpPNzF6mA](https://img.youtube.com/vi/o6wpPNzF6mA/maxresdefault.jpg)](https://www.youtube.com/watch?v=o6wpPNzF6mA)
+
+---
+
+### R20: Analyzing the Spectral Explosion and the Topology of Ill-Posedness in Time-Asymmetric Parabolic Systems
+
+[![YouTube Video ME_A5vXBWmI](https://img.youtube.com/vi/ME_A5vXBWmI/maxresdefault.jpg)](https://www.youtube.com/watch?v=ME_A5vXBWmI)
