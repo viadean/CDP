@@ -101,3 +101,9 @@ https://payhip.com/CDP
 ### R16: Acoustic Eigenmode Simulation and Dynamic Standing Wave Visualization in Parabolic Enclosures
 
 [![YouTube Video rQiESZCoMyk](https://img.youtube.com/vi/rQiESZCoMyk/maxresdefault.jpg)](https://www.youtube.com/watch?v=rQiESZCoMyk)
+
+---
+
+### R17: Dynamic Simulation of Long-Range Sound Propagation and Convergence Zones in the SOFAR Ocean Waveguide using Parabolic Approximations
+
+[![YouTube Video AkzU0UNB3w8](https://img.youtube.com/vi/AkzU0UNB3w8/maxresdefault.jpg)](https://www.youtube.com/watch?v=AkzU0UNB3w8)
