@@ -10,6 +10,12 @@ https://payhip.com/CDP
 
 ## Animated Results
 
+[TOC]
+
+
+
+---
+
 ### R1: Confocal Orthogonality: The Dynamic Geometry of Parabolic Gutters and Bowls
 
 [![YouTube Video RSltBOM7AwU](https://img.youtube.com/vi/RSltBOM7AwU/maxresdefault.jpg)](https://www.youtube.com/watch?v=RSltBOM7AwU)
