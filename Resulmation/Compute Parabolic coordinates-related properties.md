@@ -119,3 +119,9 @@ https://payhip.com/CDP
 ### R18: Analyzing the Diffusion of Uncertainty and the Mechanics of Free Boundaries in Parabolic American Option Pricing Frameworks
 
 [![YouTube Video jNgjcCVxC2A](https://img.youtube.com/vi/jNgjcCVxC2A/maxresdefault.jpg)](https://www.youtube.com/watch?v=jNgjcCVxC2A)
+
+---
+
+### R19: Analyzing the Geometry of Instantaneous Propagation and Boundary Dynamics in Parabolic Diffusion Systems
+
+[![YouTube Video o6wpPNzF6mA](https://img.youtube.com/vi/o6wpPNzF6mA/maxresdefault.jpg)](https://www.youtube.com/watch?v=o6wpPNzF6mA)
