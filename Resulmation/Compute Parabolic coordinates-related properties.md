@@ -113,3 +113,9 @@ https://payhip.com/CDP
 ### R17: Dynamic Simulation of Long-Range Sound Propagation and Convergence Zones in the SOFAR Ocean Waveguide using Parabolic Approximations
 
 [![YouTube Video AkzU0UNB3w8](https://img.youtube.com/vi/AkzU0UNB3w8/maxresdefault.jpg)](https://www.youtube.com/watch?v=AkzU0UNB3w8)
+
+---
+
+### R18: Analyzing the Diffusion of Uncertainty and the Mechanics of Free Boundaries in Parabolic American Option Pricing Frameworks
+
+[![YouTube Video jNgjcCVxC2A](https://img.youtube.com/vi/jNgjcCVxC2A/maxresdefault.jpg)](https://www.youtube.com/watch?v=jNgjcCVxC2A)
