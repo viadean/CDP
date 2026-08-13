@@ -143,3 +143,9 @@ https://payhip.com/CDP
 ### R22: Non-Homogeneous Parabolic Systems and the Dynamics of Maximum Principle Violations
 
 [![YouTube Video Ee8l1Wdg8kw](https://img.youtube.com/vi/Ee8l1Wdg8kw/maxresdefault.jpg)](https://www.youtube.com/watch?v=Ee8l1Wdg8kw)
+
+---
+
+### R23: Instantaneous Regularization and the Smoothing Dynamics of Parabolic Systems
+
+[![YouTube Video lv1oGOwGNLw](https://img.youtube.com/vi/lv1oGOwGNLw/maxresdefault.jpg)](https://www.youtube.com/watch?v=lv1oGOwGNLw)
