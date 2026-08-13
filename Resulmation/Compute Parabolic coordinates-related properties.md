@@ -137,3 +137,9 @@ https://payhip.com/CDP
 ### R21: The Topography of Dissipation and Visual Proof of the Strong Maximum Principle
 
 [![YouTube Video M_Nbf_aR5LU](https://img.youtube.com/vi/M_Nbf_aR5LU/maxresdefault.jpg)](https://www.youtube.com/watch?v=M_Nbf_aR5LU)
+
+---
+
+### R22: Non-Homogeneous Parabolic Systems and the Dynamics of Maximum Principle Violations
+
+[![YouTube Video Ee8l1Wdg8kw](https://img.youtube.com/vi/Ee8l1Wdg8kw/maxresdefault.jpg)](https://www.youtube.com/watch?v=Ee8l1Wdg8kw)
