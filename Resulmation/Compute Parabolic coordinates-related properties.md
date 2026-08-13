@@ -131,3 +131,9 @@ https://payhip.com/CDP
 ### R20: Analyzing the Spectral Explosion and the Topology of Ill-Posedness in Time-Asymmetric Parabolic Systems
 
 [![YouTube Video ME_A5vXBWmI](https://img.youtube.com/vi/ME_A5vXBWmI/maxresdefault.jpg)](https://www.youtube.com/watch?v=ME_A5vXBWmI)
+
+---
+
+### R21: The Topography of Dissipation and Visual Proof of the Strong Maximum Principle
+
+[![YouTube Video M_Nbf_aR5LU](https://img.youtube.com/vi/M_Nbf_aR5LU/maxresdefault.jpg)](https://www.youtube.com/watch?v=M_Nbf_aR5LU)
