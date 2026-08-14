@@ -149,3 +149,9 @@ https://payhip.com/CDP
 ### R23: Instantaneous Regularization and the Smoothing Dynamics of Parabolic Systems
 
 [![YouTube Video lv1oGOwGNLw](https://img.youtube.com/vi/lv1oGOwGNLw/maxresdefault.jpg)](https://www.youtube.com/watch?v=lv1oGOwGNLw)
+
+---
+
+### R24: Asymptotic Relaxation and the Transition to Elliptic Steady-State Equilibrium
+
+[![YouTube Video KHNK4E1SBBA](https://img.youtube.com/vi/KHNK4E1SBBA/maxresdefault.jpg)](https://www.youtube.com/watch?v=KHNK4E1SBBA)
