@@ -66,6 +66,14 @@ https://payhip.com/CDP
 
 ---
 
+#### Parabolic Coordinates & Quantum-Classical Orbit Simulator
+
+[![YouTube Video ZS8vRFLFt0w](https://img.youtube.com/vi/ZS8vRFLFt0w/maxresdefault.jpg)](https://www.youtube.com/watch?v=ZS8vRFLFt0w)
+
+
+
+---
+
 ### R5: Electrostatic Frontiers: Modeling Charge Spikes and Shielding in Parabolic Coordinates
 
 [![YouTube Video ZBLv0N9vlPI](https://img.youtube.com/vi/ZBLv0N9vlPI/maxresdefault.jpg)](https://www.youtube.com/watch?v=ZBLv0N9vlPI)
