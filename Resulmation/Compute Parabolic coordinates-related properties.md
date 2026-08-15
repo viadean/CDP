@@ -80,6 +80,12 @@ https://payhip.com/CDP
 
 ---
 
+#### Parabolic Coordinates Electrostatics Simulation
+
+[![YouTube Video pXJdkQXl7rw](https://img.youtube.com/vi/pXJdkQXl7rw/maxresdefault.jpg)](https://www.youtube.com/watch?v=pXJdkQXl7rw)
+
+---
+
 ### R6: The Stark Effect in Hydrogen: Quantum Perturbation, Energy Manifold Splitting, and Orbital Polarization
 
 [![YouTube Video KlAgU1f8JiU](https://img.youtube.com/vi/KlAgU1f8JiU/maxresdefault.jpg)](https://www.youtube.com/watch?v=KlAgU1f8JiU)
