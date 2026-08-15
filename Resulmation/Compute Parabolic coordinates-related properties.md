@@ -20,13 +20,45 @@ https://payhip.com/CDP
 
 [![YouTube Video RSltBOM7AwU](https://img.youtube.com/vi/RSltBOM7AwU/maxresdefault.jpg)](https://www.youtube.com/watch?v=RSltBOM7AwU)
 
+---
+
+#### 3D Parabolic Coordinates Interactive Explorer
+
+[![YouTube Video wDQb75y9LZU](https://img.youtube.com/vi/wDQb75y9LZU/maxresdefault.jpg)](https://www.youtube.com/watch?v=wDQb75y9LZU)
+
+
+
+---
+
 ### R2: Tracing the Curve: Potential Scattering and Visual Modeling in Parabolic Coordinates
 
 [![YouTube Video xu_RDdbY3yw](https://img.youtube.com/vi/xu_RDdbY3yw/maxresdefault.jpg)](https://www.youtube.com/watch?v=xu_RDdbY3yw)
 
+---
+
+#### Parabolic Coordinates & Potential Scattering Simulator
+
+[![YouTube Video _yt1domrxzE](https://img.youtube.com/vi/_yt1domrxzE/maxresdefault.jpg)](https://www.youtube.com/watch?v=_yt1domrxzE)
+
+
+
+
+
+---
+
 ### R3: Aerodynamic Heat Distribution in Parabolic Coordinate Systems
 
 [![YouTube Video X2iHttxgzBI](https://img.youtube.com/vi/X2iHttxgzBI/maxresdefault.jpg)](https://www.youtube.com/watch?v=X2iHttxgzBI)
+
+---
+
+#### Parabolic Coordinates Aerodynamics & Thermal Simulator
+
+[![YouTube Video SF3da7o2Ack](https://img.youtube.com/vi/SF3da7o2Ack/maxresdefault.jpg)](https://www.youtube.com/watch?v=SF3da7o2Ack)
+
+
+
+---
 
 ### R4: Harmonics of the Parabolic Focus
 
