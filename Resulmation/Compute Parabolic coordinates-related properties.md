@@ -92,6 +92,12 @@ https://payhip.com/CDP
 
 ---
 
+#### Hydrogen Stark Effect Simulator
+
+[![YouTube Video hRJIgrkoo_k](https://img.youtube.com/vi/hRJIgrkoo_k/maxresdefault.jpg)](https://www.youtube.com/watch?v=hRJIgrkoo_k)
+
+---
+
 ### R7: The Parabolic Geometry of Coulomb Scattering: Bridging Classical Trajectories and Quantum Wave Dynamics
 
 [![YouTube Video KlAgU1f8JiU](https://utfs.io/f/nGnSqDveMsqxQPiVFod4ptfEy6lsGQgRBWMrJ9KFkU2edTLZ)](https://www.youtube.com/watch?v=EKnvlaiIFLY)
