@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>CDP - E-Product Hub</title>
+    <title>Resulmation - E-Product Hub</title>
     <script src="https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
     <style>
@@ -31,7 +31,7 @@
         }
         
         .nav-container {
-            max-width: 1200px;
+            max-width: 1400px;
             margin: 0 auto;
             display: flex;
             align-items: center;
@@ -71,7 +71,7 @@
         }
         
         .main-wrapper {
-            max-width: 1200px;
+            max-width: 1400px;
             margin: 0 auto;
             display: flex;
             gap: 20px;
@@ -79,7 +79,7 @@
         }
         
         .sidebar {
-            width: 280px;
+            width: 320px;
             background: white;
             border-radius: 10px;
             box-shadow: 0 10px 40px rgba(0, 0, 0, 0.2);
@@ -87,6 +87,8 @@
             height: fit-content;
             position: sticky;
             top: 120px;
+            max-height: calc(100vh - 150px);
+            overflow-y: auto;
         }
         
         .sidebar-title {
@@ -98,28 +100,28 @@
             padding-bottom: 10px;
         }
         
-        .diagram-list {
+        .content-list {
             display: flex;
             flex-direction: column;
             gap: 10px;
         }
         
-        .diagram-item {
+        .content-item {
             padding: 12px 15px;
             background: #f9f9f9;
             border-radius: 5px;
             cursor: pointer;
             transition: all 0.3s ease;
             border-left: 3px solid transparent;
-            font-size: 0.95em;
+            font-size: 0.9em;
         }
         
-        .diagram-item:hover {
+        .content-item:hover {
             background: #f0f0f0;
             border-left-color: #667eea;
         }
         
-        .diagram-item.active {
+        .content-item.active {
             background: #667eea;
             color: white;
             border-left-color: #764ba2;
@@ -199,7 +201,7 @@
             background: #e0e0e0;
         }
         
-        .diagram-content {
+        .content {
             margin-top: 20px;
             padding: 20px;
             background: white;
@@ -360,13 +362,13 @@
             margin-bottom: 8px;
         }
 
-        .diagram-actions {
+        .content-actions {
             margin-top: 15px;
             display: flex;
             gap: 10px;
         }
 
-        .diagram-actions a, .diagram-actions button {
+        .content-actions a, .content-actions button {
             flex: 1;
             padding: 10px 15px;
             background: #667eea;
@@ -380,7 +382,7 @@
             text-align: center;
         }
 
-        .diagram-actions a:hover, .diagram-actions button:hover {
+        .content-actions a:hover, .content-actions button:hover {
             background: #764ba2;
         }
 
@@ -393,7 +395,7 @@
             background: #e0e0e0 !important;
         }
 
-        @media (max-width: 900px) {
+        @media (max-width: 1000px) {
             .main-wrapper {
                 flex-direction: column;
             }
@@ -403,9 +405,10 @@
                 position: relative;
                 top: 0;
                 height: auto;
+                max-height: none;
             }
 
-            .diagram-list {
+            .content-list {
                 display: grid;
                 grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
                 gap: 10px;
@@ -435,7 +438,7 @@
                 justify-content: space-around;
             }
 
-            .diagram-list {
+            .content-list {
                 grid-template-columns: 1fr;
             }
         }
@@ -444,175 +447,97 @@
 <body>
     <div class="navbar">
         <div class="nav-container">
-            <a href="#" class="nav-brand">🚀 CDP</a>
+            <a href="#" class="nav-brand">📊 Resulmation Hub</a>
             <div class="nav-links">
-                <button class="nav-btn active" onclick="showPage('home')">Home</button>
-                <button class="nav-btn" onclick="showPage('documentation')">Documentation</button>
-                <button class="nav-btn" onclick="showPage('resources')">Resources</button>
+                <button class="nav-btn active" onclick="showPage('overview')">Overview</button>
             </div>
         </div>
     </div>
 
     <div class="main-wrapper">
-        <!-- Sidebar with Diagrams -->
+        <!-- Sidebar with Resulmation content list -->
         <div class="sidebar">
-            <div class="sidebar-title">📊 Diagrams</div>
-            <div class="diagram-list" id="diagramList"></div>
+            <div class="sidebar-title">📚 Resulmations</div>
+            <div class="content-list" id="contentList"></div>
         </div>
 
         <!-- Main Content -->
         <div class="container">
-            <!-- Home Page -->
-            <div id="home" class="page active">
+            <!-- Overview Page -->
+            <div id="overview" class="page active">
                 <div class="header-content">
-                    <h1>🚀 CDP</h1>
-                    <p class="subtitle">E-Product Hub</p>
+                    <h1>📊 Resulmation Hub</h1>
+                    <p class="subtitle">E-Product Hub - Comprehensive Research & Visualization Collection</p>
                     
-                    <p>Welcome to the CDP E-Product Hub repository. This is your central hub for managing and accessing digital products.</p>
+                    <p>Welcome to the Resulmation Hub. This repository contains a comprehensive collection of research, analysis, and animated visualizations across multiple scientific and engineering domains.</p>
                     
                     <div class="links">
                         <a href="https://github.com/viadean/CDP" class="btn">View on GitHub</a>
-                        <a href="https://payhip.com/CDP" class="btn btn-secondary">Visit Website</a>
+                        <a href="https://payhip.com/CDP" class="btn btn-secondary">Visit E-Product Store</a>
                     </div>
                 </div>
                 
-                <div class="section-title">About CDP</div>
+                <div class="section-title">Featured Collections</div>
                 <div class="content-box">
-                    <h3>What is CDP?</h3>
-                    <p>CDP (Centralized Data Platform) is a comprehensive E-Product Hub designed to streamline digital product management and distribution. Our platform provides enterprise-grade solutions for managing, organizing, and delivering digital products efficiently.</p>
+                    <h3>📐 Parabolic Coordinates & Applications</h3>
+                    <p>Explore the dynamic geometry of parabolic coordinate systems through 24+ animated visualizations covering confocal orthogonality, potential scattering, aerodynamic analysis, quantum mechanics, optical systems, and more.</p>
                 </div>
                 
                 <div class="content-box">
-                    <h3>Key Features</h3>
-                    <ul>
-                        <li>Centralized product management dashboard</li>
-                        <li>Advanced analytics and reporting</li>
-                        <li>Secure data handling and storage</li>
-                        <li>Multi-channel distribution support</li>
-                        <li>Real-time monitoring and alerts</li>
-                        <li>Scalable architecture for enterprise use</li>
-                    </ul>
+                    <h3>🌀 Vector Field Analysis</h3>
+                    <p>Comprehensive analysis of vector fields in cylindrical coordinates, featuring vortex dynamics, Kelvin's circulation theorem, turbulence, topological invariants, and chaotic systems.</p>
                 </div>
                 
                 <div class="content-box">
-                    <h3>Get Started</h3>
-                    <p>To get started with CDP, explore our diagrams using the sidebar to understand the system architecture, check our documentation for detailed guides, and visit our resources section for additional information.</p>
+                    <h3>📊 Vector Field Singularities & Advanced Topics</h3>
+                    <p>Deep dive into relativistic spacetime, quantum horizons, hyperbolic coordinate mathematics, fracture mechanics, fluid dynamics, navigation systems, and neural topology.</p>
+                </div>
+                
+                <div class="content-box">
+                    <h3>🌀 Topological Singularities & Vortex Dynamics</h3>
+                    <p>Modeling and visualization of topological singularities and vortices in classical and quantum systems with central singularities and complex field dynamics.</p>
+                </div>
+
+                <div class="section-title">How to Use</div>
+                <div class="content-box">
+                    <h3>Browse Content</h3>
+                    <p>Select any item from the sidebar to view its complete content, including descriptions, animated visualizations, and YouTube videos showcasing the research results.</p>
                 </div>
             </div>
 
-            <!-- Documentation Page -->
-            <div id="documentation" class="page">
-                <h1 style="text-align: center; margin-bottom: 30px;">📚 Documentation</h1>
-                
-                <div class="section-title">System Architecture</div>
-                <div class="content-box">
-                    <h3>Overview</h3>
-                    <p>The CDP system is built on a scalable microservices architecture. Each component is designed to be independent, maintainable, and easy to scale.</p>
-                    <p>For detailed architecture information, please refer to the diagrams available in the sidebar - particularly the BlockDiagram and ERD.</p>
-                </div>
-                
-                <div class="section-title">API Documentation</div>
-                <div class="content-box">
-                    <h3>RESTful APIs</h3>
-                    <p>CDP provides comprehensive RESTful APIs for integration with third-party applications. All endpoints are documented and include examples.</p>
-                    <ul>
-                        <li><strong>/api/products</strong> - Product management endpoints</li>
-                        <li><strong>/api/analytics</strong> - Analytics and reporting endpoints</li>
-                        <li><strong>/api/users</strong> - User management endpoints</li>
-                        <li><strong>/api/reports</strong> - Report generation endpoints</li>
-                    </ul>
-                </div>
-                
-                <div class="section-title">Database Schema</div>
-                <div class="content-box">
-                    <h3>Entity Relationships</h3>
-                    <p>Our database schema is optimized for performance and scalability. The ERD diagram provides a visual representation of all entities and their relationships.</p>
-                </div>
-                
-                <div class="section-title">Workflows</div>
-                <div class="content-box">
-                    <h3>Process Flows</h3>
-                    <p>CDP follows well-defined workflows for all major operations. See the Flowchart and SequenceDiagram in the sidebar for detailed process information.</p>
-                </div>
-            </div>
-
-            <!-- Resources Page -->
-            <div id="resources" class="page">
-                <h1 style="text-align: center; margin-bottom: 30px;">🔗 Resources</h1>
-                
-                <div class="section-title">Quick Links</div>
-                <div class="content-box">
-                    <h3>Official Links</h3>
-                    <ul>
-                        <li><a href="https://github.com/viadean/CDP" style="color: #667eea; text-decoration: none;">GitHub Repository</a> - Access source code and issues</li>
-                        <li><a href="https://payhip.com/CDP" style="color: #667eea; text-decoration: none;">PayHip Store</a> - Purchase products and licenses</li>
-                    </ul>
-                </div>
-                
-                <div class="section-title">Learning Materials</div>
-                <div class="content-box">
-                    <h3>Getting Started Guides</h3>
-                    <ul>
-                        <li>Installation and Setup</li>
-                        <li>Configuration Guide</li>
-                        <li>Integration Tutorials</li>
-                        <li>Best Practices</li>
-                    </ul>
-                </div>
-                
-                <div class="section-title">Support</div>
-                <div class="content-box">
-                    <h3>Help & Support</h3>
-                    <p>For issues, questions, or feature requests, please visit our GitHub Issues page or contact us through the official channels.</p>
-                    <ul>
-                        <li>GitHub Issues - Report bugs and request features</li>
-                        <li>GitHub Discussions - Ask questions and share ideas</li>
-                        <li>Email Support - For enterprise customers</li>
-                    </ul>
-                </div>
-                
-                <div class="section-title">Community</div>
-                <div class="content-box">
-                    <h3>Contribute</h3>
-                    <p>We welcome contributions from the community! Check out our contributing guidelines on GitHub to get started.</p>
-                </div>
-            </div>
-
-            <!-- Diagram Display Section -->
-            <div id="diagramDisplay"></div>
+            <!-- Content Display Section -->
+            <div id="contentDisplay"></div>
         </div>
     </div>
 
     <script>
-        // List of diagrams in the Diagrams folder
-        const diagrams = [
-            { name: 'ASCII Diagram', file: 'ASCIIDiagram.md' },
-            { name: 'Block Diagram', file: 'BlockDiagram.md' },
-            { name: 'ERD', file: 'ERD.md' },
-            { name: 'Flowchart', file: 'Flowchart.md' },
-            { name: 'Kanban', file: 'Kanban.md' },
-            { name: 'Quadrant Chart', file: 'QuadrantChart.md' },
-            { name: 'Sequence Diagram', file: 'SequenceDiagram.md' },
-            { name: 'State Diagram', file: 'StateDiagram.md' }
+        // List of Resulmation files
+        const resulmations = [
+            { name: 'Parabolic Coordinates', file: 'Compute Parabolic coordinates-related properties.md' },
+            { name: 'Vector Field Analysis', file: 'Vector Field Analysis in Cylindrical Coordinates.md' },
+            { name: 'Vector Field Singularities', file: 'Vector Field Singularities and Stokes\' Theorem.md' },
+            { name: 'Topological Singularities', file: 'Topological Singularity and Vortex Dynamics.md' }
         ];
 
-        // Initialize diagram sidebar
-        function initDiagrams() {
-            const listContainer = document.getElementById('diagramList');
+        // Initialize content sidebar
+        function initContent() {
+            const listContainer = document.getElementById('contentList');
             listContainer.innerHTML = '';
-            diagrams.forEach((diagram, index) => {
-                const item = document.createElement('div');
-                item.className = 'diagram-item';
-                item.textContent = diagram.name;
-                item.onclick = () => {
+            resulmations.forEach((item, index) => {
+                const itemEl = document.createElement('div');
+                itemEl.className = 'content-item';
+                itemEl.textContent = item.name;
+                itemEl.onclick = () => {
                     // Remove active class from all items
-                    document.querySelectorAll('.diagram-item').forEach(el => el.classList.remove('active'));
+                    document.querySelectorAll('.content-item').forEach(el => el.classList.remove('active'));
                     // Add active class to clicked item
-                    item.classList.add('active');
-                    // Load preview
-                    loadPreview(diagram);
+                    itemEl.classList.add('active');
+                    // Hide overview
+                    document.getElementById('overview').classList.remove('active');
+                    // Load content
+                    loadContent(item);
                 };
-                listContainer.appendChild(item);
+                listContainer.appendChild(itemEl);
             });
         }
 
@@ -626,41 +551,43 @@
             const buttons = document.querySelectorAll('.nav-btn');
             buttons.forEach(btn => btn.classList.remove('active'));
             
-            // Remove active state from diagram items
-            document.querySelectorAll('.diagram-item').forEach(item => item.classList.remove('active'));
+            // Remove active state from content items
+            document.querySelectorAll('.content-item').forEach(item => item.classList.remove('active'));
             
-            // Clear diagram display
-            document.getElementById('diagramDisplay').innerHTML = '';
+            // Clear content display
+            document.getElementById('contentDisplay').innerHTML = '';
             
             // Show selected page
             document.getElementById(pageId).classList.add('active');
             
             // Add active state to clicked button
-            event.target.classList.add('active');
+            if (event && event.target) {
+                event.target.classList.add('active');
+            }
             
             // Scroll to top
             window.scrollTo(0, 0);
         }
 
-        // Function to load and display diagram preview with ALL content from file
-        async function loadPreview(diagram) {
+        // Function to load and display content with ALL content from file
+        async function loadContent(item) {
             try {
-                const response = await fetch(`https://raw.githubusercontent.com/viadean/CDP/main/Diagrams/${diagram.file}`);
+                const response = await fetch(`https://raw.githubusercontent.com/viadean/CDP/main/Resulmation/${encodeURIComponent(item.file)}`);
                 const content = await response.text();
                 
-                const displayContainer = document.getElementById('diagramDisplay');
+                const displayContainer = document.getElementById('contentDisplay');
                 
                 // Convert markdown to HTML - this will render everything including text and diagrams
                 let htmlContent = marked.parse(content);
                 
                 displayContainer.innerHTML = `
-                    <div class="diagram-content">
+                    <div class="content">
                         <div class="markdown-content">
                             ${htmlContent}
                         </div>
-                        <div class="diagram-actions" style="margin-top: 20px;">
-                            <a href="https://github.com/viadean/CDP/blob/main/Diagrams/${diagram.file}">View on GitHub</a>
-                            <button class="close-btn" onclick="closeDiagram()">Close</button>
+                        <div class="content-actions" style="margin-top: 30px;">
+                            <a href="https://github.com/viadean/CDP/blob/main/Resulmation/${encodeURIComponent(item.file)}">View on GitHub</a>
+                            <button class="close-btn" onclick="closeContent()">Close</button>
                         </div>
                     </div>
                 `;
@@ -668,29 +595,31 @@
                 // Reinitialize mermaid to render diagrams in the markdown
                 mermaid.contentLoaded();
                 
-                // Scroll to diagram display
+                // Scroll to content display
                 displayContainer.scrollIntoView({ behavior: 'smooth' });
             } catch (error) {
-                console.error('Error loading diagram:', error);
-                const displayContainer = document.getElementById('diagramDisplay');
+                console.error('Error loading content:', error);
+                const displayContainer = document.getElementById('contentDisplay');
                 displayContainer.innerHTML = `
-                    <div class="diagram-content">
-                        <h2>Error Loading ${diagram.name}</h2>
-                        <p>Could not load the diagram. Please <a href="https://github.com/viadean/CDP/blob/main/Diagrams/${diagram.file}">view it on GitHub</a>.</p>
-                        <button class="close-btn" onclick="closeDiagram()">Close</button>
+                    <div class="content">
+                        <h2>Error Loading Content</h2>
+                        <p>Could not load the content. Please <a href="https://github.com/viadean/CDP/tree/main/Resulmation">view it on GitHub</a>.</p>
+                        <button class="close-btn" onclick="closeContent()">Close</button>
                     </div>
                 `;
             }
         }
 
-        // Function to close diagram
-        function closeDiagram() {
-            document.getElementById('diagramDisplay').innerHTML = '';
-            document.querySelectorAll('.diagram-item').forEach(item => item.classList.remove('active'));
+        // Function to close content
+        function closeContent() {
+            document.getElementById('contentDisplay').innerHTML = '';
+            document.getElementById('overview').classList.add('active');
+            document.querySelectorAll('.content-item').forEach(item => item.classList.remove('active'));
+            window.scrollTo(0, 0);
         }
 
         // Initialize
-        initDiagrams();
+        initContent();
         mermaid.initialize({ startOnLoad: true, theme: 'default' });
     </script>
 </body>
