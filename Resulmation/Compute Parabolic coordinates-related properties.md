@@ -104,6 +104,12 @@ https://payhip.com/CDP
 
 ---
 
+#### Parabolic Coordinates & Atomic Scattering Simulator
+
+[![YouTube Video 94aV5brCY4E](https://img.youtube.com/vi/94aV5brCY4E/maxresdefault.jpg)](https://www.youtube.com/watch?v=94aV5brCY4E)
+
+---
+
 ### R8: Modeling Thermal Plumes and Stagnation Point Shifts on Heated Parabolic Surfaces under External Cross-Winds
 
 [![YouTube Video 5lN-bADOBPs](https://img.youtube.com/vi/5lN-bADOBPs/maxresdefault.jpg)](https://www.youtube.com/watch?v=5lN-bADOBPs)
