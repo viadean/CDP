@@ -130,9 +130,21 @@ https://payhip.com/CDP
 
 ---
 
+#### Quantum Dot Parabolic Coordinates Simulation
+
+[![YouTube Video km8xXJx4IVk](https://img.youtube.com/vi/km8xXJx4IVk/maxresdefault.jpg)](https://www.youtube.com/watch?v=km8xXJx4IVk)
+
+---
+
 ### R10: Wave Propagation and Phase Flattening in Parabolic Horn Antennas
 
 [![YouTube Video LBdGWZKxu7U](https://img.youtube.com/vi/LBdGWZKxu7U/maxresdefault.jpg)](https://www.youtube.com/watch?v=LBdGWZKxu7U)
+
+---
+
+#### Parabolic Antenna Wave Simulator
+
+[![YouTube Video 46C8ebD2cTU](https://img.youtube.com/vi/46C8ebD2cTU/maxresdefault.jpg)](https://www.youtube.com/watch?v=46C8ebD2cTU)
 
 ---
 
