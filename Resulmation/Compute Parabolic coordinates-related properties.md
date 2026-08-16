@@ -116,6 +116,14 @@ https://payhip.com/CDP
 
 ---
 
+#### Parabolic Coordinates Thermal Convection & Fluid Dynamics Simulation
+
+[![YouTube Video vj1iVU3BuGU](https://img.youtube.com/vi/vj1iVU3BuGU/maxresdefault.jpg)](https://www.youtube.com/watch?v=vj1iVU3BuGU)
+
+
+
+---
+
 ### R9: Spatial Dynamics and Confinement of Electron Clouds within Paraboloid Quantum Dots
 
 [![YouTube Video 6g2osZDn02s](https://img.youtube.com/vi/6g2osZDn02s/maxresdefault.jpg)](https://www.youtube.com/watch?v=6g2osZDn02s)
