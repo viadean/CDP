@@ -166,6 +166,12 @@ https://payhip.com/CDP
 
 ---
 
+#### Off-Axis Parabolic Mirror & Caustic Simulation
+
+[![YouTube Video -qEDWafh-t0](https://img.youtube.com/vi/-qEDWafh-t0/maxresdefault.jpg)](https://www.youtube.com/watch?v=-qEDWafh-t0)
+
+---
+
 ### R13: Topologically Stable Weber Beams with Parabolic Vector Optical Fields for Self-Healing High-Capacity Communication
 
 [![YouTube Video TXYTvm5itD8](https://img.youtube.com/vi/TXYTvm5itD8/maxresdefault.jpg)](https://www.youtube.com/watch?v=TXYTvm5itD8)
