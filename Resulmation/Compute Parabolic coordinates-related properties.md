@@ -188,7 +188,15 @@ https://payhip.com/CDP
 
 ### R14: Aerodynamic Analysis of Fluid Flow and Lift Generation for Parabolic Obstacles using Potential Flow Theory and Bernoulli’s Equation
 
-[![](https://utfs.io/f/nGnSqDveMsqxUpcQbVdKWbIn0QH7yVhjvNeukgOsCcZ98o2f)](https://www.youtube.com/watch?v=7GekanaGiaY)
+[![YouTube Video 7GekanaGiaY](https://img.youtube.com/vi/7GekanaGiaY/maxresdefault.jpg)](https://www.youtube.com/watch?v=7GekanaGiaY)
+
+---
+
+#### Aerodynamic Flow & Lift in Parabolic Coordinates Simulator
+
+[![YouTube Video cn2zt8CztwY](https://img.youtube.com/vi/cn2zt8CztwY/maxresdefault.jpg)](https://www.youtube.com/watch?v=cn2zt8CztwY)
+
+
 
 ---
 
