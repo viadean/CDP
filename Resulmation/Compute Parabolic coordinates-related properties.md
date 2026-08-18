@@ -204,7 +204,11 @@ https://payhip.com/CDP
 
 [![YouTube Video 3JbAruCNkc8](https://img.youtube.com/vi/3JbAruCNkc8/maxresdefault.jpg)](https://www.youtube.com/watch?v=3JbAruCNkc8)
 
+---
 
+#### Parabolic Thermal Convection Simulator
+
+[![YouTube Video 2-eKMTHDHyU](https://img.youtube.com/vi/2-eKMTHDHyU/maxresdefault.jpg)](https://www.youtube.com/watch?v=2-eKMTHDHyU)
 
 
 
@@ -213,6 +217,12 @@ https://payhip.com/CDP
 ### R16: Acoustic Eigenmode Simulation and Dynamic Standing Wave Visualization in Parabolic Enclosures
 
 [![YouTube Video rQiESZCoMyk](https://img.youtube.com/vi/rQiESZCoMyk/maxresdefault.jpg)](https://www.youtube.com/watch?v=rQiESZCoMyk)
+
+---
+
+#### Acoustic Simulations in Parabolic Coordinates
+
+[![YouTube Video 3cRuNHqUzDw](https://img.youtube.com/vi/3cRuNHqUzDw/maxresdefault.jpg)](https://www.youtube.com/watch?v=3cRuNHqUzDw)
 
 ---
 
