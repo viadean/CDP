@@ -232,9 +232,29 @@ https://payhip.com/CDP
 
 ---
 
+#### Ocean Acoustic Tomography & SOFAR Channel Waveguide Simulator
+
+[![YouTube Video HP5NHeldJK0](https://img.youtube.com/vi/HP5NHeldJK0/maxresdefault.jpg)](https://www.youtube.com/watch?v=HP5NHeldJK0)
+
+
+
+---
+
 ### R18: Analyzing the Diffusion of Uncertainty and the Mechanics of Free Boundaries in Parabolic American Option Pricing Frameworks
 
 [![YouTube Video jNgjcCVxC2A](https://img.youtube.com/vi/jNgjcCVxC2A/maxresdefault.jpg)](https://www.youtube.com/watch?v=jNgjcCVxC2A)
+
+---
+
+#### Parabolic Option Surfaces & Free Boundary Visualizer
+
+[![YouTube Video Awdzx_lkIr4](https://img.youtube.com/vi/Awdzx_lkIr4/maxresdefault.jpg)](https://www.youtube.com/watch?v=Awdzx_lkIr4)
+
+
+
+
+
+
 
 ---
 
