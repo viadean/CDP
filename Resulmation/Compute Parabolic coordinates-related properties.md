@@ -304,9 +304,21 @@ https://payhip.com/CDP
 
 ---
 
+#### Parabolic Diffusion & Source Terms Simulation
+
+[![YouTube Video Mu1soXoUYTg](https://img.youtube.com/vi/Mu1soXoUYTg/maxresdefault.jpg)](https://www.youtube.com/watch?v=Mu1soXoUYTg)
+
+---
+
 ### R23: Instantaneous Regularization and the Smoothing Dynamics of Parabolic Systems
 
 [![YouTube Video lv1oGOwGNLw](https://img.youtube.com/vi/lv1oGOwGNLw/maxresdefault.jpg)](https://www.youtube.com/watch?v=lv1oGOwGNLw)
+
+---
+
+#### Parabolic vs Hyperbolic Systems Visualizer
+
+[![YouTube Video FncVONJlK1Y](https://img.youtube.com/vi/FncVONJlK1Y/maxresdefault.jpg)](https://www.youtube.com/watch?v=FncVONJlK1Y)
 
 ---
 
