@@ -264,9 +264,23 @@ https://payhip.com/CDP
 
 ---
 
+#### Parabolic Systems & Heat Equation Simulation Dashboard
+
+[![YouTube Video d_QuKcMncA8](https://img.youtube.com/vi/d_QuKcMncA8/maxresdefault.jpg)](https://www.youtube.com/watch?v=d_QuKcMncA8)
+
+
+
+---
+
 ### R20: Analyzing the Spectral Explosion and the Topology of Ill-Posedness in Time-Asymmetric Parabolic Systems
 
 [![YouTube Video ME_A5vXBWmI](https://img.youtube.com/vi/ME_A5vXBWmI/maxresdefault.jpg)](https://www.youtube.com/watch?v=ME_A5vXBWmI)
+
+---
+
+#### Parabolic Systems Time-Asymmetry Simulator
+
+[![YouTube Video 4lrpGb4QyBI](https://img.youtube.com/vi/4lrpGb4QyBI/maxresdefault.jpg)](https://www.youtube.com/watch?v=4lrpGb4QyBI)
 
 ---
 
