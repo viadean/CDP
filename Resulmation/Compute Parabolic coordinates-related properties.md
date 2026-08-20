@@ -290,6 +290,14 @@ https://payhip.com/CDP
 
 ---
 
+#### Parabolic Systems & Strong Maximum Principle Simulation
+
+[![YouTube Video 9cS5Jz77iy0](https://img.youtube.com/vi/9cS5Jz77iy0/maxresdefault.jpg)](https://www.youtube.com/watch?v=9cS5Jz77iy0)
+
+
+
+---
+
 ### R22: Non-Homogeneous Parabolic Systems and the Dynamics of Maximum Principle Violations
 
 [![YouTube Video Ee8l1Wdg8kw](https://img.youtube.com/vi/Ee8l1Wdg8kw/maxresdefault.jpg)](https://www.youtube.com/watch?v=Ee8l1Wdg8kw)
