@@ -8,51 +8,49 @@ https://payhip.com/b/RpGbc
 
 https://payhip.com/CDP
 
-## Resulmations
-
-### R1-The Geometry of Spacetime and Lorentz Transformations
-
-> The analysis details the visualization of a **Lorentz boost** as a **hyperbolic rotation** of spacetime, where a square coordinate grid transforms into a skewed diamond-like structure as the velocity ratio ($\beta$) increases,. By calculating relativistic parameters such as the **Lorentz factor ($\gamma$)** and **rapidity ($\psi$)**, a Minkowski Spacetime Diagram can illustrate the **"Scissors Effect"**, where the temporal and spatial axes of a moving frame tilt toward the fixed 45° light cone,. This geometric warping highlights the **relativity of simultaneity**, demonstrating that events occurring at the same time in a stationary frame appear scattered across different times for a moving observer. Dynamic animations further reveal that while the grid is compressed symmetrically toward the light cone—a phenomenon described as the **squeeze vector**—the **hyperbolic area** of each grid block remains perfectly preserved, representing the mathematical conservation of the spacetime interval ($s^2$),. Finally, the visualization shows that as speeds approach the speed of light, the Lorentz factor spikes dramatically, mapping the exponential energy requirements for near-light-speed acceleration.
+## R1: The Geometry of Spacetime and Lorentz Transformations
 
 [![YouTube Video vloieBeZXAc](https://img.youtube.com/vi/vloieBeZXAc/maxresdefault.jpg)](https://www.youtube.com/watch?v=vloieBeZXAc)
 
 ---
 
-### R2-Visualizing Wigner Rotation and Thomas Precession
+### Lorentz Boost & Minkowski Spacetime Simulator
 
-> The analysis details a Python-based visualization of **Wigner Rotation** and its physical manifestation as **Thomas Precession**, which occurs when two non-collinear Lorentz boosts—such as one along the x-axis followed by one along the y-axis—result in a frame that is both moving diagonally and physically rotated relative to the starting frame. This phenomenon is illustrated through static and animated coordinate triads where the crimson X' axis is shown to warp and tilt toward the Y domain, while the royalblue Y' axis remains parallel to the grid lines even as the entire origin drifts diagonally. Ultimately, these visualizations demonstrate the "frame twisting" experienced by an accelerating electron in an atom, which accounts for a 1/2 factor correction in its spin energy levels compared to classical predictions.
+[![YouTube Video ZD3Fob2ttoE](https://img.youtube.com/vi/ZD3Fob2ttoE/maxresdefault.jpg)](https://www.youtube.com/watch?v=ZD3Fob2ttoE)
+
+---
+
+## R2: Visualizing Wigner Rotation and Thomas Precession
 
 [![YouTube Video G6W8Py3oRGI](https://img.youtube.com/vi/G6W8Py3oRGI/maxresdefault.jpg)](https://www.youtube.com/watch?v=G6W8Py3oRGI)
 
 ---
 
-### R3-The Geometric Mirror of Spacetime and Energy-Momentum
+### Wigner Rotation & Thomas Precession Advanced Visualizer
 
-> The analysis demonstrates a profound physical symmetry between spacetime and energy-momentum coordinates, illustrating that both systems warp in an identical, mirror-image fashion when subjected to a Lorentz boost,. Because both frameworks share the same underlying mathematical structure, energy effectively behaves like a temporal coordinate while momentum acts like a spatial coordinate, resulting in matching grid tilts and diamond-like shearing in visual simulations,. These visualizations highlight how rest mass remains strictly invariant, as seen by momentum grid elements sliding precisely along static curved boundaries even as velocity increases. Finally, the 45-degree diagonal serves as a unified limit for both systems, representing the light cone in spacetime and the fixed path of massless particles in energy-momentum space, proving that light-speed barriers remain consistent across both perspectives.
+[![YouTube Video nJ8Hx9EtCqQ](https://img.youtube.com/vi/nJ8Hx9EtCqQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=nJ8Hx9EtCqQ)
+
+---
+
+## R3-The Geometric Mirror of Spacetime and Energy-Momentum
 
 [![YouTube Video 5Sc5wFXLT1w](https://img.youtube.com/vi/5Sc5wFXLT1w/maxresdefault.jpg)](https://www.youtube.com/watch?v=5Sc5wFXLT1w)
 
 ---
 
-### R4-Invariance and Symmetry in Relativistic Particle Decay
-
-> The visualization of a Higgs boson decaying into two photons demonstrates how fundamental physical laws remain invariant across different relativistic reference frames. While a stationary observer sees the decay products move in opposite directions with equal energy, an observer in motion witnesses a significant shift where the forward-emitted photon gains energy and momentum through blue-shifting while the backward-moving photon loses energy due to red-shifting. Dynamic simulations of this event show that even as these individual energies fluctuate based on the observer's speed, the system's total momentum is perfectly conserved and its net mass remains constant, represented by a point sliding along a stable hyperbolic boundary. These models further verify the constant speed of light by showing that photons always maintain a fixed diagonal orientation in spacetime plots, regardless of the observer's velocity. Ultimately, the side-by-side mapping of spacetime and energy-momentum highlights a unified geometric relationship where frame-dependent changes are precisely balanced to preserve the integrity of the closed physical system.
+## R4-Invariance and Symmetry in Relativistic Particle Decay
 
 [![YouTube Video njB3-DrbUtM](https://img.youtube.com/vi/njB3-DrbUtM/maxresdefault.jpg)](https://www.youtube.com/watch?v=njB3-DrbUtM)
 
 ---
 
-### R5-Invariant Mass and the Relativistic Geometry of Particle Collisions
-
-> High-energy particle collisions, such as those occurring within the Large Hadron Collider, demonstrate how the efficiency of creating new matter depends heavily on the chosen frame of reference. In the center-of-mass frame, where particles collide with equal and opposite momentum, energy is utilized most effectively to produce heavy particles like the Higgs boson or hypothetical dark matter candidates. However, when viewed from a boosted laboratory frame, the spacetime worldlines of the particles appear sheared and the energy requirements become highly asymmetric, necessitating an exponentially larger amount of energy for one beam to achieve the same physical result. This explains why modern physics favors counter-rotating beam colliders over fixed-target experiments, as the latter faces a severe energy penalty where a significant portion of the beam's energy is wasted as kinetic motion instead of being used to create mass. Regardless of these frame-dependent shifts, the total mass of the system remains perfectly invariant, a principle visually confirmed by the system's momentum state remaining locked to a specific hyperbolic shell throughout the entire collision process.
+## R5-Invariant Mass and the Relativistic Geometry of Particle Collisions
 
 [![YouTube Video njB3-DrbUtM](https://utfs.io/f/nGnSqDveMsqxQPfS2i14ptfEy6lsGQgRBWMrJ9KFkU2edTLZ)](https://www.youtube.com/watch?v=noUV1eHLAxg)
 
 ---
 
-### R6-Non-Linear Dynamics of Successive Lorentz Boosts
-
-> Successive Lorentz boosts along different axes demonstrate how relativistic motion creates a curved spatial trajectory rather than the simple straight diagonal lines predicted by classical physics,. When a moving frame's origin undergoes a second perpendicular boost, the resulting path bends non-linearly because the additional velocity introduces further time dilation, which effectively increases the distance traveled along the initial axis during that same interval,. This complex interaction can be visualized through a global vector flow field, which illustrates a relativistic drag or shear that affects the entire environment,. Because these transformations apply uniformly across all of flat spacetime, every point in the coordinate system updates its velocity state identically, highlighting that a Lorentz boost changes the perspective of a global observer without the local twisting of coordinates characteristic of gravitational curvature.
+## R6-Non-Linear Dynamics of Successive Lorentz Boosts
 
 [![YouTube Video qm1UyULvVsM](https://img.youtube.com/vi/qm1UyULvVsM/maxresdefault.jpg)](https://www.youtube.com/watch?v=qm1UyULvVsM)
 

@@ -325,3 +325,10 @@ https://payhip.com/CDP
 ### R24: Asymptotic Relaxation and the Transition to Elliptic Steady-State Equilibrium
 
 [![YouTube Video KHNK4E1SBBA](https://img.youtube.com/vi/KHNK4E1SBBA/maxresdefault.jpg)](https://www.youtube.com/watch?v=KHNK4E1SBBA)
+
+---
+
+#### Parabolic PDE Relaxation Simulator
+
+[![YouTube Video ozMejl4tEjY](https://img.youtube.com/vi/ozMejl4tEjY/maxresdefault.jpg)](https://www.youtube.com/watch?v=ozMejl4tEjY)
+
