@@ -40,19 +40,53 @@ https://payhip.com/CDP
 
 ## R4-Invariance and Symmetry in Relativistic Particle Decay
 
+Primary Focus: Geometric Boundaries & Mass Shell Invariance
+
 [![YouTube Video njB3-DrbUtM](https://img.youtube.com/vi/njB3-DrbUtM/maxresdefault.jpg)](https://www.youtube.com/watch?v=njB3-DrbUtM)
+
+---
+
+### Relativistic Higgs Boson Decay Simulation Dashboard
+
+Primary Focus: Time-Evolution & Real-Time Boost Kinematics
+
+[![YouTube Video 2fePRJdGOaY](https://img.youtube.com/vi/2fePRJdGOaY/maxresdefault.jpg)](https://www.youtube.com/watch?v=2fePRJdGOaY)
+
+
 
 ---
 
 ## R5-Invariant Mass and the Relativistic Geometry of Particle Collisions
 
+Primary Focus: Geometric & structural frame behavior.
+
 [![YouTube Video njB3-DrbUtM](https://utfs.io/f/nGnSqDveMsqxQPfS2i14ptfEy6lsGQgRBWMrJ9KFkU2edTLZ)](https://www.youtube.com/watch?v=noUV1eHLAxg)
+
+---
+
+### Relativistic Particle Collision Simulator
+
+Primary Focus: Quantitative mechanics & decay tracking
+
+[![YouTube Video M_Z4Mah-qIY](https://img.youtube.com/vi/M_Z4Mah-qIY/maxresdefault.jpg)](https://www.youtube.com/watch?v=M_Z4Mah-qIY)
+
+
 
 ---
 
 ## R6-Non-Linear Dynamics of Successive Lorentz Boosts
 
+Primary Focus: Observational motion and geometric trajectory behavior.
+
 [![YouTube Video qm1UyULvVsM](https://img.youtube.com/vi/qm1UyULvVsM/maxresdefault.jpg)](https://www.youtube.com/watch?v=qm1UyULvVsM)
+
+---
+
+### Relativistic Successive Lorentz Boosts Visualizer
+
+Primary Focus: Formal geometric mechanics and kinematic principles.
+
+[![YouTube Video o3Cd50qF0qI](https://img.youtube.com/vi/o3Cd50qF0qI/maxresdefault.jpg)](https://www.youtube.com/watch?v=o3Cd50qF0qI)
 
 
 
