@@ -32,13 +32,13 @@ https://payhip.com/CDP
 
 ---
 
-## R3-The Geometric Mirror of Spacetime and Energy-Momentum
+## R3: The Geometric Mirror of Spacetime and Energy-Momentum
 
 [![YouTube Video 5Sc5wFXLT1w](https://img.youtube.com/vi/5Sc5wFXLT1w/maxresdefault.jpg)](https://www.youtube.com/watch?v=5Sc5wFXLT1w)
 
 ---
 
-## R4-Invariance and Symmetry in Relativistic Particle Decay
+## R4: Invariance and Symmetry in Relativistic Particle Decay
 
 Primary Focus: Geometric Boundaries & Mass Shell Invariance
 
@@ -56,7 +56,7 @@ Primary Focus: Time-Evolution & Real-Time Boost Kinematics
 
 ---
 
-## R5-Invariant Mass and the Relativistic Geometry of Particle Collisions
+## R5: Invariant Mass and the Relativistic Geometry of Particle Collisions
 
 Primary Focus: Geometric & structural frame behavior.
 
@@ -74,7 +74,7 @@ Primary Focus: Quantitative mechanics & decay tracking
 
 ---
 
-## R6-Non-Linear Dynamics of Successive Lorentz Boosts
+## R6: Non-Linear Dynamics of Successive Lorentz Boosts
 
 Primary Focus: Observational motion and geometric trajectory behavior.
 
@@ -88,7 +88,149 @@ Primary Focus: Formal geometric mechanics and kinematic principles.
 
 [![YouTube Video o3Cd50qF0qI](https://img.youtube.com/vi/o3Cd50qF0qI/maxresdefault.jpg)](https://www.youtube.com/watch?v=o3Cd50qF0qI)
 
+---
 
+## R7: Continuity of Hyperbolic Geometry in Boundary Modelling
+
+Primary Focus: Conceptual advantages of curvilinear coordinates over Cartesian grids
+
+[![YouTube Video qrAR_20dWkk](https://img.youtube.com/vi/qrAR_20dWkk/maxresdefault.jpg)](https://www.youtube.com/watch?v=qrAR_20dWkk)
+
+---
+
+### Hyperbolic Coordinates Slit Boundary Visualization
+
+Primary Focus: Real-time computational architecture, simulation modalities, and field metrics.
+
+[![YouTube Video yLVORhfj400](https://img.youtube.com/vi/yLVORhfj400/maxresdefault.jpg)](https://www.youtube.com/watch?v=yLVORhfj400)
+
+---
+
+## R8: The Geometry of Wave Diffraction through Coordinate Transformation
+
+Primary Focus: Mathematical & Computational Implementation.
+
+[![YouTube Video 736Pe3KKd18](https://img.youtube.com/vi/736Pe3KKd18/maxresdefault.jpg)](https://www.youtube.com/watch?v=736Pe3KKd18)
+
+---
+
+### Elliptic-Hyperbolic Wave Diffraction Simulator
+
+Primary Focus: Physical Mechanics & Field Dynamics.
+
+[![YouTube Video 0RGeBX69MsQ](https://img.youtube.com/vi/0RGeBX69MsQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=0RGeBX69MsQ)
+
+---
+
+## R9: Geometric Continuity in Fracture Mechanics and Stress Analysis
+
+Primary Focus: Mathematical and Computational Framework.
+
+[![YouTube Video Ilmw3NRO_m0](https://img.youtube.com/vi/Ilmw3NRO_m0/maxresdefault.jpg)](https://www.youtube.com/watch?v=Ilmw3NRO_m0)
+
+---
+
+### Elliptic-Hyperbolic Fracture Mechanics Simulator
+
+Primary Focus: Physics Mechanics and Failure Dynamics
+
+[![YouTube Video rIa9mSCjpcY](https://img.youtube.com/vi/rIa9mSCjpcY/maxresdefault.jpg)](https://www.youtube.com/watch?v=rIa9mSCjpcY)
+
+---
+
+## R10: The Elegance of Hyperbolic Coordinate Systems
+
+Primary Focus: Leveraging Hyperbolic Coordinates
+
+[![YouTube Video y8GaSkTceXw](https://img.youtube.com/vi/y8GaSkTceXw/maxresdefault.jpg)](https://www.youtube.com/watch?v=y8GaSkTceXw)
+
+---
+
+### Hyperbolic & Schwarz-Christoffel Coordinate Simulator
+
+Primary Focus: Deploying Conformal Mapping Frameworks
+
+[![YouTube Video UethhOAPrLg](https://img.youtube.com/vi/UethhOAPrLg/maxresdefault.jpg)](https://www.youtube.com/watch?v=UethhOAPrLg)
+
+---
+
+## R11: The Rindler Horizon and the Mechanics of Constant Acceleration
+
+Primary Focus: Demonstrates the "photon chase" through visual proofs and relative speeds
+
+[![YouTube Video Qq-QgPGkHcQ](https://img.youtube.com/vi/Qq-QgPGkHcQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=Qq-QgPGkHcQ)
+
+---
+
+### Rindler Coordinates & Spacetime Horizon Simulator
+
+Primary Focus: Details the mechanics of the Rindler Horizon, coordinate dilation, and permanent causal disconnection.
+
+[![YouTube Video z7h1KzMJb9c](https://img.youtube.com/vi/z7h1KzMJb9c/maxresdefault.jpg)](https://www.youtube.com/watch?v=z7h1KzMJb9c)
+
+---
+
+## R12: Electromagnetic Propagation and Mathieu Functions in Elliptical Waveguides
+
+Primary Focus: Uses elliptic-hyperbolic coordinates to resolve geometry, separating the Helmholtz wave equation into angular and radial Mathieu equations
+
+[![YouTube Video O56X2Gctl30](https://img.youtube.com/vi/O56X2Gctl30/maxresdefault.jpg)](https://www.youtube.com/watch?v=O56X2Gctl30)
+
+---
+
+### Elliptical Waveguide Mode Simulation
+
+Primary Focus: Relies on elliptic-hyperbolic spatial transformation to define boundaries and support Mathieu function profiles.
+
+[![YouTube Video _NejMVCL7WQ](https://img.youtube.com/vi/_NejMVCL7WQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=_NejMVCL7WQ)
+
+---
+
+## R13: Thermal Horizons and the Relativity of the Vacuum
+
+Primary Focus: Theoretical Physical Mechanics & Equivalence Principles
+
+[![YouTube Video pWhdzEsiRVk](https://img.youtube.com/vi/pWhdzEsiRVk/maxresdefault.jpg)](https://www.youtube.com/watch?v=pWhdzEsiRVk)
+
+---
+
+### Quantum Horizons Unruh & Hawking Radiation Simulator
+
+Primary Focus: Quantum Field Theory & Vacuum State Relativity.
+
+[![YouTube Video 4C_6EmEQ7yc](https://img.youtube.com/vi/4C_6EmEQ7yc/maxresdefault.jpg)](https://www.youtube.com/watch?v=4C_6EmEQ7yc)
+
+---
+
+## R14: Hyperbolic Dynamics and the Evolution of Open Cosmologies
+
+Primary Focus: Broader Evolutionary and Interdisciplinary Scope of an Open Universe
+
+[![YouTube Video cqQxKyGF7Ww](https://img.youtube.com/vi/cqQxKyGF7Ww/maxresdefault.jpg)](https://www.youtube.com/watch?v=cqQxKyGF7Ww)
+
+---
+
+### Cosmic Hyperbolic Dynamics Dashboard
+
+Primary Focus: Immediate Simulation Mechanics and Spatial-Metric Infrastructure.
+
+[![YouTube Video NM6e9Cl34rU](https://img.youtube.com/vi/NM6e9Cl34rU/maxresdefault.jpg)](https://www.youtube.com/watch?v=NM6e9Cl34rU)
+
+---
+
+## R15: Hyperbolic Coordinate Transformations in Microstrip Antenna Design
+
+Primary Focus: Solves electromagnetic challenges
+
+[![YouTube Video 1nOoUy0ydso](https://img.youtube.com/vi/1nOoUy0ydso/maxresdefault.jpg)](https://www.youtube.com/watch?v=1nOoUy0ydso)
+
+---
+
+### Microstrip Antenna Hyperbolic Coordinate Transformation Visualizer
+
+Primary Focus: Models quasi-static electromagnetic fringing fields
+
+[![YouTube Video lKPnEPbI6QI](https://img.youtube.com/vi/lKPnEPbI6QI/maxresdefault.jpg)](https://www.youtube.com/watch?v=lKPnEPbI6QI)
 
 
 
