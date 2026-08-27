@@ -248,7 +248,21 @@ Primary Focus: Custom-configured Joukowsky airfoil.
 
 [![YouTube Video zvxH57na0Nk](https://img.youtube.com/vi/zvxH57na0Nk/maxresdefault.jpg)](https://www.youtube.com/watch?v=zvxH57na0Nk)
 
+---
 
+## R17: Hyperbolic Coordinate Mapping in Venturi Nozzle Fluid Dynamics
+
+Primary Focus: Model fluid flow through curved internal structures
+
+[![YouTube Video P5TmHduOlfI](https://img.youtube.com/vi/P5TmHduOlfI/maxresdefault.jpg)](https://www.youtube.com/watch?v=P5TmHduOlfI)
+
+---
+
+### Realistic Hyperbolic Coordinate Mapping & Mesh Quality Analyzer
+
+Primary Focus: Model fluid dynamics within a coverging-diverging Venturi nozzle.
+
+[![YouTube Video uKIR36TQ5o0](https://img.youtube.com/vi/uKIR36TQ5o0/maxresdefault.jpg)](https://www.youtube.com/watch?v=uKIR36TQ5o0)
 
 
 
