@@ -264,7 +264,21 @@ Primary Focus: Model fluid dynamics within a coverging-diverging Venturi nozzle.
 
 [![YouTube Video uKIR36TQ5o0](https://img.youtube.com/vi/uKIR36TQ5o0/maxresdefault.jpg)](https://www.youtube.com/watch?v=uKIR36TQ5o0)
 
+---
 
+## R18: Dynamic simulation of mixed-mode fracture mechanics and continuum engineering
+
+Primary Focus: Model how stress concentrates around cracks in materials like steel.
+
+[![YouTube Video 6qb0euyXVUY](https://img.youtube.com/vi/6qb0euyXVUY/maxresdefault.jpg)](https://www.youtube.com/watch?v=6qb0euyXVUY)
+
+---
+
+### Advanced Fracture Continuum & Conformal Mesh Simulator
+
+Primary Focus: Dynamic simulation of mixed-mode fracture mechanics and continuum engineering.
+
+[![YouTube Video FhDKSEvD61g](https://img.youtube.com/vi/FhDKSEvD61g/maxresdefault.jpg)](https://www.youtube.com/watch?v=FhDKSEvD61g)
 
 ---
 
