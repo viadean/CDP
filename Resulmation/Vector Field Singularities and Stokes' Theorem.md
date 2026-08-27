@@ -232,6 +232,24 @@ Primary Focus: Models quasi-static electromagnetic fringing fields
 
 [![YouTube Video lKPnEPbI6QI](https://img.youtube.com/vi/lKPnEPbI6QI/maxresdefault.jpg)](https://www.youtube.com/watch?v=lKPnEPbI6QI)
 
+---
+
+## R16: Hyperbolic Coordinate Mapping in Aerodynamic Lift Calculations
+
+Primary Focus: Streamlined, elliptical wing shapes.
+
+[![YouTube Video 440rXnBqtUA](https://img.youtube.com/vi/440rXnBqtUA/maxresdefault.jpg)](https://www.youtube.com/watch?v=440rXnBqtUA)
+
+---
+
+### Hyperbolic Coordinate Mapping & Airfoil Flow Visualizer
+
+Primary Focus: Custom-configured Joukowsky airfoil.
+
+[![YouTube Video zvxH57na0Nk](https://img.youtube.com/vi/zvxH57na0Nk/maxresdefault.jpg)](https://www.youtube.com/watch?v=zvxH57na0Nk)
+
+
+
 
 
 ---
