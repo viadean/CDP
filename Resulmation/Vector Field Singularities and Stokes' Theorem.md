@@ -282,7 +282,23 @@ Primary Focus: Dynamic simulation of mixed-mode fracture mechanics and continuum
 
 ---
 
+## R19: Structural Stress Distribution in Elliptical Composite Inclusions
 
+Primary Focus: Stress concentration around fibres or inclusions.
+
+[![YouTube Video fydCYfvqW-s](https://img.youtube.com/vi/fydCYfvqW-s/maxresdefault.jpg)](https://www.youtube.com/watch?v=fydCYfvqW-s)
+
+---
+
+### Composite Stress & Eshelby Inclusion Simulator
+
+Primary Focus: Model the elastic mechanics of composite materials under a far-field tensile load.
+
+[![YouTube Video irnv0zf7kAE](https://img.youtube.com/vi/irnv0zf7kAE/maxresdefault.jpg)](https://www.youtube.com/watch?v=irnv0zf7kAE)
+
+
+
+---
 
 ## Relationships: Hyperbolic Horizons from Relativistic Spacetime to Neural Topology
 
