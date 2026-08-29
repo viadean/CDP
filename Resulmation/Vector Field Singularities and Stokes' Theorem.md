@@ -346,6 +346,24 @@ Primary Focus: Simulation model of passive hyperbolic acoustic emission structur
 
 [![YouTube Video _iBE0CMBYlU](https://img.youtube.com/vi/_iBE0CMBYlU/maxresdefault.jpg)](https://www.youtube.com/watch?v=_iBE0CMBYlU)
 
+---
+
+## R23: Visualizing Subsurface Infrastructure via Ground Penetrating Radar
+
+Primary Focus: Utilizing Ground Penetrating Radar to identify buried infrastructure.
+
+[![YouTube Video lYqqJKrLRzI](https://img.youtube.com/vi/lYqqJKrLRzI/maxresdefault.jpg)](https://www.youtube.com/watch?v=lYqqJKrLRzI)
+
+---
+
+### Ground Penetrating Radar Simulation & Hyperbolic Transform Visualization
+
+Primary Focus: Modelling the subsurface mechanics of Ground Penetrating Radar and its coordinate localization pipelines within a dynamic, multi-layered stratigraphy.
+
+[![YouTube Video lsrECzydoP0](https://img.youtube.com/vi/lsrECzydoP0/maxresdefault.jpg)](https://www.youtube.com/watch?v=lsrECzydoP0)
+
+
+
 
 
 ---
