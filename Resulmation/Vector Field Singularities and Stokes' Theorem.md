@@ -296,6 +296,56 @@ Primary Focus: Model the elastic mechanics of composite materials under a far-fi
 
 [![YouTube Video irnv0zf7kAE](https://img.youtube.com/vi/irnv0zf7kAE/maxresdefault.jpg)](https://www.youtube.com/watch?v=irnv0zf7kAE)
 
+---
+
+## R20: Tactical Precision and Hyperbolic Navigation in eLORAN Systems
+
+Primary Focus: Model ground-based eLORAN systems.
+
+[![YouTube Video M3reZF92X-c](https://img.youtube.com/vi/M3reZF92X-c/maxresdefault.jpg)](https://www.youtube.com/watch?v=M3reZF92X-c)
+
+---
+
+### eLORAN Tactical Hyperbolic Navigation Simulator
+
+Primary Focus: Hyperbolic Time Difference of Arrival (TDOA) positioning.
+
+[![YouTube Video P4dPzFBLdeU](https://img.youtube.com/vi/P4dPzFBLdeU/maxresdefault.jpg)](https://www.youtube.com/watch?v=P4dPzFBLdeU)
+
+
+
+---
+
+## R21: Subsurface Navigation and Signal Propagation Dynamics
+
+Primary Focus: Submarines achieve covert underwater navigation.
+
+[![YouTube Video vDIttxM9lj8](https://img.youtube.com/vi/vDIttxM9lj8/maxresdefault.jpg)](https://www.youtube.com/watch?v=vDIttxM9lj8)
+
+---
+
+### Underwater Acoustic & Hyperbolic Navigation Simulator
+
+Primary Focus: Simulation model of passive underwater positioning.
+
+[![YouTube Video 4wdSPMBz7bA](https://img.youtube.com/vi/4wdSPMBz7bA/maxresdefault.jpg)](https://www.youtube.com/watch?v=4wdSPMBz7bA)
+
+---
+
+## R22: Acoustic Hyperbolic Monitoring of Structural Integrity
+
+Primary Focus: Structural health monitoring for major infrastructure.
+
+[![YouTube Video cKguQyaw-ZA](https://img.youtube.com/vi/cKguQyaw-ZA/maxresdefault.jpg)](https://www.youtube.com/watch?v=cKguQyaw-ZA)
+
+---
+
+### Structural Health Monitoring Hyperbolic Acoustic Simulation
+
+Primary Focus: Simulation model of passive hyperbolic acoustic emission structural health monitoring.
+
+[![YouTube Video _iBE0CMBYlU](https://img.youtube.com/vi/_iBE0CMBYlU/maxresdefault.jpg)](https://www.youtube.com/watch?v=_iBE0CMBYlU)
+
 
 
 ---
