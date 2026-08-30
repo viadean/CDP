@@ -362,7 +362,21 @@ Primary Focus: Modelling the subsurface mechanics of Ground Penetrating Radar an
 
 [![YouTube Video lsrECzydoP0](https://img.youtube.com/vi/lsrECzydoP0/maxresdefault.jpg)](https://www.youtube.com/watch?v=lsrECzydoP0)
 
+---
 
+## R24: Seismic Triangulation and Subterranean Structural Monitoring
+
+Primary Focus: Providing early warnings of landslides and sinkholes near critical infrastructure through passive monitoring of subterranean shifts.
+
+[![YouTube Video CIuKo2wnyv8](https://img.youtube.com/vi/CIuKo2wnyv8/maxresdefault.jpg)](https://www.youtube.com/watch?v=CIuKo2wnyv8)
+
+---
+
+### Passive Seismic Sensor Array Telemetry Dashboard
+
+Primary Focus: Modelling and simulating progressive mechanical failure within a subterranean bedrock matrix.
+
+[![YouTube Video WYGPdfu7fag](https://img.youtube.com/vi/WYGPdfu7fag/maxresdefault.jpg)](https://www.youtube.com/watch?v=WYGPdfu7fag)
 
 
 
