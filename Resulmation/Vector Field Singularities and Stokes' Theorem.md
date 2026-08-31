@@ -410,6 +410,22 @@ Primary Focus: Dynamic Simulation of Structural Persistence.
 
 [![YouTube Video amScNmKVlZM](https://img.youtube.com/vi/amScNmKVlZM/maxresdefault.jpg)](https://www.youtube.com/watch?v=amScNmKVlZM)
 
+---
+
+## R27: Chemical Dividing Surfaces and NHIM Stability
+
+Primary Focus: Normally Hyperbolic Invariant Manifolds.
+
+[![YouTube Video LpQM9E0-dLQ](https://img.youtube.com/vi/LpQM9E0-dLQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=LpQM9E0-dLQ)
+
+---
+
+### NHIM Phase Space Explorer & Reaction Boundary Simulator
+
+Primary Focus: Model NHIM governing particle transport across high-energy barriers.
+
+[![YouTube Video bULF-Cc65NY](https://img.youtube.com/vi/bULF-Cc65NY/maxresdefault.jpg)](https://www.youtube.com/watch?v=bULF-Cc65NY)
+
 
 
 ---
