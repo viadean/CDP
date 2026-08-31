@@ -378,6 +378,38 @@ Primary Focus: Modelling and simulating progressive mechanical failure within a 
 
 [![YouTube Video WYGPdfu7fag](https://img.youtube.com/vi/WYGPdfu7fag/maxresdefault.jpg)](https://www.youtube.com/watch?v=WYGPdfu7fag)
 
+---
+
+## R25: The Hyperbolic Geometry of Spacetime Invariance
+
+Primary Focus: How the spacetime interval remains perfectly preserved (invariant) through hyperbolic geometry.
+
+[![YouTube Video SE2HgYOO79c](https://img.youtube.com/vi/SE2HgYOO79c/maxresdefault.jpg)](https://www.youtube.com/watch?v=SE2HgYOO79c)
+
+
+
+---
+
+### Special Relativity Spacetime & Hyperbolic Geometry Simulator
+
+Primary Focus: The relativity of simultaneity and coordinate measurements alongside the invariance of the spacetime interval.
+
+[![YouTube Video 6CNnh-48eIg](https://img.youtube.com/vi/6CNnh-48eIg/maxresdefault.jpg)](https://www.youtube.com/watch?v=6CNnh-48eIg)
+
+## R26: Stability and Persistence of Normally Hyperbolic Invariant Manifolds
+
+Primary Focus: Geometric Balance and Structural Stability.
+
+[![YouTube Video ejbvsfeOCBk](https://img.youtube.com/vi/ejbvsfeOCBk/maxresdefault.jpg)](https://www.youtube.com/watch?v=ejbvsfeOCBk)
+
+---
+
+### Normally Hyperbolic Invariant Manifold (NHIM) Simulation
+
+Primary Focus: Dynamic Simulation of Structural Persistence.
+
+[![YouTube Video amScNmKVlZM](https://img.youtube.com/vi/amScNmKVlZM/maxresdefault.jpg)](https://www.youtube.com/watch?v=amScNmKVlZM)
+
 
 
 ---
