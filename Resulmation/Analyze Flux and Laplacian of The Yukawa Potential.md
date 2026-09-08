@@ -79,3 +79,9 @@ https://payhip.com/CDP
 ### R10: Stabilizing the Helmholtz Cauchy Problem in Active Sonar Pipelines
 
 [![YouTube Video _Q0GFtEru4w](https://img.youtube.com/vi/_Q0GFtEru4w/maxresdefault.jpg)](https://www.youtube.com/watch?v=_Q0GFtEru4w)
+
+---
+
+### R11: Standard and Gradient Based Tikhonov Regularization in Helmholtz Inverse Scattering Sweeps
+
+[![YouTube Video pBAkjpAvqzc](https://img.youtube.com/vi/pBAkjpAvqzc/maxresdefault.jpg)](https://www.youtube.com/watch?v=pBAkjpAvqzc)
