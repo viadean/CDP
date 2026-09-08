@@ -1,0 +1,81 @@
+# Analyze Flux and Laplacian of The Yukawa Potential
+
+## Deliverables
+
+https://payhip.com/b/BacMg
+
+### E-Product Hub
+
+https://payhip.com/CDP
+
+
+
+## Animated Results
+
+[TOC]
+
+### R1: The Evaporating Boundary
+
+[![YouTube Video e-lbIF-Iw10](https://img.youtube.com/vi/e-lbIF-Iw10/maxresdefault.jpg)](https://www.youtube.com/watch?v=e-lbIF-Iw10)
+
+
+
+---
+
+### R2: The Physics of Thermal Scattering and Screening Cloud Thickness in Plasmas
+
+[![YouTube Video 3VWK5rikCEo](https://img.youtube.com/vi/3VWK5rikCEo/maxresdefault.jpg)](https://www.youtube.com/watch?v=3VWK5rikCEo)
+
+
+
+---
+
+### R3: How Mobile Conduction Electrons Shield Charged Defect Impurities 
+
+[![YouTube Video ExB4J70eAlg](https://img.youtube.com/vi/ExB4J70eAlg/maxresdefault.jpg)](https://www.youtube.com/watch?v=ExB4J70eAlg)
+
+
+
+---
+
+### R4: From Funnels to Trenches through Critical Screening and Lattice Strain in Quantum Confinement
+
+[![YouTube Video 59TGbsISqOA](https://img.youtube.com/vi/59TGbsISqOA/maxresdefault.jpg)](https://www.youtube.com/watch?v=59TGbsISqOA)
+
+---
+
+### R5: Helmholtz Harmonics
+
+[![YouTube Video 9iWYrS4o3m4](https://img.youtube.com/vi/9iWYrS4o3m4/maxresdefault.jpg)](https://www.youtube.com/watch?v=9iWYrS4o3m4)
+
+
+
+---
+
+### R6: Inhomogeneous Helmholtz Wave Propagation and Refractive Scattering Model
+
+[![YouTube Video -EMF3PTmB4I](https://img.youtube.com/vi/-EMF3PTmB4I/maxresdefault.jpg)](https://www.youtube.com/watch?v=-EMF3PTmB4I)
+
+---
+
+### R7: Wave-Optics Modeling of Macroscopic Refraction via the Inhomogeneous Helmholtz Equation
+
+[![YouTube Video XML9Oz2eq7I](https://img.youtube.com/vi/XML9Oz2eq7I/maxresdefault.jpg)](https://www.youtube.com/watch?v=XML9Oz2eq7I)
+
+---
+
+### R8: Smooth Spectral Filtering in the Helmholtz Cauchy Problem
+
+[![YouTube Video 0poRtnhURj8](https://img.youtube.com/vi/0poRtnhURj8/maxresdefault.jpg)](https://www.youtube.com/watch?v=0poRtnhURj8)
+
+---
+
+### R9: Tikhonov Regularization for Ill-Posed Helmholtz Systems
+
+[![YouTube Video v4sAOPX6j98](https://img.youtube.com/vi/v4sAOPX6j98/maxresdefault.jpg)](https://www.youtube.com/watch?v=v4sAOPX6j98)
+
+---
+
+### R10: Stabilizing the Helmholtz Cauchy Problem in Active Sonar Pipelines
+
+[![YouTube Video _Q0GFtEru4w](https://img.youtube.com/vi/_Q0GFtEru4w/maxresdefault.jpg)](https://www.youtube.com/watch?v=_Q0GFtEru4w)
