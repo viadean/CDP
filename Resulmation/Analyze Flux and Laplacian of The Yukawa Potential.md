@@ -85,3 +85,9 @@ https://payhip.com/CDP
 ### R11: Standard and Gradient Based Tikhonov Regularization in Helmholtz Inverse Scattering Sweeps
 
 [![YouTube Video pBAkjpAvqzc](https://img.youtube.com/vi/pBAkjpAvqzc/maxresdefault.jpg)](https://www.youtube.com/watch?v=pBAkjpAvqzc)
+
+---
+
+### R12: Tikhonov Regularization and Terrain-Relative Coordinate Mapping for Inhomogeneous Helmholtz Systems
+
+[![YouTube Video 0nrWACQVGVs](https://img.youtube.com/vi/0nrWACQVGVs/maxresdefault.jpg)](https://www.youtube.com/watch?v=0nrWACQVGVs)
