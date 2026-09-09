@@ -91,3 +91,9 @@ https://payhip.com/CDP
 ### R12: Tikhonov Regularization and Terrain-Relative Coordinate Mapping for Inhomogeneous Helmholtz Systems
 
 [![YouTube Video 0nrWACQVGVs](https://img.youtube.com/vi/0nrWACQVGVs/maxresdefault.jpg)](https://www.youtube.com/watch?v=0nrWACQVGVs)
+
+---
+
+### R13: Reconstructing Material Defects with Regularized Acoustic Waves Beneath the Surface
+
+[![YouTube Video jpn0OIH0FTQ](https://img.youtube.com/vi/jpn0OIH0FTQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=jpn0OIH0FTQ)
