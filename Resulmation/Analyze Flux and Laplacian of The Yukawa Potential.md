@@ -97,3 +97,34 @@ https://payhip.com/CDP
 ### R13: Reconstructing Material Defects with Regularized Acoustic Waves Beneath the Surface
 
 [![YouTube Video jpn0OIH0FTQ](https://img.youtube.com/vi/jpn0OIH0FTQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=jpn0OIH0FTQ)
+
+---
+
+### R14: Quasi-Reversibility vs. Tikhonov Regularization
+
+[![YouTube Video I3Y9Hr-FaPM](https://img.youtube.com/vi/I3Y9Hr-FaPM/maxresdefault.jpg)](https://www.youtube.com/watch?v=I3Y9Hr-FaPM)
+
+---
+
+### R15: Homogeneous and Inhomogeneous Helmholtz Waves
+
+[![YouTube Video cUgEvMNXd7Q](https://img.youtube.com/vi/cUgEvMNXd7Q/maxresdefault.jpg)](https://www.youtube.com/watch?v=cUgEvMNXd7Q)
+
+---
+
+### R16: Quantum Charge Screening and Dynamic Friedel Oscillation
+
+[![YouTube Video 5rEOCNhQTZM](https://img.youtube.com/vi/5rEOCNhQTZM/maxresdefault.jpg)](https://www.youtube.com/watch?v=5rEOCNhQTZM)
+
+---
+
+### R17: Fermi Surface From 3D Spheres to Quasi-2D Corrugated Cylinders and 2D Honeycomb Pockets
+
+[![YouTube Video f4ZH1OKtP14](https://img.youtube.com/vi/f4ZH1OKtP14/maxresdefault.jpg)](https://www.youtube.com/watch?v=f4ZH1OKtP14)
+
+
+
+
+
+
+
