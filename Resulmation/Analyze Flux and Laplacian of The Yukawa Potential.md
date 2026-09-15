@@ -133,7 +133,4 @@ https://payhip.com/CDP
 
 ---
 
-![](https://i.pinimg.com/1200x/47/4d/68/474d688da60860454907ca2f764cd96e.jpg)
-
-
 
