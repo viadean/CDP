@@ -10,7 +10,6 @@ https://payhip.com/CDP
 
 ## Animated Results
 
-[TOC]
 
 ### R1: The Evaporating Boundary
 
