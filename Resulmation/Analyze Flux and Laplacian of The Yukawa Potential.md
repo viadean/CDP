@@ -133,4 +133,12 @@ https://payhip.com/CDP
 
 ---
 
+### R20: The Yukawa Potential in Nuclear and Dark Matter Physics
 
+[![YouTube Video TBB1yVAPGIY](https://img.youtube.com/vi/TBB1yVAPGIY/maxresdefault.jpg)](https://www.youtube.com/watch?v=TBB1yVAPGIY)
+
+---
+
+### R21: Precession and Orbital Collapse in Screened Potentials
+
+[![YouTube Video 8ZVbjQvG9e4](https://img.youtube.com/vi/8ZVbjQvG9e4/maxresdefault.jpg)](https://www.youtube.com/watch?v=8ZVbjQvG9e4)
