@@ -8,8 +8,6 @@ https://payhip.com/b/BacMg
 
 https://payhip.com/CDP
 
-
-
 ## Animated Results
 
 [TOC]
@@ -122,9 +120,21 @@ https://payhip.com/CDP
 
 [![YouTube Video f4ZH1OKtP14](https://img.youtube.com/vi/f4ZH1OKtP14/maxresdefault.jpg)](https://www.youtube.com/watch?v=f4ZH1OKtP14)
 
+---
 
+### R18: Wave Dynamics and Boundary Conditions in Helmholtz Systems
 
+[![YouTube Video X6pqrUhw4LQ](https://img.youtube.com/vi/X6pqrUhw4LQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=X6pqrUhw4LQ)
 
+---
+
+### R19: Helmholtz Modeling of 3D Thermal Fin Heat Dissipation
+
+[![YouTube Video 8L4xlw8o9SU](https://img.youtube.com/vi/8L4xlw8o9SU/maxresdefault.jpg)](https://www.youtube.com/watch?v=8L4xlw8o9SU)
+
+---
+
+![](https://i.pinimg.com/1200x/47/4d/68/474d688da60860454907ca2f764cd96e.jpg)
 
 
 
