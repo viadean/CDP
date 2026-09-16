@@ -142,3 +142,18 @@ https://payhip.com/CDP
 ### R21: Precession and Orbital Collapse in Screened Potentials
 
 [![YouTube Video 8ZVbjQvG9e4](https://img.youtube.com/vi/8ZVbjQvG9e4/maxresdefault.jpg)](https://www.youtube.com/watch?v=8ZVbjQvG9e4)
+
+#### Podcast: The Physics of Screening: From Protective Walls to Potential Cliffs
+
+[![YouTube Video Yg5joib-gsc](https://img.youtube.com/vi/Yg5joib-gsc/maxresdefault.jpg)](https://www.youtube.com/watch?v=Yg5joib-gsc)
+
+---
+
+### R22: Inhomogeneous Helmholtz Dynamics in Many-Body Plasma Equilibria
+
+[![YouTube Video UPhwRpzQ8AM](https://img.youtube.com/vi/UPhwRpzQ8AM/maxresdefault.jpg)](https://www.youtube.com/watch?v=UPhwRpzQ8AM)
+
+#### Podcast: The Great Disappearing Act: Understanding Debye Shielding in Plasma
+
+[![YouTube Video QTKQWawtIA0](https://img.youtube.com/vi/QTKQWawtIA0/maxresdefault.jpg)](https://www.youtube.com/watch?v=QTKQWawtIA0)
+
