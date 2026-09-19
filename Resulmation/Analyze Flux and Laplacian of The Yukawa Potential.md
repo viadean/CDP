@@ -157,3 +157,24 @@ https://payhip.com/CDP
 
 [![YouTube Video QTKQWawtIA0](https://img.youtube.com/vi/QTKQWawtIA0/maxresdefault.jpg)](https://www.youtube.com/watch?v=QTKQWawtIA0)
 
+---
+
+### R23: Field Penetration and Potential Drop-off in Screened Media
+
+[![YouTube Video zKxVv4PPukg](https://img.youtube.com/vi/zKxVv4PPukg/maxresdefault.jpg)](https://www.youtube.com/watch?v=zKxVv4PPukg)
+
+---
+
+### R24: Supersonic Ion Entry and Sheath Stability at Plasma Boundaries
+
+[![YouTube Video xQidK36sOuY](https://img.youtube.com/vi/xQidK36sOuY/maxresdefault.jpg)](https://www.youtube.com/watch?v=xQidK36sOuY)
+
+---
+
+### R25: Magnetized Plasma Sheath Dynamics & Kinetic Ensemble Trajectories
+
+[![YouTube Video RNZYeZoJvNY](https://img.youtube.com/vi/RNZYeZoJvNY/maxresdefault.jpg)](https://www.youtube.com/watch?v=RNZYeZoJvNY)
+
+#### Podcast: The Great Atomic Race: How Plasmas Shield the World
+
+[![YouTube Video Fefect-HVCk](https://img.youtube.com/vi/Fefect-HVCk/maxresdefault.jpg)](https://www.youtube.com/watch?v=Fefect-HVCk)
