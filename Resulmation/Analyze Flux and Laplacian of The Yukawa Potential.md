@@ -145,7 +145,7 @@ https://payhip.com/CDP
 
 #### Podcast: The Physics of Screening: From Protective Walls to Potential Cliffs
 
-[![YouTube Video Yg5joib-gsc](https://img.youtube.com/vi/Yg5joib-gsc/maxresdefault.jpg)](https://www.youtube.com/watch?v=Yg5joib-gsc)
+[![YouTube Video SL4Ft5FJ3v0](https://img.youtube.com/vi/SL4Ft5FJ3v0/maxresdefault.jpg)](https://www.youtube.com/watch?v=SL4Ft5FJ3v0)
 
 ---
 
@@ -163,11 +163,19 @@ https://payhip.com/CDP
 
 [![YouTube Video zKxVv4PPukg](https://img.youtube.com/vi/zKxVv4PPukg/maxresdefault.jpg)](https://www.youtube.com/watch?v=zKxVv4PPukg)
 
+#### Podcast: The Great Electric Tug-of-War: A Foundational Guide to Debye Screening
+
+[![YouTube Video 1eI5IY-ookg](https://img.youtube.com/vi/1eI5IY-ookg/maxresdefault.jpg)](https://www.youtube.com/watch?v=1eI5IY-ookg)
+
 ---
 
 ### R24: Supersonic Ion Entry and Sheath Stability at Plasma Boundaries
 
 [![YouTube Video xQidK36sOuY](https://img.youtube.com/vi/xQidK36sOuY/maxresdefault.jpg)](https://www.youtube.com/watch?v=xQidK36sOuY)
+
+#### Podcast: The Supersonic Gateway: Understanding the Bohm Sheath Criterion
+
+[![YouTube Video npeNJz2aFIU](https://img.youtube.com/vi/npeNJz2aFIU/maxresdefault.jpg)](https://www.youtube.com/watch?v=npeNJz2aFIU)
 
 ---
 
