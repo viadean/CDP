@@ -186,3 +186,23 @@ https://payhip.com/CDP
 #### Podcast: The Great Atomic Race: How Plasmas Shield the World
 
 [![YouTube Video Fefect-HVCk](https://img.youtube.com/vi/Fefect-HVCk/maxresdefault.jpg)](https://www.youtube.com/watch?v=Fefect-HVCk)
+
+---
+
+### R27: From Laplace Fields to Lightning Strikes: How Plasma Tendrils Form
+
+[![YouTube Video gxd5ahTl8EQ](https://img.youtube.com/vi/gxd5ahTl8EQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=gxd5ahTl8EQ)
+
+#### Podcast: Nature’s Electric Architecture: Decoding the Math of Lightning
+
+[![YouTube Video dDuCQpusJq0](https://img.youtube.com/vi/dDuCQpusJq0/maxresdefault.jpg)](https://www.youtube.com/watch?v=dDuCQpusJq0)
+
+---
+
+### R28: Self-Focusing Dynamics: Streamer Branching and Magnetohydrodynamic Pinching in Plasma Tendrils
+
+[![YouTube Video zDnkjL8lfHI](https://img.youtube.com/vi/zDnkjL8lfHI/maxresdefault.jpg)](https://www.youtube.com/watch?v=zDnkjL8lfHI)
+
+#### Podcast: The Two Paths of Plasma: A Beginner’s Guide to Streamers and Pinching
+
+[![YouTube Video PjuEeIVL0bE](https://img.youtube.com/vi/PjuEeIVL0bE/maxresdefault.jpg)](https://www.youtube.com/watch?v=PjuEeIVL0bE)
