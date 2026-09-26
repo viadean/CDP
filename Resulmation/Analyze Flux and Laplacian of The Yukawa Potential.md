@@ -189,6 +189,18 @@ https://payhip.com/CDP
 
 ---
 
+### R26: From Lightning to Auroras: Atmospheric Plasma Mechanics
+
+[![YouTube Video ybxyeKks3b8](https://img.youtube.com/vi/ybxyeKks3b8/maxresdefault.jpg)](https://www.youtube.com/watch?v=ybxyeKks3b8)
+
+#### Podcast: The World of Gaseous Plasma: An Essential Terminology Guide
+
+[![YouTube Video n3fCI7tS1Yg](https://img.youtube.com/vi/n3fCI7tS1Yg/maxresdefault.jpg)](https://www.youtube.com/watch?v=n3fCI7tS1Yg)
+
+
+
+---
+
 ### R27: From Laplace Fields to Lightning Strikes: How Plasma Tendrils Form
 
 [![YouTube Video gxd5ahTl8EQ](https://img.youtube.com/vi/gxd5ahTl8EQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=gxd5ahTl8EQ)
@@ -206,3 +218,13 @@ https://payhip.com/CDP
 #### Podcast: The Two Paths of Plasma: A Beginner’s Guide to Streamers and Pinching
 
 [![YouTube Video PjuEeIVL0bE](https://img.youtube.com/vi/PjuEeIVL0bE/maxresdefault.jpg)](https://www.youtube.com/watch?v=PjuEeIVL0bE)
+
+---
+
+### R29: Self-Focusing Dynamics: Streamer Branching and Magnetohydrodynamic Pinching in Plasma Tendrils
+
+[![YouTube Video zDnkjL8lfHI](https://img.youtube.com/vi/zDnkjL8lfHI/maxresdefault.jpg)](https://www.youtube.com/watch?v=zDnkjL8lfHI)
+
+#### Podcast: The Physics of Pathfinding: A Manual on Plasma Trajectory Dynamics
+
+[![YouTube Video uoR4n_0K8EI](https://img.youtube.com/vi/uoR4n_0K8EI/maxresdefault.jpg)](https://www.youtube.com/watch?v=uoR4n_0K8EI)
