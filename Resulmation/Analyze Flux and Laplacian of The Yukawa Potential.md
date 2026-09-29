@@ -8,10 +8,8 @@ https://payhip.com/b/BacMg
 
 https://payhip.com/CDP
 
-## Animated Results
 
-
-### R1: The Evaporating Boundary
+## R1: The Evaporating Boundary
 
 [![YouTube Video e-lbIF-Iw10](https://img.youtube.com/vi/e-lbIF-Iw10/maxresdefault.jpg)](https://www.youtube.com/watch?v=e-lbIF-Iw10)
 
@@ -19,7 +17,7 @@ https://payhip.com/CDP
 
 ---
 
-### R2: The Physics of Thermal Scattering and Screening Cloud Thickness in Plasmas
+## R2: The Physics of Thermal Scattering and Screening Cloud Thickness in Plasmas
 
 [![YouTube Video 3VWK5rikCEo](https://img.youtube.com/vi/3VWK5rikCEo/maxresdefault.jpg)](https://www.youtube.com/watch?v=3VWK5rikCEo)
 
@@ -27,7 +25,7 @@ https://payhip.com/CDP
 
 ---
 
-### R3: How Mobile Conduction Electrons Shield Charged Defect Impurities 
+## R3: How Mobile Conduction Electrons Shield Charged Defect Impurities 
 
 [![YouTube Video ExB4J70eAlg](https://img.youtube.com/vi/ExB4J70eAlg/maxresdefault.jpg)](https://www.youtube.com/watch?v=ExB4J70eAlg)
 
@@ -35,13 +33,13 @@ https://payhip.com/CDP
 
 ---
 
-### R4: From Funnels to Trenches through Critical Screening and Lattice Strain in Quantum Confinement
+## R4: From Funnels to Trenches through Critical Screening and Lattice Strain in Quantum Confinement
 
 [![YouTube Video 59TGbsISqOA](https://img.youtube.com/vi/59TGbsISqOA/maxresdefault.jpg)](https://www.youtube.com/watch?v=59TGbsISqOA)
 
 ---
 
-### R5: Helmholtz Harmonics
+## R5: Helmholtz Harmonics
 
 [![YouTube Video 9iWYrS4o3m4](https://img.youtube.com/vi/9iWYrS4o3m4/maxresdefault.jpg)](https://www.youtube.com/watch?v=9iWYrS4o3m4)
 
@@ -49,151 +47,169 @@ https://payhip.com/CDP
 
 ---
 
-### R6: Inhomogeneous Helmholtz Wave Propagation and Refractive Scattering Model
+## R6: Inhomogeneous Helmholtz Wave Propagation and Refractive Scattering Model
 
 [![YouTube Video -EMF3PTmB4I](https://img.youtube.com/vi/-EMF3PTmB4I/maxresdefault.jpg)](https://www.youtube.com/watch?v=-EMF3PTmB4I)
 
 ---
 
-### R7: Wave-Optics Modeling of Macroscopic Refraction via the Inhomogeneous Helmholtz Equation
+## R7: Wave-Optics Modeling of Macroscopic Refraction via the Inhomogeneous Helmholtz Equation
 
 [![YouTube Video XML9Oz2eq7I](https://img.youtube.com/vi/XML9Oz2eq7I/maxresdefault.jpg)](https://www.youtube.com/watch?v=XML9Oz2eq7I)
 
 ---
 
-### R8: Smooth Spectral Filtering in the Helmholtz Cauchy Problem
+## R8: Smooth Spectral Filtering in the Helmholtz Cauchy Problem
 
 [![YouTube Video 0poRtnhURj8](https://img.youtube.com/vi/0poRtnhURj8/maxresdefault.jpg)](https://www.youtube.com/watch?v=0poRtnhURj8)
 
 ---
 
-### R9: Tikhonov Regularization for Ill-Posed Helmholtz Systems
+## R9: Tikhonov Regularization for Ill-Posed Helmholtz Systems
 
 [![YouTube Video v4sAOPX6j98](https://img.youtube.com/vi/v4sAOPX6j98/maxresdefault.jpg)](https://www.youtube.com/watch?v=v4sAOPX6j98)
 
 ---
 
-### R10: Stabilizing the Helmholtz Cauchy Problem in Active Sonar Pipelines
+## R10: Stabilizing the Helmholtz Cauchy Problem in Active Sonar Pipelines
 
 [![YouTube Video _Q0GFtEru4w](https://img.youtube.com/vi/_Q0GFtEru4w/maxresdefault.jpg)](https://www.youtube.com/watch?v=_Q0GFtEru4w)
 
 ---
 
-### R11: Standard and Gradient Based Tikhonov Regularization in Helmholtz Inverse Scattering Sweeps
+## R11: Standard and Gradient Based Tikhonov Regularization in Helmholtz Inverse Scattering Sweeps
 
 [![YouTube Video pBAkjpAvqzc](https://img.youtube.com/vi/pBAkjpAvqzc/maxresdefault.jpg)](https://www.youtube.com/watch?v=pBAkjpAvqzc)
 
 ---
 
-### R12: Tikhonov Regularization and Terrain-Relative Coordinate Mapping for Inhomogeneous Helmholtz Systems
+## R12: Tikhonov Regularization and Terrain-Relative Coordinate Mapping for Inhomogeneous Helmholtz Systems
 
 [![YouTube Video 0nrWACQVGVs](https://img.youtube.com/vi/0nrWACQVGVs/maxresdefault.jpg)](https://www.youtube.com/watch?v=0nrWACQVGVs)
 
 ---
 
-### R13: Reconstructing Material Defects with Regularized Acoustic Waves Beneath the Surface
+## R13: Reconstructing Material Defects with Regularized Acoustic Waves Beneath the Surface
 
 [![YouTube Video jpn0OIH0FTQ](https://img.youtube.com/vi/jpn0OIH0FTQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=jpn0OIH0FTQ)
 
 ---
 
-### R14: Quasi-Reversibility vs. Tikhonov Regularization
+## R14: Quasi-Reversibility vs. Tikhonov Regularization
 
 [![YouTube Video I3Y9Hr-FaPM](https://img.youtube.com/vi/I3Y9Hr-FaPM/maxresdefault.jpg)](https://www.youtube.com/watch?v=I3Y9Hr-FaPM)
 
 ---
 
-### R15: Homogeneous and Inhomogeneous Helmholtz Waves
+## R15: Homogeneous and Inhomogeneous Helmholtz Waves
 
 [![YouTube Video cUgEvMNXd7Q](https://img.youtube.com/vi/cUgEvMNXd7Q/maxresdefault.jpg)](https://www.youtube.com/watch?v=cUgEvMNXd7Q)
 
 ---
 
-### R16: Quantum Charge Screening and Dynamic Friedel Oscillation
+## R16: Quantum Charge Screening and Dynamic Friedel Oscillation
 
 [![YouTube Video 5rEOCNhQTZM](https://img.youtube.com/vi/5rEOCNhQTZM/maxresdefault.jpg)](https://www.youtube.com/watch?v=5rEOCNhQTZM)
 
 ---
 
-### R17: Fermi Surface From 3D Spheres to Quasi-2D Corrugated Cylinders and 2D Honeycomb Pockets
+## R17: Fermi Surface From 3D Spheres to Quasi-2D Corrugated Cylinders and 2D Honeycomb Pockets
 
 [![YouTube Video f4ZH1OKtP14](https://img.youtube.com/vi/f4ZH1OKtP14/maxresdefault.jpg)](https://www.youtube.com/watch?v=f4ZH1OKtP14)
 
 ---
 
-### R18: Wave Dynamics and Boundary Conditions in Helmholtz Systems
+## R18: Wave Dynamics and Boundary Conditions in Helmholtz Systems
 
 [![YouTube Video X6pqrUhw4LQ](https://img.youtube.com/vi/X6pqrUhw4LQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=X6pqrUhw4LQ)
 
 ---
 
-### R19: Helmholtz Modeling of 3D Thermal Fin Heat Dissipation
+## R19: Helmholtz Modeling of 3D Thermal Fin Heat Dissipation
 
 [![YouTube Video 8L4xlw8o9SU](https://img.youtube.com/vi/8L4xlw8o9SU/maxresdefault.jpg)](https://www.youtube.com/watch?v=8L4xlw8o9SU)
 
 ---
 
-### R20: The Yukawa Potential in Nuclear and Dark Matter Physics
+## R20: The Yukawa Potential in Nuclear and Dark Matter Physics
+
+Deliverables: https://payhip.com/b/7GoXO
 
 [![YouTube Video TBB1yVAPGIY](https://img.youtube.com/vi/TBB1yVAPGIY/maxresdefault.jpg)](https://www.youtube.com/watch?v=TBB1yVAPGIY)
 
+### Podcast: The Short-Range Secret: How the Yukawa Potential Holds the Universe Together (and Apart)
+
+[![YouTube Video ViK8kcBHWoI](https://img.youtube.com/vi/ViK8kcBHWoI/maxresdefault.jpg)](https://www.youtube.com/watch?v=ViK8kcBHWoI)
+
 ---
 
-### R21: Precession and Orbital Collapse in Screened Potentials
+## R21: Precession and Orbital Collapse in Screened Potentials
+
+Deliverables: https://payhip.com/b/F2r4Y
 
 [![YouTube Video 8ZVbjQvG9e4](https://img.youtube.com/vi/8ZVbjQvG9e4/maxresdefault.jpg)](https://www.youtube.com/watch?v=8ZVbjQvG9e4)
 
-#### Podcast: The Physics of Screening: From Protective Walls to Potential Cliffs
+### Podcast: The Physics of Screening: From Protective Walls to Potential Cliffs
 
 [![YouTube Video SL4Ft5FJ3v0](https://img.youtube.com/vi/SL4Ft5FJ3v0/maxresdefault.jpg)](https://www.youtube.com/watch?v=SL4Ft5FJ3v0)
 
 ---
 
-### R22: Inhomogeneous Helmholtz Dynamics in Many-Body Plasma Equilibria
+## R22: Inhomogeneous Helmholtz Dynamics in Many-Body Plasma Equilibria
+
+Deliverables: https://payhip.com/b/l8P14
 
 [![YouTube Video UPhwRpzQ8AM](https://img.youtube.com/vi/UPhwRpzQ8AM/maxresdefault.jpg)](https://www.youtube.com/watch?v=UPhwRpzQ8AM)
 
-#### Podcast: The Great Disappearing Act: Understanding Debye Shielding in Plasma
+### Podcast: The Great Disappearing Act: Understanding Debye Shielding in Plasma
 
 [![YouTube Video QTKQWawtIA0](https://img.youtube.com/vi/QTKQWawtIA0/maxresdefault.jpg)](https://www.youtube.com/watch?v=QTKQWawtIA0)
 
 ---
 
-### R23: Field Penetration and Potential Drop-off in Screened Media
+## R23: Field Penetration and Potential Drop-off in Screened Media
+
+Deliverables: https://payhip.com/b/r3WU4
 
 [![YouTube Video zKxVv4PPukg](https://img.youtube.com/vi/zKxVv4PPukg/maxresdefault.jpg)](https://www.youtube.com/watch?v=zKxVv4PPukg)
 
-#### Podcast: The Great Electric Tug-of-War: A Foundational Guide to Debye Screening
+### Podcast: The Great Electric Tug-of-War: A Foundational Guide to Debye Screening
 
 [![YouTube Video 1eI5IY-ookg](https://img.youtube.com/vi/1eI5IY-ookg/maxresdefault.jpg)](https://www.youtube.com/watch?v=1eI5IY-ookg)
 
 ---
 
-### R24: Supersonic Ion Entry and Sheath Stability at Plasma Boundaries
+## R24: Supersonic Ion Entry and Sheath Stability at Plasma Boundaries
+
+Deliverables: https://payhip.com/b/Sd8EK
 
 [![YouTube Video xQidK36sOuY](https://img.youtube.com/vi/xQidK36sOuY/maxresdefault.jpg)](https://www.youtube.com/watch?v=xQidK36sOuY)
 
-#### Podcast: The Supersonic Gateway: Understanding the Bohm Sheath Criterion
+### Podcast: The Supersonic Gateway: Understanding the Bohm Sheath Criterion
 
 [![YouTube Video npeNJz2aFIU](https://img.youtube.com/vi/npeNJz2aFIU/maxresdefault.jpg)](https://www.youtube.com/watch?v=npeNJz2aFIU)
 
 ---
 
-### R25: Magnetized Plasma Sheath Dynamics & Kinetic Ensemble Trajectories
+## R25: Magnetized Plasma Sheath Dynamics & Kinetic Ensemble Trajectories
+
+Deliverables: https://payhip.com/b/OUIg8
 
 [![YouTube Video RNZYeZoJvNY](https://img.youtube.com/vi/RNZYeZoJvNY/maxresdefault.jpg)](https://www.youtube.com/watch?v=RNZYeZoJvNY)
 
-#### Podcast: The Great Atomic Race: How Plasmas Shield the World
+### Podcast: The Great Atomic Race: How Plasmas Shield the World
 
 [![YouTube Video Fefect-HVCk](https://img.youtube.com/vi/Fefect-HVCk/maxresdefault.jpg)](https://www.youtube.com/watch?v=Fefect-HVCk)
 
 ---
 
-### R26: From Lightning to Auroras: Atmospheric Plasma Mechanics
+## R26: From Lightning to Auroras: Atmospheric Plasma Mechanics
+
+Deliverables: https://payhip.com/b/X1tf9
 
 [![YouTube Video ybxyeKks3b8](https://img.youtube.com/vi/ybxyeKks3b8/maxresdefault.jpg)](https://www.youtube.com/watch?v=ybxyeKks3b8)
 
-#### Podcast: The World of Gaseous Plasma: An Essential Terminology Guide
+### Podcast: The World of Gaseous Plasma: An Essential Terminology Guide
 
 [![YouTube Video n3fCI7tS1Yg](https://img.youtube.com/vi/n3fCI7tS1Yg/maxresdefault.jpg)](https://www.youtube.com/watch?v=n3fCI7tS1Yg)
 
@@ -201,30 +217,68 @@ https://payhip.com/CDP
 
 ---
 
-### R27: From Laplace Fields to Lightning Strikes: How Plasma Tendrils Form
+## R27: From Laplace Fields to Lightning Strikes: How Plasma Tendrils Form
+
+Deliverables: https://payhip.com/b/oP4yE
 
 [![YouTube Video gxd5ahTl8EQ](https://img.youtube.com/vi/gxd5ahTl8EQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=gxd5ahTl8EQ)
 
-#### Podcast: Nature’s Electric Architecture: Decoding the Math of Lightning
+### Podcast: Nature’s Electric Architecture: Decoding the Math of Lightning
 
 [![YouTube Video dDuCQpusJq0](https://img.youtube.com/vi/dDuCQpusJq0/maxresdefault.jpg)](https://www.youtube.com/watch?v=dDuCQpusJq0)
 
 ---
 
-### R28: Self-Focusing Dynamics: Streamer Branching and Magnetohydrodynamic Pinching in Plasma Tendrils
+## R28: Self-Focusing Dynamics: Streamer Branching and Magnetohydrodynamic Pinching in Plasma Tendrils
+
+Deliverables: https://payhip.com/b/chAX2
 
 [![YouTube Video zDnkjL8lfHI](https://img.youtube.com/vi/zDnkjL8lfHI/maxresdefault.jpg)](https://www.youtube.com/watch?v=zDnkjL8lfHI)
 
-#### Podcast: The Two Paths of Plasma: A Beginner’s Guide to Streamers and Pinching
+### Podcast: The Two Paths of Plasma: A Beginner’s Guide to Streamers and Pinching
 
 [![YouTube Video PjuEeIVL0bE](https://img.youtube.com/vi/PjuEeIVL0bE/maxresdefault.jpg)](https://www.youtube.com/watch?v=PjuEeIVL0bE)
 
 ---
 
-### R29: Self-Focusing Dynamics: Streamer Branching and Magnetohydrodynamic Pinching in Plasma Tendrils
+## R29: Simulating Plasma Filamentation: Drift-Diffusion Models and Dynamic Trajectory Pursuit
 
-[![YouTube Video zDnkjL8lfHI](https://img.youtube.com/vi/zDnkjL8lfHI/maxresdefault.jpg)](https://www.youtube.com/watch?v=zDnkjL8lfHI)
+Deliverables: https://payhip.com/b/6MT8O
 
-#### Podcast: The Physics of Pathfinding: A Manual on Plasma Trajectory Dynamics
+[![YouTube Video KMcU_mOwZug](https://utfs.io/f/nGnSqDveMsqx2p1TD1ewnDuhKNe1WpxrXlUaJzd4S7jQcHb6)](https://www.youtube.com/watch?v=KMcU_mOwZug)
+
+### Podcast: The Physics of Pathfinding: A Manual on Plasma Trajectory Dynamics
 
 [![YouTube Video uoR4n_0K8EI](https://img.youtube.com/vi/uoR4n_0K8EI/maxresdefault.jpg)](https://www.youtube.com/watch?v=uoR4n_0K8EI)
+
+---
+
+## R30: Fractal-Noise Plasma Dynamics
+
+Deliverables: https://payhip.com/b/N5Mr0
+
+[![YouTube Video zlQC80TIGeA](https://img.youtube.com/vi/zlQC80TIGeA/maxresdefault.jpg)](https://www.youtube.com/watch?v=zlQC80TIGeA)
+
+### Podcast: The Anatomy of Digital Lightning: Understanding Fractal-Noise Plasma
+
+[![YouTube Video HBlXWX7HKTM](https://img.youtube.com/vi/HBlXWX7HKTM/maxresdefault.jpg)](https://www.youtube.com/watch?v=HBlXWX7HKTM)
+
+---
+
+## R31: Procedural Branching: L-System Applications in Plasma Discharges and Biological Morphogenesis
+
+Deliverables: https://payhip.com/b/SUs1N
+
+[![YouTube Video uIvCUEb2V7A](https://img.youtube.com/vi/uIvCUEb2V7A/maxresdefault.jpg)](https://www.youtube.com/watch?v=uIvCUEb2V7A)
+
+### Podcast: Nature's Hidden Code: A Beginner’s Guide to L-Systems and Emergent Complexity
+
+[![YouTube Video MbgY8-f_hKY](https://img.youtube.com/vi/MbgY8-f_hKY/maxresdefault.jpg)](https://www.youtube.com/watch?v=MbgY8-f_hKY)
+
+---
+
+## Podcast: The Evaporating Boundary: 5 Surprising Ways Physics Controls the Invisible World
+
+Deliverables: https://payhip.com/b/BacMg
+
+[![YouTube Video XgQN-dEli5Y](https://img.youtube.com/vi/XgQN-dEli5Y/maxresdefault.jpg)](https://www.youtube.com/watch?v=XgQN-dEli5Y)
