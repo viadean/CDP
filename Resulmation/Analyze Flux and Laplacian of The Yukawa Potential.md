@@ -127,7 +127,21 @@ https://payhip.com/CDP
 
 ## R19: Helmholtz Modeling of 3D Thermal Fin Heat Dissipation
 
+Deliverables: https://payhip.com/b/1hrPl
+
 [![YouTube Video 8L4xlw8o9SU](https://img.youtube.com/vi/8L4xlw8o9SU/maxresdefault.jpg)](https://www.youtube.com/watch?v=8L4xlw8o9SU)
+
+### Podcast: The Hidden Physics of Heat: 5 Surprising Lessons from the Helmholtz Equation
+
+[![YouTube Video PKu4Lu5c994](https://img.youtube.com/vi/PKu4Lu5c994/maxresdefault.jpg)](https://www.youtube.com/watch?v=PKu4Lu5c994)
+
+### Exploration Frontier: Transient & Frequency-Domain Thermodynamics: From Helmholtz Oscillations to Conjugate Solid-Fluid Coupling
+
+[![YouTube Video eGxKfgLVI-E](https://img.youtube.com/vi/eGxKfgLVI-E/maxresdefault.jpg)](https://www.youtube.com/watch?v=eGxKfgLVI-E)
+
+
+
+
 
 ---
 
