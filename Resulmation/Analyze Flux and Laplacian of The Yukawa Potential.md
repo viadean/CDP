@@ -121,7 +121,19 @@ https://payhip.com/CDP
 
 ## R18: Wave Dynamics and Boundary Conditions in Helmholtz Systems
 
+Deliverables: https://payhip.com/b/ZvNyi
+
 [![YouTube Video X6pqrUhw4LQ](https://img.youtube.com/vi/X6pqrUhw4LQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=X6pqrUhw4LQ)
+
+---
+
+### Podcast: The Architecture of Silence and Echoes: 5 Surprising Ways Waves Hit the Wall
+
+[![YouTube Video aegFhWZp2qQ](https://img.youtube.com/vi/aegFhWZp2qQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=aegFhWZp2qQ)
+
+### Exploration Frontier: The Continuous-to-Discretized Helmholtz Shift
+
+[![YouTube Video wruXIiuoVTY](https://img.youtube.com/vi/wruXIiuoVTY/maxresdefault.jpg)](https://www.youtube.com/watch?v=wruXIiuoVTY)
 
 ---
 
@@ -138,10 +150,6 @@ Deliverables: https://payhip.com/b/1hrPl
 ### Exploration Frontier: Transient & Frequency-Domain Thermodynamics: From Helmholtz Oscillations to Conjugate Solid-Fluid Coupling
 
 [![YouTube Video eGxKfgLVI-E](https://img.youtube.com/vi/eGxKfgLVI-E/maxresdefault.jpg)](https://www.youtube.com/watch?v=eGxKfgLVI-E)
-
-
-
-
 
 ---
 
