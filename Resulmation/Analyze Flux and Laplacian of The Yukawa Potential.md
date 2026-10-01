@@ -115,7 +115,13 @@ https://payhip.com/CDP
 
 ## R17: Fermi Surface From 3D Spheres to Quasi-2D Corrugated Cylinders and 2D Honeycomb Pockets
 
+Deliverables: https://payhip.com/b/cgm3M
+
 [![YouTube Video f4ZH1OKtP14](https://img.youtube.com/vi/f4ZH1OKtP14/maxresdefault.jpg)](https://www.youtube.com/watch?v=f4ZH1OKtP14)
+
+### Podcast: The Invisible Geometry of Matter: Truths About the Fermi Surface
+
+[![YouTube Video SYamJKw5QC4](https://img.youtube.com/vi/SYamJKw5QC4/maxresdefault.jpg)](https://www.youtube.com/watch?v=SYamJKw5QC4)
 
 ---
 
