@@ -91,13 +91,25 @@ https://payhip.com/CDP
 
 ## R13: Reconstructing Material Defects with Regularized Acoustic Waves Beneath the Surface
 
+Deliverables: https://payhip.com/b/6yYsi
+
 [![YouTube Video jpn0OIH0FTQ](https://img.youtube.com/vi/jpn0OIH0FTQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=jpn0OIH0FTQ)
+
+### Podcast: How Math Lets Us See Inside Matter: Insights from Acoustic Wave Physics
+
+[![YouTube Video Huaw59tPMaI](https://img.youtube.com/vi/Huaw59tPMaI/maxresdefault.jpg)](https://www.youtube.com/watch?v=Huaw59tPMaI)
 
 ---
 
 ## R14: Quasi-Reversibility vs. Tikhonov Regularization
 
+Deliverables: https://payhip.com/b/64KcJ
+
 [![YouTube Video I3Y9Hr-FaPM](https://img.youtube.com/vi/I3Y9Hr-FaPM/maxresdefault.jpg)](https://www.youtube.com/watch?v=I3Y9Hr-FaPM)
+
+### Podcast: Beyond Filtering: Quasi-Reversibility Prevents Mathematical Explosions
+
+[![YouTube Video D961wi0oQjU](https://img.youtube.com/vi/D961wi0oQjU/maxresdefault.jpg)](https://www.youtube.com/watch?v=D961wi0oQjU)
 
 ---
 
@@ -105,11 +117,21 @@ https://payhip.com/CDP
 
 [![YouTube Video cUgEvMNXd7Q](https://img.youtube.com/vi/cUgEvMNXd7Q/maxresdefault.jpg)](https://www.youtube.com/watch?v=cUgEvMNXd7Q)
 
+### Podcast: The Hidden Physics of Waves: Mind-Bending Insights from Helmholtz Simulations
+
+[![YouTube Video aXMpKfl-lpY](https://img.youtube.com/vi/aXMpKfl-lpY/maxresdefault.jpg)](https://www.youtube.com/watch?v=aXMpKfl-lpY)
+
 ---
 
 ## R16: Quantum Charge Screening and Dynamic Friedel Oscillation
 
+Deliverables: https://payhip.com/b/QYr4Z
+
 [![YouTube Video 5rEOCNhQTZM](https://img.youtube.com/vi/5rEOCNhQTZM/maxresdefault.jpg)](https://www.youtube.com/watch?v=5rEOCNhQTZM)
+
+### Podcast: Visualizing the Invisible: Mind-Bending Behaviors of Quantum Electron Seas
+
+[![YouTube Video -kMoDPW-ZM8](https://img.youtube.com/vi/-kMoDPW-ZM8/maxresdefault.jpg)](https://www.youtube.com/watch?v=-kMoDPW-ZM8)
 
 ---
 
@@ -122,6 +144,10 @@ Deliverables: https://payhip.com/b/cgm3M
 ### Podcast: The Invisible Geometry of Matter: Truths About the Fermi Surface
 
 [![YouTube Video SYamJKw5QC4](https://img.youtube.com/vi/SYamJKw5QC4/maxresdefault.jpg)](https://www.youtube.com/watch?v=SYamJKw5QC4)
+
+### Exploration Frontier: Fermi Surface Evolution From Static Geometry to Interactive Quantum Dynamics
+
+[![YouTube Video 2DP0mrNpIE4](https://img.youtube.com/vi/2DP0mrNpIE4/maxresdefault.jpg)](https://www.youtube.com/watch?v=2DP0mrNpIE4)
 
 ---
 
@@ -169,6 +195,10 @@ Deliverables: https://payhip.com/b/7GoXO
 
 [![YouTube Video ViK8kcBHWoI](https://img.youtube.com/vi/ViK8kcBHWoI/maxresdefault.jpg)](https://www.youtube.com/watch?v=ViK8kcBHWoI)
 
+### Exploration Frontier: Mapping Yukawa Potential Across Specialized Physics Orientations
+
+[![YouTube Video SvxN2xZ1GdY](https://img.youtube.com/vi/SvxN2xZ1GdY/maxresdefault.jpg)](https://www.youtube.com/watch?v=SvxN2xZ1GdY)
+
 ---
 
 ## R21: Precession and Orbital Collapse in Screened Potentials
@@ -180,6 +210,10 @@ Deliverables: https://payhip.com/b/F2r4Y
 ### Podcast: The Physics of Screening: From Protective Walls to Potential Cliffs
 
 [![YouTube Video SL4Ft5FJ3v0](https://img.youtube.com/vi/SL4Ft5FJ3v0/maxresdefault.jpg)](https://www.youtube.com/watch?v=SL4Ft5FJ3v0)
+
+### Exploration Frontier: Yukawa Phase-Space Frontier
+
+[![YouTube Video GmEkJKmF1nk](https://img.youtube.com/vi/GmEkJKmF1nk/maxresdefault.jpg)](https://www.youtube.com/watch?v=GmEkJKmF1nk)
 
 ---
 
@@ -193,6 +227,10 @@ Deliverables: https://payhip.com/b/l8P14
 
 [![YouTube Video QTKQWawtIA0](https://img.youtube.com/vi/QTKQWawtIA0/maxresdefault.jpg)](https://www.youtube.com/watch?v=QTKQWawtIA0)
 
+### Exploration Frontier: From Isotropic Continuum to Kinetic Phase-Space Dynamics
+
+[![YouTube Video cQBuBjH6ixU](https://img.youtube.com/vi/cQBuBjH6ixU/maxresdefault.jpg)](https://www.youtube.com/watch?v=cQBuBjH6ixU)
+
 ---
 
 ## R23: Field Penetration and Potential Drop-off in Screened Media
@@ -205,6 +243,10 @@ Deliverables: https://payhip.com/b/r3WU4
 
 [![YouTube Video 1eI5IY-ookg](https://img.youtube.com/vi/1eI5IY-ookg/maxresdefault.jpg)](https://www.youtube.com/watch?v=1eI5IY-ookg)
 
+### Exploration Frontier: Debye-Bohm Anisotropic Dynamics
+
+[![YouTube Video _6XEP_baE7s](https://img.youtube.com/vi/_6XEP_baE7s/maxresdefault.jpg)](https://www.youtube.com/watch?v=_6XEP_baE7s)
+
 ---
 
 ## R24: Supersonic Ion Entry and Sheath Stability at Plasma Boundaries
@@ -216,6 +258,10 @@ Deliverables: https://payhip.com/b/Sd8EK
 ### Podcast: The Supersonic Gateway: Understanding the Bohm Sheath Criterion
 
 [![YouTube Video npeNJz2aFIU](https://img.youtube.com/vi/npeNJz2aFIU/maxresdefault.jpg)](https://www.youtube.com/watch?v=npeNJz2aFIU)
+
+### Exploration Frontier: Boundary Breakdown and Presheath Matching in Sub-Bohm Plasma Sheaths
+
+[![YouTube Video H4rYze2KvAg](https://img.youtube.com/vi/H4rYze2KvAg/maxresdefault.jpg)](https://www.youtube.com/watch?v=H4rYze2KvAg)
 
 ---
 
