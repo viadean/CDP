@@ -79,13 +79,23 @@ https://payhip.com/CDP
 
 ## R11: Standard and Gradient Based Tikhonov Regularization in Helmholtz Inverse Scattering Sweeps
 
+Deliverables: https://payhip.com/b/YGv9q
+
 [![YouTube Video pBAkjpAvqzc](https://img.youtube.com/vi/pBAkjpAvqzc/maxresdefault.jpg)](https://www.youtube.com/watch?v=pBAkjpAvqzc)
+
+### Podcast: Why Seeing the Unseen in Wave Physics Requires Embracing Mathematical Instability
+
+[![YouTube Video Q1mh1GkHSaw](https://img.youtube.com/vi/Q1mh1GkHSaw/maxresdefault.jpg)](https://www.youtube.com/watch?v=Q1mh1GkHSaw)
 
 ---
 
 ## R12: Tikhonov Regularization and Terrain-Relative Coordinate Mapping for Inhomogeneous Helmholtz Systems
 
 [![YouTube Video 0nrWACQVGVs](https://img.youtube.com/vi/0nrWACQVGVs/maxresdefault.jpg)](https://www.youtube.com/watch?v=0nrWACQVGVs)
+
+### Podcast: Seeing Through the Earth: Insights into the Math of Subsurface Imaging
+
+[![YouTube Video 2k7LaLJ-lEI](https://img.youtube.com/vi/2k7LaLJ-lEI/maxresdefault.jpg)](https://www.youtube.com/watch?v=2k7LaLJ-lEI)
 
 ---
 
