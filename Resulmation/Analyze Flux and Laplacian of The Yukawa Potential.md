@@ -61,19 +61,37 @@ https://payhip.com/CDP
 
 ## R8: Smooth Spectral Filtering in the Helmholtz Cauchy Problem
 
+Deliverables: https://payhip.com/b/m2KIV
+
 [![YouTube Video 0poRtnhURj8](https://img.youtube.com/vi/0poRtnhURj8/maxresdefault.jpg)](https://www.youtube.com/watch?v=0poRtnhURj8)
+
+### Podcast: When Microscopic Errors Explode: Ill-Posed Wave Equations
+
+[![YouTube Video 2xERxc9dvpk](https://img.youtube.com/vi/2xERxc9dvpk/maxresdefault.jpg)](https://www.youtube.com/watch?v=2xERxc9dvpk)
 
 ---
 
 ## R9: Tikhonov Regularization for Ill-Posed Helmholtz Systems
 
+Deliverables: https://payhip.com/b/40BKP
+
 [![YouTube Video v4sAOPX6j98](https://img.youtube.com/vi/v4sAOPX6j98/maxresdefault.jpg)](https://www.youtube.com/watch?v=v4sAOPX6j98)
+
+### Podcast: Seeing Through the Noise: How Mathematical Filtering Unlocks Hidden Sound Sources
+
+[![YouTube Video XiyVU6N--fw](https://img.youtube.com/vi/XiyVU6N--fw/maxresdefault.jpg)](https://www.youtube.com/watch?v=XiyVU6N--fw)
 
 ---
 
 ## R10: Stabilizing the Helmholtz Cauchy Problem in Active Sonar Pipelines
 
+Deliverables: https://payhip.com/b/2Xas0
+
 [![YouTube Video _Q0GFtEru4w](https://img.youtube.com/vi/_Q0GFtEru4w/maxresdefault.jpg)](https://www.youtube.com/watch?v=_Q0GFtEru4w)
+
+### Podcast: How Math Prevents "Explosions" in Active Sonar: Counter-Intuitive Secrets of Wave Physics
+
+[![YouTube Video 1Ishg_E3iY8](https://img.youtube.com/vi/1Ishg_E3iY8/maxresdefault.jpg)](https://www.youtube.com/watch?v=1Ishg_E3iY8)
 
 ---
 
