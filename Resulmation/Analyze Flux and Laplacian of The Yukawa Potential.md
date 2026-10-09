@@ -35,27 +35,53 @@ https://payhip.com/CDP
 
 ## R4: From Funnels to Trenches through Critical Screening and Lattice Strain in Quantum Confinement
 
+Deliverables: https://payhip.com/b/Q934s
+
 [![YouTube Video 59TGbsISqOA](https://img.youtube.com/vi/59TGbsISqOA/maxresdefault.jpg)](https://www.youtube.com/watch?v=59TGbsISqOA)
+
+### Podcast: Beyond the Trap: Insights Into How Quantum Particles Escape and Reshape Their Worlds
+
+[![YouTube Video 40pmKB_tvpI](https://img.youtube.com/vi/40pmKB_tvpI/maxresdefault.jpg)](https://www.youtube.com/watch?v=40pmKB_tvpI)
 
 ---
 
 ## R5: Helmholtz Harmonics
 
+Deliverables: https://payhip.com/b/QSlpT
+
 [![YouTube Video 9iWYrS4o3m4](https://img.youtube.com/vi/9iWYrS4o3m4/maxresdefault.jpg)](https://www.youtube.com/watch?v=9iWYrS4o3m4)
 
+### Podcast: How Math "Freezes" Time: Insights from Helmholtz Harmonics
 
+[![YouTube Video f5VjAP-DItc](https://img.youtube.com/vi/f5VjAP-DItc/maxresdefault.jpg)](https://www.youtube.com/watch?v=f5VjAP-DItc)
+
+### Exploration Frontier: Spectral Wave Mechanics & Multi-Regime Field 
+
+[![YouTube Video 5CE_xtKmeGU](https://img.youtube.com/vi/5CE_xtKmeGU/maxresdefault.jpg)](https://www.youtube.com/watch?v=5CE_xtKmeGU)
 
 ---
 
 ## R6: Inhomogeneous Helmholtz Wave Propagation and Refractive Scattering Model
 
+Deliverables: https://payhip.com/b/CcPZD
+
 [![YouTube Video -EMF3PTmB4I](https://img.youtube.com/vi/-EMF3PTmB4I/maxresdefault.jpg)](https://www.youtube.com/watch?v=-EMF3PTmB4I)
+
+### Podcast: How Light Really Moves Through Matter: Insights from Wave Simulations
+
+[![YouTube Video LR79WU52X0E](https://img.youtube.com/vi/LR79WU52X0E/maxresdefault.jpg)](https://www.youtube.com/watch?v=LR79WU52X0E)
 
 ---
 
 ## R7: Wave-Optics Modeling of Macroscopic Refraction via the Inhomogeneous Helmholtz Equation
 
+Deliverables: https://payhip.com/b/cBC7S
+
 [![YouTube Video XML9Oz2eq7I](https://img.youtube.com/vi/XML9Oz2eq7I/maxresdefault.jpg)](https://www.youtube.com/watch?v=XML9Oz2eq7I)
+
+### Podcast: How Light Waves Really Bend: Insights from Wave-Optics Computational Modeling
+
+[![YouTube Video IGEnj9LeqVM](https://img.youtube.com/vi/IGEnj9LeqVM/maxresdefault.jpg)](https://www.youtube.com/watch?v=IGEnj9LeqVM)
 
 ---
 
