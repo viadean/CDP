@@ -8,18 +8,27 @@ https://payhip.com/b/BacMg
 
 https://payhip.com/CDP
 
-
 ## R1: The Evaporating Boundary
+
+Deliverables: https://payhip.com/b/oLM0P
 
 [![YouTube Video e-lbIF-Iw10](https://img.youtube.com/vi/e-lbIF-Iw10/maxresdefault.jpg)](https://www.youtube.com/watch?v=e-lbIF-Iw10)
 
+### Podcast: How Infinite Forces Shrink into Nothing: Insights from Modeling Physics and 'Evaporating' Fields
 
+[![YouTube Video fNBkVzUywpw](https://img.youtube.com/vi/fNBkVzUywpw/maxresdefault.jpg)](https://www.youtube.com/watch?v=fNBkVzUywpw)
 
 ---
 
 ## R2: The Physics of Thermal Scattering and Screening Cloud Thickness in Plasmas
 
+Deliverables: https://payhip.com/b/VSIPB
+
 [![YouTube Video 3VWK5rikCEo](https://img.youtube.com/vi/3VWK5rikCEo/maxresdefault.jpg)](https://www.youtube.com/watch?v=3VWK5rikCEo)
+
+### Podcast: Why Plasma Shields Dissolve in Heat: Insights into Shielding Physics
+
+[![YouTube Video xe8mref-z54](https://img.youtube.com/vi/xe8mref-z54/maxresdefault.jpg)](https://www.youtube.com/watch?v=xe8mref-z54)
 
 
 
@@ -27,7 +36,13 @@ https://payhip.com/CDP
 
 ## R3: How Mobile Conduction Electrons Shield Charged Defect Impurities 
 
+Deliverables: https://payhip.com/b/i9kKq
+
 [![YouTube Video ExB4J70eAlg](https://img.youtube.com/vi/ExB4J70eAlg/maxresdefault.jpg)](https://www.youtube.com/watch?v=ExB4J70eAlg)
+
+### Podcast: The Quantum Cloaking Effect: How Crowded Electrons Make Defects Disappear
+
+[![YouTube Video XpgdnpNwmPE](https://img.youtube.com/vi/XpgdnpNwmPE/maxresdefault.jpg)](https://www.youtube.com/watch?v=XpgdnpNwmPE)
 
 
 

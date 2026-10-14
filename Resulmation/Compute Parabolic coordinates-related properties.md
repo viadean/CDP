@@ -8,21 +8,23 @@ https://payhip.com/b/OfqF5
 
 https://payhip.com/CDP
 
-## Animated Results
-
-[TOC]
-
 
 
 ---
 
-### R1: Confocal Orthogonality: The Dynamic Geometry of Parabolic Gutters and Bowls
+## R1: Confocal Orthogonality: The Dynamic Geometry of Parabolic Gutters and Bowls
+
+Deliverables: https://payhip.com/b/wYSsU
 
 [![YouTube Video RSltBOM7AwU](https://img.youtube.com/vi/RSltBOM7AwU/maxresdefault.jpg)](https://www.youtube.com/watch?v=RSltBOM7AwU)
 
+### Podcast: Beyond the Cartesian Box: Insights from the World of 3D Parabolic Coordinates
+
+[![YouTube Video O1dH-7s_QFY](https://img.youtube.com/vi/O1dH-7s_QFY/maxresdefault.jpg)](https://www.youtube.com/watch?v=O1dH-7s_QFY)
+
 ---
 
-#### 3D Parabolic Coordinates Interactive Explorer
+### 3D Parabolic Coordinates Interactive Explorer
 
 [![YouTube Video wDQb75y9LZU](https://img.youtube.com/vi/wDQb75y9LZU/maxresdefault.jpg)](https://www.youtube.com/watch?v=wDQb75y9LZU)
 
@@ -30,9 +32,15 @@ https://payhip.com/CDP
 
 ---
 
-### R2: Tracing the Curve: Potential Scattering and Visual Modeling in Parabolic Coordinates
+## R2: Tracing the Curve: Potential Scattering and Visual Modeling in Parabolic Coordinates
+
+Deliverables: https://payhip.com/b/qnP2o
 
 [![YouTube Video xu_RDdbY3yw](https://img.youtube.com/vi/xu_RDdbY3yw/maxresdefault.jpg)](https://www.youtube.com/watch?v=xu_RDdbY3yw)
+
+### Podcast: Mapping Subatomic Curves: How Parabolic Coordinates and Visual Mechanics Model Particle Physics
+
+[![YouTube Video QikfWpJzNoQ](https://img.youtube.com/vi/QikfWpJzNoQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=QikfWpJzNoQ)
 
 ---
 
@@ -48,7 +56,13 @@ https://payhip.com/CDP
 
 ### R3: Aerodynamic Heat Distribution in Parabolic Coordinate Systems
 
+Deliverables: https://payhip.com/b/ZWLd1
+
 [![YouTube Video X2iHttxgzBI](https://img.youtube.com/vi/X2iHttxgzBI/maxresdefault.jpg)](https://www.youtube.com/watch?v=X2iHttxgzBI)
+
+### Podcast: The Counter-Intuitive Physics of Extreme Velocity: Aerodynamics, Thermal Compression, and Rocket Geometry
+
+[![YouTube Video 6T-9mzy-Oqw](https://img.youtube.com/vi/6T-9mzy-Oqw/maxresdefault.jpg)](https://www.youtube.com/watch?v=6T-9mzy-Oqw)
 
 ---
 
@@ -62,7 +76,13 @@ https://payhip.com/CDP
 
 ### R4: Harmonics of the Parabolic Focus
 
+Deliverables: https://payhip.com/b/sYB2I
+
 [![YouTube Video _Fb56kVdoZc](https://img.youtube.com/vi/_Fb56kVdoZc/maxresdefault.jpg)](https://www.youtube.com/watch?v=_Fb56kVdoZc)
+
+### Podcast: Beyond Cartesian: Parabolic Geometry Unlocks the Quantum Universe
+
+[![YouTube Video -WFlA1tqLAw](https://img.youtube.com/vi/-WFlA1tqLAw/maxresdefault.jpg)](https://www.youtube.com/watch?v=-WFlA1tqLAw)
 
 ---
 
