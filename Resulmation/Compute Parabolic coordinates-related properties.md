@@ -44,7 +44,7 @@ Deliverables: https://payhip.com/b/qnP2o
 
 ---
 
-#### Parabolic Coordinates & Potential Scattering Simulator
+### Parabolic Coordinates & Potential Scattering Simulator
 
 [![YouTube Video _yt1domrxzE](https://img.youtube.com/vi/_yt1domrxzE/maxresdefault.jpg)](https://www.youtube.com/watch?v=_yt1domrxzE)
 
@@ -54,7 +54,7 @@ Deliverables: https://payhip.com/b/qnP2o
 
 ---
 
-### R3: Aerodynamic Heat Distribution in Parabolic Coordinate Systems
+## R3: Aerodynamic Heat Distribution in Parabolic Coordinate Systems
 
 Deliverables: https://payhip.com/b/ZWLd1
 
@@ -66,7 +66,7 @@ Deliverables: https://payhip.com/b/ZWLd1
 
 ---
 
-#### Parabolic Coordinates Aerodynamics & Thermal Simulator
+### Parabolic Coordinates Aerodynamics & Thermal Simulator
 
 [![YouTube Video SF3da7o2Ack](https://img.youtube.com/vi/SF3da7o2Ack/maxresdefault.jpg)](https://www.youtube.com/watch?v=SF3da7o2Ack)
 
@@ -74,7 +74,7 @@ Deliverables: https://payhip.com/b/ZWLd1
 
 ---
 
-### R4: Harmonics of the Parabolic Focus
+## R4: Harmonics of the Parabolic Focus
 
 Deliverables: https://payhip.com/b/sYB2I
 
@@ -86,7 +86,7 @@ Deliverables: https://payhip.com/b/sYB2I
 
 ---
 
-#### Parabolic Coordinates & Quantum-Classical Orbit Simulator
+### Parabolic Coordinates & Quantum-Classical Orbit Simulator
 
 [![YouTube Video ZS8vRFLFt0w](https://img.youtube.com/vi/ZS8vRFLFt0w/maxresdefault.jpg)](https://www.youtube.com/watch?v=ZS8vRFLFt0w)
 
@@ -94,33 +94,51 @@ Deliverables: https://payhip.com/b/sYB2I
 
 ---
 
-### R5: Electrostatic Frontiers: Modeling Charge Spikes and Shielding in Parabolic Coordinates
+## R5: Electrostatic Frontiers: Modeling Charge Spikes and Shielding in Parabolic Coordinates
+
+Deliverables: https://payhip.com/b/XM3W7
 
 [![YouTube Video ZBLv0N9vlPI](https://img.youtube.com/vi/ZBLv0N9vlPI/maxresdefault.jpg)](https://www.youtube.com/watch?v=ZBLv0N9vlPI)
 
+### Podcast: 5 Counter-Intuitive Ways Geometry and Materials Shape Electric Fields
+
+[![YouTube Video wVv6YsLer-c](https://img.youtube.com/vi/wVv6YsLer-c/maxresdefault.jpg)](https://www.youtube.com/watch?v=wVv6YsLer-c)
+
 ---
 
-#### Parabolic Coordinates Electrostatics Simulation
+### Parabolic Coordinates Electrostatics Simulation
 
 [![YouTube Video pXJdkQXl7rw](https://img.youtube.com/vi/pXJdkQXl7rw/maxresdefault.jpg)](https://www.youtube.com/watch?v=pXJdkQXl7rw)
 
 ---
 
-### R6: The Stark Effect in Hydrogen: Quantum Perturbation, Energy Manifold Splitting, and Orbital Polarization
+## R6: The Stark Effect in Hydrogen: Quantum Perturbation, Energy Manifold Splitting, and Orbital Polarization
+
+Deliverables: https://payhip.com/b/fIpLF
 
 [![YouTube Video KlAgU1f8JiU](https://img.youtube.com/vi/KlAgU1f8JiU/maxresdefault.jpg)](https://www.youtube.com/watch?v=KlAgU1f8JiU)
 
+### Podcast: What Happens When You Zap an Atom? Insights into the Quantum Stark Effect
+
+[![YouTube Video _XPxOy5PLNE](https://img.youtube.com/vi/_XPxOy5PLNE/maxresdefault.jpg)](https://www.youtube.com/watch?v=_XPxOy5PLNE)
+
 ---
 
-#### Hydrogen Stark Effect Simulator
+### Hydrogen Stark Effect Simulator
 
 [![YouTube Video hRJIgrkoo_k](https://img.youtube.com/vi/hRJIgrkoo_k/maxresdefault.jpg)](https://www.youtube.com/watch?v=hRJIgrkoo_k)
 
 ---
 
-### R7: The Parabolic Geometry of Coulomb Scattering: Bridging Classical Trajectories and Quantum Wave Dynamics
+## R7: The Parabolic Geometry of Coulomb Scattering: Bridging Classical Trajectories and Quantum Wave Dynamics
+
+Deliverables: https://payhip.com/b/YpKuh
 
 [![YouTube Video KlAgU1f8JiU](https://utfs.io/f/nGnSqDveMsqxQPiVFod4ptfEy6lsGQgRBWMrJ9KFkU2edTLZ)](https://www.youtube.com/watch?v=EKnvlaiIFLY)
+
+### Podcast: The Geometry of Chaos: Insights into How Quantum Particles Bounce Off Atomic Nuclei
+
+[![YouTube Video JA07yqbKmhM](https://img.youtube.com/vi/JA07yqbKmhM/maxresdefault.jpg)](https://www.youtube.com/watch?v=JA07yqbKmhM)
 
 ---
 
@@ -130,9 +148,15 @@ Deliverables: https://payhip.com/b/sYB2I
 
 ---
 
-### R8: Modeling Thermal Plumes and Stagnation Point Shifts on Heated Parabolic Surfaces under External Cross-Winds
+## R8: Modeling Thermal Plumes and Stagnation Point Shifts on Heated Parabolic Surfaces under External Cross-Winds
+
+Deliverables: https://payhip.com/b/W5N7w
 
 [![YouTube Video 5lN-bADOBPs](https://img.youtube.com/vi/5lN-bADOBPs/maxresdefault.jpg)](https://www.youtube.com/watch?v=5lN-bADOBPs)
+
+### Podcast: The Hidden Physics of Heat and Wind: Insights from Heated Parabolic Surfaces
+
+[![YouTube Video oNl9ZfMXBB4](https://img.youtube.com/vi/oNl9ZfMXBB4/maxresdefault.jpg)](https://www.youtube.com/watch?v=oNl9ZfMXBB4)
 
 ---
 
