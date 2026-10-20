@@ -168,9 +168,15 @@ Deliverables: https://payhip.com/b/W5N7w
 
 ---
 
-### R9: Spatial Dynamics and Confinement of Electron Clouds within Paraboloid Quantum Dots
+## R9: Spatial Dynamics and Confinement of Electron Clouds within Paraboloid Quantum Dots
+
+Deliverables: https://payhip.com/b/dD0xi
 
 [![YouTube Video 6g2osZDn02s](https://img.youtube.com/vi/6g2osZDn02s/maxresdefault.jpg)](https://www.youtube.com/watch?v=6g2osZDn02s)
+
+### Podcast: 3 Mind-Bending Realities of How Nanostructures Shape Quantum Reality
+
+[![YouTube Video lJPy1Nf4t3k](https://img.youtube.com/vi/lJPy1Nf4t3k/maxresdefault.jpg)](https://www.youtube.com/watch?v=lJPy1Nf4t3k)
 
 ---
 
@@ -180,9 +186,15 @@ Deliverables: https://payhip.com/b/W5N7w
 
 ---
 
-### R10: Wave Propagation and Phase Flattening in Parabolic Horn Antennas
+## R10: Wave Propagation and Phase Flattening in Parabolic Horn Antennas
+
+Deliverables: https://payhip.com/b/4RLyY
 
 [![YouTube Video LBdGWZKxu7U](https://img.youtube.com/vi/LBdGWZKxu7U/maxresdefault.jpg)](https://www.youtube.com/watch?v=LBdGWZKxu7U)
+
+### Podcast: How to Tame a Wave: Parabolic Horn Antennas
+
+[![YouTube Video Cm85EYxKIms](https://img.youtube.com/vi/Cm85EYxKIms/maxresdefault.jpg)](https://www.youtube.com/watch?v=Cm85EYxKIms)
 
 ---
 
@@ -192,9 +204,15 @@ Deliverables: https://payhip.com/b/W5N7w
 
 ---
 
-### R11: Far-Field Directivity and Dynamic Beam Shaping in Parabolic Horn Antennas
+## R11: Far-Field Directivity and Dynamic Beam Shaping in Parabolic Horn Antennas
+
+Deliverables: https://payhip.com/b/Ze3YM
 
 [![YouTube Video hVZLwj2ay2E](https://img.youtube.com/vi/hVZLwj2ay2E/maxresdefault.jpg)](https://www.youtube.com/watch?v=hVZLwj2ay2E)
+
+### Podcast: The Paradox of the Beam: 3 Counter-Intuitive Secrets of Antenna Physics
+
+[![YouTube Video utOjI5mhagU](https://img.youtube.com/vi/utOjI5mhagU/maxresdefault.jpg)](https://www.youtube.com/watch?v=utOjI5mhagU)
 
 ---
 
