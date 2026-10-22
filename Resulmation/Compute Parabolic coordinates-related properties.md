@@ -222,9 +222,15 @@ Deliverables: https://payhip.com/b/Ze3YM
 
 ---
 
-### R12: Optical Convergence and Geometric Aberration Profiling in Off-Axis Parabolic Mirrors
+## R12: Optical Convergence and Geometric Aberration Profiling in Off-Axis Parabolic Mirrors
+
+Deliverables: https://payhip.com/b/DiV3q
 
 [![YouTube Video Pb98I8u0Is0](https://img.youtube.com/vi/Pb98I8u0Is0/maxresdefault.jpg)](https://www.youtube.com/watch?v=Pb98I8u0Is0)
+
+### Podcast: The Physics of Perfect Reflection: 4 Counter-Intuitive Truths About Off-Axis Parabolic Mirrors
+
+[![YouTube Video x9TshfzoKMg](https://img.youtube.com/vi/x9TshfzoKMg/maxresdefault.jpg)](https://www.youtube.com/watch?v=x9TshfzoKMg)
 
 ---
 
@@ -234,9 +240,15 @@ Deliverables: https://payhip.com/b/Ze3YM
 
 ---
 
-### R13: Topologically Stable Weber Beams with Parabolic Vector Optical Fields for Self-Healing High-Capacity Communication
+## R13: Topologically Stable Weber Beams with Parabolic Vector Optical Fields for Self-Healing High-Capacity Communication
+
+Deliverables: https://payhip.com/b/qEWew
 
 [![YouTube Video TXYTvm5itD8](https://img.youtube.com/vi/TXYTvm5itD8/maxresdefault.jpg)](https://www.youtube.com/watch?v=TXYTvm5itD8)
+
+### Podcast: Beyond the Circular Beam: How Self-Healing Parabolic Light is Reshaping Next-Gen Laser Communications
+
+[![YouTube Video TLl1UpwR634](https://img.youtube.com/vi/TLl1UpwR634/maxresdefault.jpg)](https://www.youtube.com/watch?v=TLl1UpwR634)
 
 ---
 
@@ -248,9 +260,15 @@ Deliverables: https://payhip.com/b/Ze3YM
 
 ---
 
-### R14: Aerodynamic Analysis of Fluid Flow and Lift Generation for Parabolic Obstacles using Potential Flow Theory and Bernoulli’s Equation
+## R14: Aerodynamic Analysis of Fluid Flow and Lift Generation for Parabolic Obstacles using Potential Flow Theory and Bernoulli’s Equation
+
+Deliverables: https://payhip.com/b/7gjAx
 
 [![YouTube Video 7GekanaGiaY](https://img.youtube.com/vi/7GekanaGiaY/maxresdefault.jpg)](https://www.youtube.com/watch?v=7GekanaGiaY)
+
+### Podcast: How Curved Math Explains Flight: Fluid Flow Around Parabolic Barriers
+
+[![YouTube Video i0KP-BQvh5w](https://img.youtube.com/vi/i0KP-BQvh5w/maxresdefault.jpg)](https://www.youtube.com/watch?v=i0KP-BQvh5w)
 
 ---
 
