@@ -280,9 +280,17 @@ Deliverables: https://payhip.com/b/7gjAx
 
 ---
 
-### R15: Modeling Thermal Convection and Buoyancy-Driven Plume Dynamics Around Parabolic Heating Elements using Parabolic Coordinates
+## R15: Modeling Thermal Convection and Buoyancy-Driven Plume Dynamics Around Parabolic Heating Elements using Parabolic Coordinates
+
+Deliverables: https://payhip.com/b/59Uqf
+
+
 
 [![YouTube Video 3JbAruCNkc8](https://img.youtube.com/vi/3JbAruCNkc8/maxresdefault.jpg)](https://www.youtube.com/watch?v=3JbAruCNkc8)
+
+### Podcast: How Physics Shapes Heat: Modeling Thermal Convection Around Parabolic Elements
+
+[![YouTube Video YVbkQ_vtC4s](https://img.youtube.com/vi/YVbkQ_vtC4s/maxresdefault.jpg)](https://www.youtube.com/watch?v=YVbkQ_vtC4s)
 
 ---
 
@@ -294,9 +302,15 @@ Deliverables: https://payhip.com/b/7gjAx
 
 ---
 
-### R16: Acoustic Eigenmode Simulation and Dynamic Standing Wave Visualization in Parabolic Enclosures
+## R16: Acoustic Eigenmode Simulation and Dynamic Standing Wave Visualization in Parabolic Enclosures
+
+Deliverables: https://payhip.com/b/VTamu
 
 [![YouTube Video rQiESZCoMyk](https://img.youtube.com/vi/rQiESZCoMyk/maxresdefault.jpg)](https://www.youtube.com/watch?v=rQiESZCoMyk)
+
+### Podcast: The Hidden Geometry of Sound: How Parabolic Math Controls Silent Zones and Hot Spots
+
+[![YouTube Video Dn6StcDqfas](https://img.youtube.com/vi/Dn6StcDqfas/maxresdefault.jpg)](https://www.youtube.com/watch?v=Dn6StcDqfas)
 
 ---
 
@@ -306,9 +320,15 @@ Deliverables: https://payhip.com/b/7gjAx
 
 ---
 
-### R17: Dynamic Simulation of Long-Range Sound Propagation and Convergence Zones in the SOFAR Ocean Waveguide using Parabolic Approximations
+## R17: Dynamic Simulation of Long-Range Sound Propagation and Convergence Zones in the SOFAR Ocean Waveguide using Parabolic Approximations
+
+Deliverables: https://payhip.com/b/EhkPp
 
 [![YouTube Video AkzU0UNB3w8](https://img.youtube.com/vi/AkzU0UNB3w8/maxresdefault.jpg)](https://www.youtube.com/watch?v=AkzU0UNB3w8)
+
+### Podcast: The Ocean’s Secret Sound Highway: Insights from Underwater Acoustic Physics
+
+[![YouTube Video k_zqP7VeSB4](https://img.youtube.com/vi/k_zqP7VeSB4/maxresdefault.jpg)](https://www.youtube.com/watch?v=k_zqP7VeSB4)
 
 ---
 
@@ -320,9 +340,15 @@ Deliverables: https://payhip.com/b/7gjAx
 
 ---
 
-### R18: Analyzing the Diffusion of Uncertainty and the Mechanics of Free Boundaries in Parabolic American Option Pricing Frameworks
+## R18: Analyzing the Diffusion of Uncertainty and the Mechanics of Free Boundaries in Parabolic American Option Pricing Frameworks
+
+Deliverables: https://payhip.com/b/Rn5iQ
 
 [![YouTube Video jNgjcCVxC2A](https://img.youtube.com/vi/jNgjcCVxC2A/maxresdefault.jpg)](https://www.youtube.com/watch?v=jNgjcCVxC2A)
+
+### Podcast: The Physics of Wall Street: Insights from Option Pricing and Heat Diffusion
+
+[![YouTube Video ZjIaVxrTFh4](https://img.youtube.com/vi/ZjIaVxrTFh4/maxresdefault.jpg)](https://www.youtube.com/watch?v=ZjIaVxrTFh4)
 
 ---
 
@@ -338,9 +364,15 @@ Deliverables: https://payhip.com/b/7gjAx
 
 ---
 
-### R19: Analyzing the Geometry of Instantaneous Propagation and Boundary Dynamics in Parabolic Diffusion Systems
+## R19: Analyzing the Geometry of Instantaneous Propagation and Boundary Dynamics in Parabolic Diffusion Systems
+
+Deliverables: https://payhip.com/b/xIRbq
 
 [![YouTube Video o6wpPNzF6mA](https://img.youtube.com/vi/o6wpPNzF6mA/maxresdefault.jpg)](https://www.youtube.com/watch?v=o6wpPNzF6mA)
+
+### Podcast: The Math Lie in Your Computer: Realities of Infinite Speed and Diffusion
+
+[![YouTube Video qln5lsbLTj8](https://img.youtube.com/vi/qln5lsbLTj8/maxresdefault.jpg)](https://www.youtube.com/watch?v=qln5lsbLTj8)
 
 ---
 
@@ -352,9 +384,15 @@ Deliverables: https://payhip.com/b/7gjAx
 
 ---
 
-### R20: Analyzing the Spectral Explosion and the Topology of Ill-Posedness in Time-Asymmetric Parabolic Systems
+## R20: Analyzing the Spectral Explosion and the Topology of Ill-Posedness in Time-Asymmetric Parabolic Systems
+
+Deliverables: https://payhip.com/b/T9Iab
 
 [![YouTube Video ME_A5vXBWmI](https://img.youtube.com/vi/ME_A5vXBWmI/maxresdefault.jpg)](https://www.youtube.com/watch?v=ME_A5vXBWmI)
+
+### Podcast: The Backward Time Trap: Why Reversing Differential Equations Triggers a Spectral Explosion
+
+[![YouTube Video xgkUI3A4d8Y](https://img.youtube.com/vi/xgkUI3A4d8Y/maxresdefault.jpg)](https://www.youtube.com/watch?v=xgkUI3A4d8Y)
 
 ---
 
@@ -364,9 +402,15 @@ Deliverables: https://payhip.com/b/7gjAx
 
 ---
 
-### R21: The Topography of Dissipation and Visual Proof of the Strong Maximum Principle
+## R21: The Topography of Dissipation and Visual Proof of the Strong Maximum Principle
+
+Deliverables: https://payhip.com/b/9aZu5
 
 [![YouTube Video M_Nbf_aR5LU](https://img.youtube.com/vi/M_Nbf_aR5LU/maxresdefault.jpg)](https://www.youtube.com/watch?v=M_Nbf_aR5LU)
+
+### Podcast: The Physics of Smoothing: Why Nature acts as an Unyielding "Averaging Machine”
+
+[![YouTube Video AORnVTpj9eU](https://img.youtube.com/vi/AORnVTpj9eU/maxresdefault.jpg)](https://www.youtube.com/watch?v=AORnVTpj9eU)
 
 ---
 
