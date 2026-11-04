@@ -10,11 +10,17 @@ https://payhip.com/CDP
 
 ## R1: The Geometry of Spacetime and Lorentz Transformations
 
+Deliverables: https://payhip.com/b/jG8X9
+
 [![YouTube Video vloieBeZXAc](https://img.youtube.com/vi/vloieBeZXAc/maxresdefault.jpg)](https://www.youtube.com/watch?v=vloieBeZXAc)
+
+### Podcast: Visualizing Relativity: the Geometry of Spacetime
+
+[![YouTube Video 7h0vpJ0ae38](https://img.youtube.com/vi/7h0vpJ0ae38/maxresdefault.jpg)](https://www.youtube.com/watch?v=7h0vpJ0ae38)
 
 ---
 
-### Lorentz Boost & Minkowski Spacetime Simulator
+### SPA: Lorentz Boost & Minkowski Spacetime Simulator
 
 [![YouTube Video ZD3Fob2ttoE](https://img.youtube.com/vi/ZD3Fob2ttoE/maxresdefault.jpg)](https://www.youtube.com/watch?v=ZD3Fob2ttoE)
 
@@ -22,11 +28,17 @@ https://payhip.com/CDP
 
 ## R2: Visualizing Wigner Rotation and Thomas Precession
 
+Deliverables: https://payhip.com/b/LWFVc
+
 [![YouTube Video G6W8Py3oRGI](https://img.youtube.com/vi/G6W8Py3oRGI/maxresdefault.jpg)](https://www.youtube.com/watch?v=G6W8Py3oRGI)
+
+### Podcast: Why Einsteinian Speed Twists Space: Insights from Relativistic Motion
+
+[![YouTube Video atg1H0mvxR4](https://img.youtube.com/vi/atg1H0mvxR4/maxresdefault.jpg)](https://www.youtube.com/watch?v=atg1H0mvxR4)
 
 ---
 
-### Wigner Rotation & Thomas Precession Advanced Visualizer
+### SPA: Wigner Rotation & Thomas Precession Advanced Visualizer
 
 [![YouTube Video nJ8Hx9EtCqQ](https://img.youtube.com/vi/nJ8Hx9EtCqQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=nJ8Hx9EtCqQ)
 
@@ -34,7 +46,17 @@ https://payhip.com/CDP
 
 ## R3: The Geometric Mirror of Spacetime and Energy-Momentum
 
+Deliverables: https://payhip.com/b/NWUDK
+
 [![YouTube Video 5Sc5wFXLT1w](https://img.youtube.com/vi/5Sc5wFXLT1w/maxresdefault.jpg)](https://www.youtube.com/watch?v=5Sc5wFXLT1w)
+
+### Podcast: The Cosmic Mirror: How Spacetime and Energy Warp as Identical Twin Geometries
+
+[![YouTube Video s-lRCwAq-Mo](https://img.youtube.com/vi/s-lRCwAq-Mo/maxresdefault.jpg)](https://www.youtube.com/watch?v=s-lRCwAq-Mo)
+
+### SPA: Spacetime & Energy-Momentum Lorentz Boost Simulator
+
+[![YouTube Video nxsac_9Xjco](https://img.youtube.com/vi/nxsac_9Xjco/maxresdefault.jpg)](https://www.youtube.com/watch?v=nxsac_9Xjco)
 
 ---
 

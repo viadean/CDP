@@ -422,9 +422,15 @@ Deliverables: https://payhip.com/b/9aZu5
 
 ---
 
-### R22: Non-Homogeneous Parabolic Systems and the Dynamics of Maximum Principle Violations
+## R22: Non-Homogeneous Parabolic Systems and the Dynamics of Maximum Principle Violations
+
+Deliverables: https://payhip.com/b/zLw35
 
 [![YouTube Video Ee8l1Wdg8kw](https://img.youtube.com/vi/Ee8l1Wdg8kw/maxresdefault.jpg)](https://www.youtube.com/watch?v=Ee8l1Wdg8kw)
+
+### Podcast: Breaking Physics Rules: How Internal Energy Sources Shatter the Maximum Principle
+
+[![YouTube Video 9gPzEmlcA3k](https://img.youtube.com/vi/9gPzEmlcA3k/maxresdefault.jpg)](https://www.youtube.com/watch?v=9gPzEmlcA3k)
 
 ---
 
@@ -434,9 +440,15 @@ Deliverables: https://payhip.com/b/9aZu5
 
 ---
 
-### R23: Instantaneous Regularization and the Smoothing Dynamics of Parabolic Systems
+## R23: Instantaneous Regularization and the Smoothing Dynamics of Parabolic Systems
+
+Deliverables: https://payhip.com/b/uAwnH
 
 [![YouTube Video lv1oGOwGNLw](https://img.youtube.com/vi/lv1oGOwGNLw/maxresdefault.jpg)](https://www.youtube.com/watch?v=lv1oGOwGNLw)
+
+### Podcast: 3 Mind-Bending Mathematical Truths About Heat, Waves, and Instant Smoothness
+
+[![YouTube Video 1mhJJWnSDsE](https://img.youtube.com/vi/1mhJJWnSDsE/maxresdefault.jpg)](https://www.youtube.com/watch?v=1mhJJWnSDsE)
 
 ---
 
@@ -446,9 +458,15 @@ Deliverables: https://payhip.com/b/9aZu5
 
 ---
 
-### R24: Asymptotic Relaxation and the Transition to Elliptic Steady-State Equilibrium
+## R24: Asymptotic Relaxation and the Transition to Elliptic Steady-State Equilibrium
+
+Deliverables: https://payhip.com/b/NkCci
 
 [![YouTube Video KHNK4E1SBBA](https://img.youtube.com/vi/KHNK4E1SBBA/maxresdefault.jpg)](https://www.youtube.com/watch?v=KHNK4E1SBBA)
+
+### Podcast: How Heat Settles Down: Insights into Mathematical Equilibrium
+
+[![YouTube Video LYLgMxvLF3w](https://img.youtube.com/vi/LYLgMxvLF3w/maxresdefault.jpg)](https://www.youtube.com/watch?v=LYLgMxvLF3w)
 
 ---
 
