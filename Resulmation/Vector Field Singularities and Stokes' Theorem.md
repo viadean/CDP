@@ -62,15 +62,17 @@ Deliverables: https://payhip.com/b/NWUDK
 
 ## R4: Invariance and Symmetry in Relativistic Particle Decay
 
-Primary Focus: Geometric Boundaries & Mass Shell Invariance
+Deliverables: https://payhip.com/b/ipK5v
 
 [![YouTube Video njB3-DrbUtM](https://img.youtube.com/vi/njB3-DrbUtM/maxresdefault.jpg)](https://www.youtube.com/watch?v=njB3-DrbUtM)
 
+### Podcast: The Immutable Laws of Reality: Insights from a Decaying Higgs Boson
+
+[![YouTube Video EegevR1ABQY](https://img.youtube.com/vi/EegevR1ABQY/maxresdefault.jpg)](https://www.youtube.com/watch?v=EegevR1ABQY)
+
 ---
 
-### Relativistic Higgs Boson Decay Simulation Dashboard
-
-Primary Focus: Time-Evolution & Real-Time Boost Kinematics
+### SPA: Relativistic Higgs Boson Decay Simulation Dashboard
 
 [![YouTube Video 2fePRJdGOaY](https://img.youtube.com/vi/2fePRJdGOaY/maxresdefault.jpg)](https://www.youtube.com/watch?v=2fePRJdGOaY)
 
@@ -80,15 +82,17 @@ Primary Focus: Time-Evolution & Real-Time Boost Kinematics
 
 ## R5: Invariant Mass and the Relativistic Geometry of Particle Collisions
 
-Primary Focus: Geometric & structural frame behavior.
+Deliverables: https://payhip.com/b/tMsC7
 
 [![YouTube Video njB3-DrbUtM](https://utfs.io/f/nGnSqDveMsqxQPfS2i14ptfEy6lsGQgRBWMrJ9KFkU2edTLZ)](https://www.youtube.com/watch?v=noUV1eHLAxg)
 
+### Podcast: Why Smashing Atoms is Harder Than You Think: 4 Counter-Intuitive Truths of Relativistic Physics
+
+[![YouTube Video MeJj4fiX3D8](https://img.youtube.com/vi/MeJj4fiX3D8/maxresdefault.jpg)](https://www.youtube.com/watch?v=MeJj4fiX3D8)
+
 ---
 
-### Relativistic Particle Collision Simulator
-
-Primary Focus: Quantitative mechanics & decay tracking
+### SPA: Relativistic Particle Collision Simulator
 
 [![YouTube Video M_Z4Mah-qIY](https://img.youtube.com/vi/M_Z4Mah-qIY/maxresdefault.jpg)](https://www.youtube.com/watch?v=M_Z4Mah-qIY)
 
@@ -98,15 +102,17 @@ Primary Focus: Quantitative mechanics & decay tracking
 
 ## R6: Non-Linear Dynamics of Successive Lorentz Boosts
 
-Primary Focus: Observational motion and geometric trajectory behavior.
+Deliverables: https://payhip.com/b/mvuxb
 
 [![YouTube Video qm1UyULvVsM](https://img.youtube.com/vi/qm1UyULvVsM/maxresdefault.jpg)](https://www.youtube.com/watch?v=qm1UyULvVsM)
 
+### Podcast: Why Moving Sideways at the Speed of Light Makes You Drift Forward: 4 Mind-Bending Realities of Relativistic Motion
+
+[![YouTube Video BLYCGjBy8OE](https://img.youtube.com/vi/BLYCGjBy8OE/maxresdefault.jpg)](https://www.youtube.com/watch?v=BLYCGjBy8OE)
+
 ---
 
-### Relativistic Successive Lorentz Boosts Visualizer
-
-Primary Focus: Formal geometric mechanics and kinematic principles.
+### SPA: Relativistic Successive Lorentz Boosts Visualizer
 
 [![YouTube Video o3Cd50qF0qI](https://img.youtube.com/vi/o3Cd50qF0qI/maxresdefault.jpg)](https://www.youtube.com/watch?v=o3Cd50qF0qI)
 
