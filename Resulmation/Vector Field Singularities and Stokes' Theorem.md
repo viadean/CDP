@@ -120,15 +120,17 @@ Deliverables: https://payhip.com/b/mvuxb
 
 ## R7: Continuity of Hyperbolic Geometry in Boundary Modelling
 
-Primary Focus: Conceptual advantages of curvilinear coordinates over Cartesian grids
+Deliverables : https://payhip.com/b/FICQv
 
 [![YouTube Video qrAR_20dWkk](https://img.youtube.com/vi/qrAR_20dWkk/maxresdefault.jpg)](https://www.youtube.com/watch?v=qrAR_20dWkk)
 
+### Podcast: Why Your Geometry is Breaking Your Math: Hyperbolic Coordinate Modeling
+
+
+
 ---
 
-### Hyperbolic Coordinates Slit Boundary Visualization
-
-Primary Focus: Real-time computational architecture, simulation modalities, and field metrics.
+### SPA: Hyperbolic Coordinates Slit Boundary Visualization
 
 [![YouTube Video yLVORhfj400](https://img.youtube.com/vi/yLVORhfj400/maxresdefault.jpg)](https://www.youtube.com/watch?v=yLVORhfj400)
 
@@ -136,15 +138,17 @@ Primary Focus: Real-time computational architecture, simulation modalities, and 
 
 ## R8: The Geometry of Wave Diffraction through Coordinate Transformation
 
-Primary Focus: Mathematical & Computational Implementation.
+Deliverables: https://payhip.com/b/mdsRM
 
 [![YouTube Video 736Pe3KKd18](https://img.youtube.com/vi/736Pe3KKd18/maxresdefault.jpg)](https://www.youtube.com/watch?v=736Pe3KKd18)
 
+### Podcast: The Math Trick That Solved Wave Physics: How Geometric Shortcuts Replaced Heavy Physics Engines
+
+[![YouTube Video h1U9iFk6tgg](https://img.youtube.com/vi/h1U9iFk6tgg/maxresdefault.jpg)](https://www.youtube.com/watch?v=h1U9iFk6tgg)
+
 ---
 
-### Elliptic-Hyperbolic Wave Diffraction Simulator
-
-Primary Focus: Physical Mechanics & Field Dynamics.
+### SPA: Elliptic-Hyperbolic Wave Diffraction Simulator
 
 [![YouTube Video 0RGeBX69MsQ](https://img.youtube.com/vi/0RGeBX69MsQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=0RGeBX69MsQ)
 
@@ -152,15 +156,17 @@ Primary Focus: Physical Mechanics & Field Dynamics.
 
 ## R9: Geometric Continuity in Fracture Mechanics and Stress Analysis
 
-Primary Focus: Mathematical and Computational Framework.
+Deliverables: https://payhip.com/b/BUh05
 
 [![YouTube Video Ilmw3NRO_m0](https://img.youtube.com/vi/Ilmw3NRO_m0/maxresdefault.jpg)](https://www.youtube.com/watch?v=Ilmw3NRO_m0)
 
+### Podcast: Why Structures Don't Snap: Truths About How Materials Handle Cracks
+
+[![YouTube Video aKBxMpwlU5Y](https://img.youtube.com/vi/aKBxMpwlU5Y/maxresdefault.jpg)](https://www.youtube.com/watch?v=aKBxMpwlU5Y)
+
 ---
 
-### Elliptic-Hyperbolic Fracture Mechanics Simulator
-
-Primary Focus: Physics Mechanics and Failure Dynamics
+### SPA: Elliptic-Hyperbolic Fracture Mechanics Simulator
 
 [![YouTube Video rIa9mSCjpcY](https://img.youtube.com/vi/rIa9mSCjpcY/maxresdefault.jpg)](https://www.youtube.com/watch?v=rIa9mSCjpcY)
 
