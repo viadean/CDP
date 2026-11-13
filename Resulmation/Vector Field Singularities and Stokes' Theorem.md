@@ -174,9 +174,13 @@ Deliverables: https://payhip.com/b/BUh05
 
 ## R10: The Elegance of Hyperbolic Coordinate Systems
 
-Primary Focus: Leveraging Hyperbolic Coordinates
+Deliverables: https://payhip.com/b/dRxQ4
 
 [![YouTube Video y8GaSkTceXw](https://img.youtube.com/vi/y8GaSkTceXw/maxresdefault.jpg)](https://www.youtube.com/watch?v=y8GaSkTceXw)
+
+### Podcast: Why Square Grids Fail: The Unexpected Elegance of Hyperbolic Coordinates in Modern Physics
+
+[![YouTube Video P6Cnjpy53io](https://img.youtube.com/vi/P6Cnjpy53io/maxresdefault.jpg)](https://www.youtube.com/watch?v=P6Cnjpy53io)
 
 ---
 
@@ -190,15 +194,17 @@ Primary Focus: Deploying Conformal Mapping Frameworks
 
 ## R11: The Rindler Horizon and the Mechanics of Constant Acceleration
 
-Primary Focus: Demonstrates the "photon chase" through visual proofs and relative speeds
+Deliverables: https://payhip.com/b/GfTA9
 
 [![YouTube Video Qq-QgPGkHcQ](https://img.youtube.com/vi/Qq-QgPGkHcQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=Qq-QgPGkHcQ)
 
+### Podcast: The Artificial Horizon: How Constant Acceleration Splits Spacetime
+
+[![YouTube Video 1qhce9OTRbQ](https://img.youtube.com/vi/1qhce9OTRbQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=1qhce9OTRbQ)
+
 ---
 
-### Rindler Coordinates & Spacetime Horizon Simulator
-
-Primary Focus: Details the mechanics of the Rindler Horizon, coordinate dilation, and permanent causal disconnection.
+### SPA: Rindler Coordinates & Spacetime Horizon Simulator
 
 [![YouTube Video z7h1KzMJb9c](https://img.youtube.com/vi/z7h1KzMJb9c/maxresdefault.jpg)](https://www.youtube.com/watch?v=z7h1KzMJb9c)
 
