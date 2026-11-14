@@ -212,15 +212,17 @@ Deliverables: https://payhip.com/b/GfTA9
 
 ## R12: Electromagnetic Propagation and Mathieu Functions in Elliptical Waveguides
 
-Primary Focus: Uses elliptic-hyperbolic coordinates to resolve geometry, separating the Helmholtz wave equation into angular and radial Mathieu equations
+Deliverables: https://payhip.com/b/Zy7kT
 
 [![YouTube Video O56X2Gctl30](https://img.youtube.com/vi/O56X2Gctl30/maxresdefault.jpg)](https://www.youtube.com/watch?v=O56X2Gctl30)
 
+### Podcast: The Geometry Trap: How Squishing a Waveguide Forced Physicists to Invent Better Math
+
+[![YouTube Video OLCk4XffINc](https://img.youtube.com/vi/OLCk4XffINc/maxresdefault.jpg)](https://www.youtube.com/watch?v=OLCk4XffINc)
+
 ---
 
-### Elliptical Waveguide Mode Simulation
-
-Primary Focus: Relies on elliptic-hyperbolic spatial transformation to define boundaries and support Mathieu function profiles.
+### SPA: Elliptical Waveguide Mode Simulation
 
 [![YouTube Video _NejMVCL7WQ](https://img.youtube.com/vi/_NejMVCL7WQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=_NejMVCL7WQ)
 

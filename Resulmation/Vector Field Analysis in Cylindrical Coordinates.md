@@ -8,12 +8,6 @@ https://payhip.com/b/iyRgp
 
 https://payhip.com/CDP
 
-## Animated Results
-
-[TOC]
-
----
-
 ### R1: Computational Verification of Kelvin’s Circulation Theorem
 
 [![YouTube Video B735Vj4xl5E](https://utfs.io/f/nGnSqDveMsqx2iTDYCQewnDuhKNe1WpxrXlUaJzd4S7jQcHb)](https://www.youtube.com/watch?v=B735Vj4xl5E)
