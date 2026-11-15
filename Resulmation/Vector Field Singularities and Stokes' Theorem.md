@@ -220,6 +220,10 @@ Deliverables: https://payhip.com/b/Zy7kT
 
 [![YouTube Video OLCk4XffINc](https://img.youtube.com/vi/OLCk4XffINc/maxresdefault.jpg)](https://www.youtube.com/watch?v=OLCk4XffINc)
 
+#### SPA: Elliptical Waveguide Modes & Coordinate Space Simulator
+
+[![YouTube Video b-zQIWh5lfE](https://img.youtube.com/vi/b-zQIWh5lfE/maxresdefault.jpg)](https://www.youtube.com/watch?v=b-zQIWh5lfE)
+
 ---
 
 ### SPA: Elliptical Waveguide Mode Simulation
@@ -230,9 +234,13 @@ Deliverables: https://payhip.com/b/Zy7kT
 
 ## R13: Thermal Horizons and the Relativity of the Vacuum
 
-Primary Focus: Theoretical Physical Mechanics & Equivalence Principles
+Deliverables: https://payhip.com/b/1qZTd
 
 [![YouTube Video pWhdzEsiRVk](https://img.youtube.com/vi/pWhdzEsiRVk/maxresdefault.jpg)](https://www.youtube.com/watch?v=pWhdzEsiRVk)
+
+### Podcast: Empty Space Isn't Empty: Insights on the Quantum Vacuum and Black Holes
+
+[![YouTube Video 2h3ShCOMuhc](https://img.youtube.com/vi/2h3ShCOMuhc/maxresdefault.jpg)](https://www.youtube.com/watch?v=2h3ShCOMuhc)
 
 ---
 
