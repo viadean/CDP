@@ -254,15 +254,17 @@ Primary Focus: Quantum Field Theory & Vacuum State Relativity.
 
 ## R14: Hyperbolic Dynamics and the Evolution of Open Cosmologies
 
-Primary Focus: Broader Evolutionary and Interdisciplinary Scope of an Open Universe
+Deliverables: https://payhip.com/b/imqGg
 
 [![YouTube Video cqQxKyGF7Ww](https://img.youtube.com/vi/cqQxKyGF7Ww/maxresdefault.jpg)](https://www.youtube.com/watch?v=cqQxKyGF7Ww)
 
+### Podcast: Realities of Open Cosmologies and Hyperbolic Space
+
+[![YouTube Video GHXyQhZGzD4](https://img.youtube.com/vi/GHXyQhZGzD4/maxresdefault.jpg)](https://www.youtube.com/watch?v=GHXyQhZGzD4)
+
 ---
 
-### Cosmic Hyperbolic Dynamics Dashboard
-
-Primary Focus: Immediate Simulation Mechanics and Spatial-Metric Infrastructure.
+### SPA: Cosmic Hyperbolic Dynamics Dashboard
 
 [![YouTube Video NM6e9Cl34rU](https://img.youtube.com/vi/NM6e9Cl34rU/maxresdefault.jpg)](https://www.youtube.com/watch?v=NM6e9Cl34rU)
 
