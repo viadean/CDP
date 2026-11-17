@@ -288,6 +288,18 @@ Deliverables: https://payhip.com/b/imqGg
 
 ---
 
+[![YouTube Video 95jsaT_gKMk](https://img.youtube.com/vi/95jsaT_gKMk/maxresdefault.jpg)](https://www.youtube.com/watch?v=95jsaT_gKMk)
+
+---
+
+[![YouTube Video 8Hb6HlyV2Ts](https://img.youtube.com/vi/8Hb6HlyV2Ts/maxresdefault.jpg)](https://www.youtube.com/watch?v=8Hb6HlyV2Ts)
+
+---
+
+[![YouTube Video VJ-XFLbaGK4](https://img.youtube.com/vi/VJ-XFLbaGK4/maxresdefault.jpg)](https://www.youtube.com/watch?v=VJ-XFLbaGK4)
+
+---
+
 ### SPA: Cosmic Hyperbolic Dynamics Dashboard
 
 [![YouTube Video NM6e9Cl34rU](https://img.youtube.com/vi/NM6e9Cl34rU/maxresdefault.jpg)](https://www.youtube.com/watch?v=NM6e9Cl34rU)
